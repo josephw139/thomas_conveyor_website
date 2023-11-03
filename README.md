@@ -16,7 +16,7 @@ CSS is applied to make the images rounded.
 
 Blog posts are in 2022 > 06 & 07. The blog's image is right below the comment ```<!-- BLOG IMAGE HERE -->```, usually on line 285
 
-On the blog page, each image is inside the <div> with the class ```class="eael-entry-media"```
+On the blog page, each image is inside the ```<div>``` with the class ```class="eael-entry-media"```
 
 ## How To
 
