@@ -1,0 +1,8 @@
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+
+Sitemap: https://tc.dev2.barn3s.com/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK
