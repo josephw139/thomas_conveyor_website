@@ -50,11 +50,6 @@ Text Domain: cl-elementor
 	border-radius: 30px;
 }
 
-/* doesnt work for some reason */
-.contact-form ::placeholder 
-   color: gray;
-}
-
 .contact-form select {
 	-webkit-appearance: none;
   	-moz-appearance: none;
