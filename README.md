@@ -22,7 +22,8 @@ On the blog page, each image is inside the ```<div>``` with the class ```class="
 
 ### Change Styles
 
-
+* Style.css - wp-content/themes/catchylabs-elementor-theme/style.css
+* Theme.css - wp-content/themes/catchylabs-elementor-theme/admin/elementor/assets/css/theme.css
 
 ### Create a new blog post
 * individual blog posts are currently categorized in year > month folder structure. Duplicate a blog post, go to the ```<main>``` tag to replace text & images appropriately.
