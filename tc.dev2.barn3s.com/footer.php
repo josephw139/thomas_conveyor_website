@@ -106,7 +106,7 @@
 										<div class="elementor-element elementor-element-66bbbaa elementor-widget elementor-widget-image" data-id="66bbbaa" data-element_type="widget" data-widget_type="image.default">
 											<div class="elementor-widget-container">
 												<a href="https://cemanet.org/" target="_blank" rel="nofollow">
-													<img style="width: 115px;" width="800" height="398" src="wp-content/uploads/2023/07/Image-3.svg" class="attachment-large size-large wp-image-33" alt="" loading="lazy" />
+													<img style="width: 115px;" width="800" height="398" src="https://tc.dev2.barn3s.com/beta/wp-content/uploads/2023/07/Image-3.svg" class="attachment-large size-large wp-image-33" alt="" loading="lazy" />
 												</a>
 											</div>
 										</div>

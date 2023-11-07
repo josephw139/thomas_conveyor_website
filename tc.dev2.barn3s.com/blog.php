@@ -13,7 +13,7 @@
     <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
 
 	<!-- This site is optimized with the Yoast SEO plugin v20.11 - https://yoast.com/wordpress/plugins/seo/ -->
-	<link rel="canonical" href="index.html" />
+	<link rel="canonical" href="/blog.php" />
 	<meta property="og:locale" content="en_US" />
 	<meta property="og:type" content="article" />
 	<meta property="og:title" content="Blog - Thomas Conveyor &amp; Equipment" />
@@ -123,7 +123,7 @@ img.emoji {
 <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin><script type='text/javascript' src='https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js?ver=6.3.2' id='jquery-js'></script>
 <link rel="https://api.w.org/" href="./wp-json/index.json" /><link rel="alternate" type="application/json" href="./wp-json/wp/v2/pages/1026.json" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="./xmlrpc.php%EF%B9%96rsd.xml" />
 <meta name="generator" content="WordPress 6.3.2" />
-<link rel='shortlink' href='index.html' />
+<link rel='shortlink' href='/blog.php' />
 <link rel="alternate" type="application/json+oembed" href="./wp-json/oembed/1.0/embed%EF%B9%96url=https%EF%B9%95%EA%A4%B7%EA%A4%B7tc.dev2.barn3s.com%EA%A4%B7blog%EA%A4%B7.json" />
 <link rel="alternate" type="text/xml+oembed" href="./wp-json/oembed/1.0/embed%EF%B9%96url=https%EF%B9%95%EA%A4%B7%EA%A4%B7tc.dev2.barn3s.com%EA%A4%B7blog%EA%A4%B7&amp;format=xml.xml" />
 <meta name="generator" content="Elementor 3.14.1; features: e_dom_optimization, e_optimized_assets_loading, e_optimized_css_loading, a11y_improvements, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-swap">
@@ -160,7 +160,8 @@ img.emoji {
 --wpforms-button-size-margin-top: 10px;
 
 				}
-			</style></head>
+			</style>
+            </head>
 <body class="page-template-default page page-id-1026 elementor-default elementor-kit-5 elementor-page elementor-page-1026">
 	
 	<a class="screen-reader-text" href="#main">Skip to content</a>
@@ -169,193 +170,335 @@ img.emoji {
 
 <main class="site-main post-1026 page type-page status-publish hentry" role="main" id="main">
 	<div class="page-content">
-				<div data-elementor-type="wp-page" data-elementor-id="1026" class="elementor elementor-1026">
-									<section class="elementor-section elementor-top-section elementor-element elementor-element-a7f2379 elementor-section-height-min-height elementor-section-items-bottom elementor-section-boxed elementor-section-height-default" data-id="a7f2379" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;shape_divider_bottom&quot;:&quot;tilt&quot;}">
-					<div class="elementor-shape elementor-shape-bottom" data-negative="false">
-			<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 100" preserveAspectRatio="none">
-	<path class="elementor-shape-fill" d="M0,6V0h1000v100L0,6z"/>
-</svg>		</div>
-					<div class="elementor-container elementor-column-gap-no">
+		<div data-elementor-type="wp-page" data-elementor-id="1026" class="elementor elementor-1026">
+			<section class="elementor-section elementor-top-section elementor-element elementor-element-a7f2379 elementor-section-height-min-height elementor-section-items-bottom elementor-section-boxed elementor-section-height-default" data-id="a7f2379" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;shape_divider_bottom&quot;:&quot;tilt&quot;}">
+				<div class="elementor-shape elementor-shape-bottom" data-negative="false">
+			        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 100" preserveAspectRatio="none">
+                        <path class="elementor-shape-fill" d="M0,6V0h1000v100L0,6z"/>
+                    </svg>
+                </div>
+				<div class="elementor-container elementor-column-gap-no">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-85a7e54" data-id="85a7e54" data-element_type="column">
-			<div class="elementor-widget-wrap">
-									</div>
-		</div>
-							</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-142787b elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="142787b" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
+			            <div class="elementor-widget-wrap"></div>
+		            </div>
+				</div>
+		    </section>
+			<section class="elementor-section elementor-top-section elementor-element elementor-element-142787b elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="142787b" data-element_type="section">
+				<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-a69c0a4" data-id="a69c0a4" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-eac298b elementor-widget elementor-widget-heading" data-id="eac298b" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<style>/*! elementor - v3.14.0 - 26-06-2023 */
-.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><h1 class="elementor-heading-title elementor-size-default">Blog</h1>		</div>
+			            <div class="elementor-widget-wrap elementor-element-populated">
+							<div class="elementor-element elementor-element-eac298b elementor-widget elementor-widget-heading" data-id="eac298b" data-element_type="widget" data-widget_type="heading.default">
+				                <div class="elementor-widget-container">
+			                        <style>/*! elementor - v3.14.0 - 26-06-2023 */
+                                        .elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style>
+                                    <h1 class="elementor-heading-title elementor-size-default">Blog</h1>
+                                </div>
+                            </div>
+				            <div class="elementor-element elementor-element-1cf8aaa elementor-widget elementor-widget-text-editor" data-id="1cf8aaa" data-element_type="widget" data-widget_type="text-editor.default">
+				                <div class="elementor-widget-container">
+                                    <style>/*! elementor - v3.14.0 - 26-06-2023 */
+                                    .elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#69727d;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#69727d;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>
+                                    <p style="font-size: 1.1rem;"><a href="./index.php">Home</a> » <a href="#">Blog</a></p>
+                                </div>
+				            </div>
+					    </div>
+		            </div>
 				</div>
-				<div class="elementor-element elementor-element-1cf8aaa elementor-widget elementor-widget-text-editor" data-id="1cf8aaa" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-			<style>/*! elementor - v3.14.0 - 26-06-2023 */
-.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#69727d;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#69727d;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p style="font-size: 1.1rem;"><a href="./index.php">Home</a> » <a href="#">Blog</a></p>						</div>
-				</div>
-					</div>
-		</div>
-							</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-920008d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="920008d" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
+		    </section>
+			<section class="elementor-section elementor-top-section elementor-element elementor-element-920008d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="920008d" data-element_type="section">
+				<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-067c60b" data-id="067c60b" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-021f676 elementor-grid-eael-col-1 elementor-grid-tablet-eael-col-2 elementor-grid-mobile-eael-col-1 elementor-widget elementor-widget-eael-post-grid" data-id="021f676" data-element_type="widget" data-settings="{&quot;eael_post_grid_columns&quot;:&quot;eael-col-1&quot;,&quot;eael_post_grid_columns_tablet&quot;:&quot;eael-col-2&quot;,&quot;eael_post_grid_columns_mobile&quot;:&quot;eael-col-1&quot;}" data-widget_type="eael-post-grid.default">
-				<div class="elementor-widget-container">
-			<div id="eael-post-grid-021f676" class="eael-post-grid-container">
-            <div class="eael-post-grid eael-post-appender eael-post-appender-021f676 eael-post-grid-style-default" data-layout-mode="grid">
-	<article class="eael-grid-post eael-post-grid-column" data-id="1">
-        <div class="eael-grid-post-holder">
-            <div class="eael-grid-post-holder-inner"><div class="eael-entry-media"><div class="eael-entry-overlay none"><i class="" aria-hidden="true"></i><a href="./2022/07/21/safety-options-features/index.html"></a></div><div class="eael-entry-thumbnail ">
-                <img fetchpriority="high" width="400" height="400" src="./wp-content/uploads/2023/07/Safety-Options-Features.jpg" class="attachment-full size-full wp-image-1075" alt="" decoding="async" srcset="./wp-content/uploads/2023/07/Safety-Options-Features.jpg 400w, ./wp-content/uploads/2023/07/Safety-Options-Features-300x300.jpg 300w, ./wp-content/uploads/2023/07/Safety-Options-Features-150x150.jpg 150w" sizes="(max-width: 400px) 100vw, 400px" />
-            </div>
-        </div><div class="eael-entry-wrapper"><header class="eael-entry-header"><h3 class="eael-entry-title"><a
-                        class="eael-grid-post-link"
-                        href="./2022/07/21/safety-options-features/index.html"
-                        title="Safety Options &#038; Features">Safety Options &#038; Features</a></h3></header><div class="eael-entry-content">
-                        <div class="eael-grid-post-excerpt"><p>Learn more about the safety features & options<br> associated with Thomas’ bucket elevator product line.</p><a
-                            href="./2022/07/21/safety-options-features/index.html"
-                            class="eael-post-elements-readmore-btn">READ</a></div>
-                    </div></div></div>
+			            <div class="elementor-widget-wrap elementor-element-populated">
+							<div class="elementor-element elementor-element-021f676 elementor-grid-eael-col-1 elementor-grid-tablet-eael-col-2 elementor-grid-mobile-eael-col-1 elementor-widget elementor-widget-eael-post-grid" data-id="021f676" data-element_type="widget" data-settings="{&quot;eael_post_grid_columns&quot;:&quot;eael-col-1&quot;,&quot;eael_post_grid_columns_tablet&quot;:&quot;eael-col-2&quot;,&quot;eael_post_grid_columns_mobile&quot;:&quot;eael-col-1&quot;}" data-widget_type="eael-post-grid.default">
+				                <div class="elementor-widget-container">
+			                        <div id="eael-post-grid-021f676" class="eael-post-grid-container">
+                                        <div class="eael-post-grid eael-post-appender eael-post-appender-021f676 eael-post-grid-style-default" data-layout-mode="grid">
+                                            <article class="eael-grid-post eael-post-grid-column" data-id="1">
+                                                <div class="eael-grid-post-holder">
+                                                    <div class="eael-grid-post-holder-inner">
+                                                        <div class="eael-entry-media">
+                                                            <div class="eael-entry-overlay none"><i class="" aria-hidden="true"></i>
+                                                                <a href="./blog/safety-options-features.php"></a>
+                                                            </div>
+                                                            <div class="eael-entry-thumbnail ">
+                                                                <img fetchpriority="high" width="400" height="400" src="./wp-content/uploads/2023/07/Safety-Options-Features.jpg" class="attachment-full size-full wp-image-1075" alt="" decoding="async" srcset="./wp-content/uploads/2023/07/Safety-Options-Features.jpg 400w, ./wp-content/uploads/2023/07/Safety-Options-Features-300x300.jpg 300w, ./wp-content/uploads/2023/07/Safety-Options-Features-150x150.jpg 150w" sizes="(max-width: 400px) 100vw, 400px" />
+                                                            </div>
+                                                        </div>
+                                                        <div class="eael-entry-wrapper">
+                                                            <header class="eael-entry-header">
+                                                                <h3 class="eael-entry-title">
+                                                                    <a class="eael-grid-post-link"
+                                                                        href="./blog/safety-options-features.php"
+                                                                        title="Safety Options &#038; Features">Safety Options &#038; Features
+                                                                    </a>
+                                                                </h3>
+                                                            </header>
+                                                            <div class="eael-entry-content">
+                                                                <div class="eael-grid-post-excerpt"><p>Learn more about the safety features & options<br> associated with Thomas’ bucket elevator product line.</p>
+                                                                    <a href="./blog/safety-options-features.php"
+                                                                        class="eael-post-elements-readmore-btn">READ
+                                                                    </a>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </article>
+                                            <article class="eael-grid-post eael-post-grid-column" data-id="1264">
+                                                <div class="eael-grid-post-holder">
+                                                    <div class="eael-grid-post-holder-inner">
+                                                        <div class="eael-entry-media">
+                                                            <div class="eael-entry-overlay none">
+                                                                <i class="" aria-hidden="true"></i>
+                                                                <a href="./blog/super-capacity-elevators.php"></a>
+                                                            </div>
+                                                            <div class="eael-entry-thumbnail ">
+                                                                <img width="400" height="400" src="./wp-content/uploads/2023/06/default-gray.jpg" class="attachment-full size-full wp-image-1143" alt="" decoding="async" srcset="./wp-content/uploads/2023/06/default-gray.jpg 400w, ./wp-content/uploads/2023/06/default-gray-300x300.jpg 300w, ./wp-content/uploads/2023/06/default-gray-150x150.jpg 150w" sizes="(max-width: 400px) 100vw, 400px" />
+                                                            </div>
+                                                        </div>
+                                                        <div class="eael-entry-wrapper">
+                                                            <header class="eael-entry-header">
+                                                                <h3 class="eael-entry-title">
+                                                                    <a class="eael-grid-post-link"
+                                                                        href="./blog/super-capacity-elevators.php"
+                                                                        title="Super Capacity Elevators">Super Capacity Elevators
+                                                                    </a>
+                                                                </h3>
+                                                            </header>
+                                                            <div class="eael-entry-content">
+                                                                <div class="eael-grid-post-excerpt">
+                                                                    <p>Super capacity elevators are continuous style elevators that are designed to move larger capacities compared to our standard continuous model. Along with the increased rate these elevators are made with heavy duty components including the buckets, chain, bearings, & housing.</p>
+                                                                    <a href="./blog/super-capacity-elevators.php"
+                                                                        class="eael-post-elements-readmore-btn">READ
+                                                                    </a>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </article>
+                                            <article class="eael-grid-post eael-post-grid-column" data-id="1269">
+                                                <div class="eael-grid-post-holder">
+                                                    <div class="eael-grid-post-holder-inner">
+                                                        <div class="eael-entry-media">
+                                                            <div class="eael-entry-overlay none">
+                                                                <i class="" aria-hidden="true"></i>
+                                                                <a href="./blog/mill-duty-elevators.php"></a>
+                                                            </div>
+                                                            <div class="eael-entry-thumbnail ">
+                                                                <img width="400" height="400" src="./wp-content/uploads/2023/06/default-gray.jpg" class="attachment-full size-full wp-image-1143" alt="" decoding="async" srcset="./wp-content/uploads/2023/06/default-gray.jpg 400w, ./wp-content/uploads/2023/06/default-gray-300x300.jpg 300w, ./wp-content/uploads/2023/06/default-gray-150x150.jpg 150w" sizes="(max-width: 400px) 100vw, 400px" />
+                                                            </div>
+                                                        </div>
+                                                        <div class="eael-entry-wrapper">
+                                                            <header class="eael-entry-header">
+                                                                <h3 class="eael-entry-title">
+                                                                    <a class="eael-grid-post-link"
+                                                                        href="./blog/mill-duty-elevators.php"
+                                                                        title="Mill Duty Elevators">Mill Duty Elevators
+                                                                    </a>
+                                                                </h3>
+                                                            </header>
+                                                            <div class="eael-entry-content">
+                                                                <div class="eael-grid-post-excerpt">
+                                                                    <p>Our mill duty product line is based on a centrifugal style design. Due to the rough industrial environments that these elevators are used in our design offers heavy duty construction including buckets, belt, chain, bearings, & casing.</p>
+                                                                    <a href="./blog/mill-duty-elevators.php"
+                                                                        class="eael-post-elements-readmore-btn">READ
+                                                                    </a>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </article>
+                                            <article class="eael-grid-post eael-post-grid-column" data-id="1272">
+                                                <div class="eael-grid-post-holder">
+                                                    <div class="eael-grid-post-holder-inner">
+                                                        <div class="eael-entry-media">
+                                                            <div class="eael-entry-overlay none">
+                                                                <i class="" aria-hidden="true"></i>
+                                                                <a href="./blog/highspeed-grain-elevators.php"></a>
+                                                            </div>
+                                                            <div class="eael-entry-thumbnail ">
+                                                                <img width="400" height="400" src="./wp-content/uploads/2023/06/default-gray.jpg" class="attachment-full size-full wp-image-1143" alt="" decoding="async" srcset="./wp-content/uploads/2023/06/default-gray.jpg 400w, ./wp-content/uploads/2023/06/default-gray-300x300.jpg 300w, ./wp-content/uploads/2023/06/default-gray-150x150.jpg 150w" sizes="(max-width: 400px) 100vw, 400px" />
+                                                            </div>
+                                                        </div>
+                                                        <div class="eael-entry-wrapper">
+                                                            <header class="eael-entry-header">
+                                                                <h3 class="eael-entry-title">
+                                                                    <a class="eael-grid-post-link"
+                                                                        href="./blog/highspeed-grain-elevators.php"
+                                                                        title="Highspeed Grain Elevators">Highspeed Grain Elevators
+                                                                    </a>
+                                                                </h3>
+                                                            </header>
+                                                            <div class="eael-entry-content">
+                                                                <div class="eael-grid-post-excerpt">
+                                                                    <p>Highspeed grain elevators are a type of centrifugal elevator. This model operates at even higher speeds than the standard centrifugal line.</p>
+                                                                    <a
+                                                                        href="./blog/highspeed-grain-elevators.php"
+                                                                        class="eael-post-elements-readmore-btn">READ
+                                                                    </a>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </article>
+                                            <article class="eael-grid-post eael-post-grid-column" data-id="1275">
+                                                <div class="eael-grid-post-holder">
+                                                    <div class="eael-grid-post-holder-inner">
+                                                        <div class="eael-entry-media">
+                                                            <div class="eael-entry-overlay none">
+                                                                <i class="" aria-hidden="true"></i>
+                                                                <a href="./blog/centrifugal-elevators.php"></a>
+                                                            </div>
+                                                            <div class="eael-entry-thumbnail ">
+                                                                <img width="400" height="400" src="./wp-content/uploads/2023/06/default-gray.jpg" class="attachment-full size-full wp-image-1143" alt="" decoding="async" srcset="./wp-content/uploads/2023/06/default-gray.jpg 400w, ./wp-content/uploads/2023/06/default-gray-300x300.jpg 300w, ./wp-content/uploads/2023/06/default-gray-150x150.jpg 150w" sizes="(max-width: 400px) 100vw, 400px" />
+                                                            </div>
+                                                        </div>
+                                                        <div class="eael-entry-wrapper">
+                                                            <header class="eael-entry-header">
+                                                                <h3 class="eael-entry-title">
+                                                                    <a class="eael-grid-post-link"
+                                                                        href="./blog/centrifugal-elevators.php"
+                                                                        title="Centrifugal Elevators">Centrifugal Elevators
+                                                                    </a>
+                                                                </h3>
+                                                            </header>
+                                                            <div class="eael-entry-content">
+                                                                <div class="eael-grid-post-excerpt">
+                                                                    <p>Centrifugal elevators operate at high speeds & use centrifugal motion to “throw” material out of the buckets as they come around the head pulley or sprocket.</p>
+                                                                    <a href="./blog/centrifugal-elevators.php"
+                                                                        class="eael-post-elements-readmore-btn">READ
+                                                                    </a>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </article>
+                                            <article class="eael-grid-post eael-post-grid-column" data-id="1278">
+                                                <div class="eael-grid-post-holder">
+                                                    <div class="eael-grid-post-holder-inner">
+                                                        <div class="eael-entry-media">
+                                                            <div class="eael-entry-overlay none">
+                                                                <i class="" aria-hidden="true"></i>
+                                                                <a href="./blog/continuous-elevators.php"></a>
+                                                            </div>
+                                                            <div class="eael-entry-thumbnail ">
+                                                                <img width="400" height="400" src="./wp-content/uploads/2023/06/default-gray.jpg" class="attachment-full size-full wp-image-1143" alt="" decoding="async" srcset="./wp-content/uploads/2023/06/default-gray.jpg 400w, ./wp-content/uploads/2023/06/default-gray-300x300.jpg 300w, ./wp-content/uploads/2023/06/default-gray-150x150.jpg 150w" sizes="(max-width: 400px) 100vw, 400px" />
+                                                            </div>
+                                                        </div>
+                                                        <div class="eael-entry-wrapper">
+                                                            <header class="eael-entry-header">
+                                                                <h3 class="eael-entry-title">
+                                                                    <a class="eael-grid-post-link"
+                                                                        href="./blog/continuous-elevators.php"
+                                                                        title="Continuous Elevators">Continuous Elevators
+                                                                    </a>
+                                                                </h3>
+                                                            </header>
+                                                            <div class="eael-entry-content">
+                                                                <div class="eael-grid-post-excerpt">
+                                                                    <p>Continuous elevators primarily differentiate themselves from centrifugal elevators in two ways. They have a unique bucket geometry and they operate a lower speeds using gravity to discharge the buckets.</p>
+                                                                    <a href="./blog/continuous-elevators.php"
+                                                                        class="eael-post-elements-readmore-btn">READ
+                                                                    </a>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </article>
+                                            <article class="eael-grid-post eael-post-grid-column" data-id="1031">
+                                                <div class="eael-grid-post-holder">
+                                                    <div class="eael-grid-post-holder-inner">
+                                                        <div class="eael-entry-media">
+                                                            <div class="eael-entry-overlay none">
+                                                                <i class="" aria-hidden="true"></i>
+                                                                <a href="./blog/general-bucket-elevator-options-features.php"></a>
+                                                            </div>
+                                                            <div class="eael-entry-thumbnail ">
+                                                                <img width="400" height="400" src="./wp-content/uploads/2023/06/default-gray.jpg" class="attachment-full size-full wp-image-1143" alt="" decoding="async" srcset="./wp-content/uploads/2023/06/default-gray.jpg 400w, ./wp-content/uploads/2023/06/default-gray-300x300.jpg 300w, ./wp-content/uploads/2023/06/default-gray-150x150.jpg 150w" sizes="(max-width: 400px) 100vw, 400px" />
+                                                            </div>
+                                                        </div>
+                                                        <div class="eael-entry-wrapper">
+                                                            <header class="eael-entry-header">
+                                                                <h3 class="eael-entry-title">
+                                                                    <a class="eael-grid-post-link"
+                                                                        href="./blog/general-bucket-elevator-options-features.php"
+                                                                        title="General Bucket Elevator Options &#038; Features">General Bucket Elevator Options &#038; Features
+                                                                    </a>
+                                                                </h3>
+                                                            </header>
+                                                            <div class="eael-entry-content">
+                                                                <div class="eael-grid-post-excerpt">
+                                                                    <p>Learn more about general bucket elevator options and features including platforms, split sprockets, take-ups, belt splicing kits and more.</p>
+                                                                    <a href="./blog/general-bucket-elevator-options-features.php"
+                                                                        class="eael-post-elements-readmore-btn">READ
+                                                                    </a>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </article>
+                                            <article class="eael-grid-post eael-post-grid-column" data-id="1282">
+                                                <div class="eael-grid-post-holder">
+                                                    <div class="eael-grid-post-holder-inner">
+                                                        <div class="eael-entry-media">
+                                                            <div class="eael-entry-overlay none">
+                                                                <i class="" aria-hidden="true"></i>
+                                                                <a href="./blog/bucket-elevator-product-line-series.php"></a>
+                                                            </div>
+                                                            <div class="eael-entry-thumbnail ">
+                                                                <img width="400" height="400" src="./wp-content/uploads/2023/10/Bucket-Elevator-Product-Line-Series.png" class="attachment-full size-full wp-image-1283" alt="" decoding="async" srcset="./wp-content/uploads/2023/10/Bucket-Elevator-Product-Line-Series.png 400w, ./wp-content/uploads/2023/10/Bucket-Elevator-Product-Line-Series-300x300.png 300w, ./wp-content/uploads/2023/10/Bucket-Elevator-Product-Line-Series-150x150.png 150w" sizes="(max-width: 400px) 100vw, 400px" />
+                                                            </div>
+                                                        </div>
+                                                        <div class="eael-entry-wrapper">
+                                                            <header class="eael-entry-header">
+                                                                <h3 class="eael-entry-title">
+                                                                    <a class="eael-grid-post-link"
+                                                                        href="./blog/bucket-elevator-product-line-series.php"
+                                                                        title="Bucket Elevator Product Line Series">Bucket Elevator Product Line Series
+                                                                    </a>
+                                                                </h3>
+                                                            </header>
+                                                            <div class="eael-entry-content">
+                                                                <div class="eael-grid-post-excerpt">
+                                                                    <p>In this Bucket Elevator Product Line series we will take an in-depth look at all of our standard models as well as the various options we can incorporate into our elevator product line.</p>
+                                                                    <a href="./blog/bucket-elevator-product-line-series.php"
+                                                                        class="eael-post-elements-readmore-btn">READ
+                                                                    </a>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </article>
+                                        </div>
+                                        <div class="clearfix"></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
         </div>
-    </article>
-	<article class="eael-grid-post eael-post-grid-column" data-id="1264">
-        <div class="eael-grid-post-holder">
-            <div class="eael-grid-post-holder-inner"><div class="eael-entry-media"><div class="eael-entry-overlay none"><i class="" aria-hidden="true"></i><a href="./2022/07/08/super-capacity-elevators/index.html"></a></div><div class="eael-entry-thumbnail ">
-                <img width="400" height="400" src="./wp-content/uploads/2023/06/default-gray.jpg" class="attachment-full size-full wp-image-1143" alt="" decoding="async" srcset="./wp-content/uploads/2023/06/default-gray.jpg 400w, ./wp-content/uploads/2023/06/default-gray-300x300.jpg 300w, ./wp-content/uploads/2023/06/default-gray-150x150.jpg 150w" sizes="(max-width: 400px) 100vw, 400px" />
-            </div>
-        </div><div class="eael-entry-wrapper"><header class="eael-entry-header"><h3 class="eael-entry-title"><a
-                        class="eael-grid-post-link"
-                        href="./2022/07/08/super-capacity-elevators/index.html"
-                        title="Super Capacity Elevators">Super Capacity Elevators</a></h3></header><div class="eael-entry-content">
-                        <div class="eael-grid-post-excerpt"><p>Super capacity elevators are continuous style elevators that are designed to move larger capacities compared to our standard continuous model. Along with the increased rate these elevators are made with heavy duty components including the buckets, chain, bearings, & housing.</p><a
-                            href="./2022/07/08/super-capacity-elevators/index.html"
-                            class="eael-post-elements-readmore-btn">READ</a></div>
-                    </div></div></div>
+        <div class="post-tags">
         </div>
-    </article>
-	<article class="eael-grid-post eael-post-grid-column" data-id="1269">
-        <div class="eael-grid-post-holder">
-            <div class="eael-grid-post-holder-inner"><div class="eael-entry-media"><div class="eael-entry-overlay none"><i class="" aria-hidden="true"></i><a href="./2022/07/01/mill-duty-elevators/index.html"></a></div><div class="eael-entry-thumbnail ">
-                <img width="400" height="400" src="./wp-content/uploads/2023/06/default-gray.jpg" class="attachment-full size-full wp-image-1143" alt="" decoding="async" srcset="./wp-content/uploads/2023/06/default-gray.jpg 400w, ./wp-content/uploads/2023/06/default-gray-300x300.jpg 300w, ./wp-content/uploads/2023/06/default-gray-150x150.jpg 150w" sizes="(max-width: 400px) 100vw, 400px" />
-            </div>
-        </div><div class="eael-entry-wrapper"><header class="eael-entry-header"><h3 class="eael-entry-title"><a
-                        class="eael-grid-post-link"
-                        href="./2022/07/01/mill-duty-elevators/index.html"
-                        title="Mill Duty Elevators">Mill Duty Elevators</a></h3></header><div class="eael-entry-content">
-                        <div class="eael-grid-post-excerpt"><p>Our mill duty product line is based on a centrifugal style design. Due to the rough industrial environments that these elevators are used in our design offers heavy duty construction including buckets, belt, chain, bearings, & casing.</p><a
-                            href="./2022/07/01/mill-duty-elevators/index.html"
-                            class="eael-post-elements-readmore-btn">READ</a></div>
-                    </div></div></div>
-        </div>
-    </article>
-	<article class="eael-grid-post eael-post-grid-column" data-id="1272">
-        <div class="eael-grid-post-holder">
-            <div class="eael-grid-post-holder-inner"><div class="eael-entry-media"><div class="eael-entry-overlay none"><i class="" aria-hidden="true"></i><a href="./2022/06/24/highspeed-grain-elevators/index.html"></a></div><div class="eael-entry-thumbnail ">
-                <img width="400" height="400" src="./wp-content/uploads/2023/06/default-gray.jpg" class="attachment-full size-full wp-image-1143" alt="" decoding="async" srcset="./wp-content/uploads/2023/06/default-gray.jpg 400w, ./wp-content/uploads/2023/06/default-gray-300x300.jpg 300w, ./wp-content/uploads/2023/06/default-gray-150x150.jpg 150w" sizes="(max-width: 400px) 100vw, 400px" />
-            </div>
-        </div><div class="eael-entry-wrapper"><header class="eael-entry-header"><h3 class="eael-entry-title"><a
-                        class="eael-grid-post-link"
-                        href="./2022/06/24/highspeed-grain-elevators/index.html"
-                        title="Highspeed Grain Elevators">Highspeed Grain Elevators</a></h3></header><div class="eael-entry-content">
-                        <div class="eael-grid-post-excerpt"><p>Highspeed grain elevators are a type of centrifugal elevator. This model operates at even higher speeds than the standard centrifugal line.</p><a
-                            href="./2022/06/24/highspeed-grain-elevators/index.html"
-                            class="eael-post-elements-readmore-btn">READ</a></div>
-                    </div></div></div>
-        </div>
-    </article>
-	<article class="eael-grid-post eael-post-grid-column" data-id="1275">
-        <div class="eael-grid-post-holder">
-            <div class="eael-grid-post-holder-inner"><div class="eael-entry-media"><div class="eael-entry-overlay none"><i class="" aria-hidden="true"></i><a href="./2022/06/15/centrifugal-elevators/index.html"></a></div><div class="eael-entry-thumbnail ">
-                <img width="400" height="400" src="./wp-content/uploads/2023/06/default-gray.jpg" class="attachment-full size-full wp-image-1143" alt="" decoding="async" srcset="./wp-content/uploads/2023/06/default-gray.jpg 400w, ./wp-content/uploads/2023/06/default-gray-300x300.jpg 300w, ./wp-content/uploads/2023/06/default-gray-150x150.jpg 150w" sizes="(max-width: 400px) 100vw, 400px" />
-            </div>
-        </div><div class="eael-entry-wrapper"><header class="eael-entry-header"><h3 class="eael-entry-title"><a
-                        class="eael-grid-post-link"
-                        href="./2022/06/15/centrifugal-elevators/index.html"
-                        title="Centrifugal Elevators">Centrifugal Elevators</a></h3></header><div class="eael-entry-content">
-                        <div class="eael-grid-post-excerpt"><p>Centrifugal elevators operate at high speeds & use centrifugal motion to “throw” material out of the buckets as they come around the head pulley or sprocket.</p><a
-                            href="./2022/06/15/centrifugal-elevators/index.html"
-                            class="eael-post-elements-readmore-btn">READ</a></div>
-                    </div></div></div>
-        </div>
-    </article>
-	<article class="eael-grid-post eael-post-grid-column" data-id="1278">
-        <div class="eael-grid-post-holder">
-            <div class="eael-grid-post-holder-inner"><div class="eael-entry-media"><div class="eael-entry-overlay none"><i class="" aria-hidden="true"></i><a href="./2022/06/10/continuous-elevators/index.html"></a></div><div class="eael-entry-thumbnail ">
-                <img width="400" height="400" src="./wp-content/uploads/2023/06/default-gray.jpg" class="attachment-full size-full wp-image-1143" alt="" decoding="async" srcset="./wp-content/uploads/2023/06/default-gray.jpg 400w, ./wp-content/uploads/2023/06/default-gray-300x300.jpg 300w, ./wp-content/uploads/2023/06/default-gray-150x150.jpg 150w" sizes="(max-width: 400px) 100vw, 400px" />
-            </div>
-        </div><div class="eael-entry-wrapper"><header class="eael-entry-header"><h3 class="eael-entry-title"><a
-                        class="eael-grid-post-link"
-                        href="./2022/06/10/continuous-elevators/index.html"
-                        title="Continuous Elevators">Continuous Elevators</a></h3></header><div class="eael-entry-content">
-                        <div class="eael-grid-post-excerpt"><p>Continuous elevators primarily differentiate themselves from centrifugal elevators in two ways. They have a unique bucket geometry and they operate a lower speeds using gravity to discharge the buckets.</p><a
-                            href="./2022/06/10/continuous-elevators/index.html"
-                            class="eael-post-elements-readmore-btn">READ</a></div>
-                    </div></div></div>
-        </div>
-    </article>
-	<article class="eael-grid-post eael-post-grid-column" data-id="1031">
-        <div class="eael-grid-post-holder">
-            <div class="eael-grid-post-holder-inner"><div class="eael-entry-media"><div class="eael-entry-overlay none"><i class="" aria-hidden="true"></i><a href="./2022/06/03/general-bucket-elevator-options-features/index.html"></a></div><div class="eael-entry-thumbnail ">
-                <img width="400" height="400" src="./wp-content/uploads/2023/06/default-gray.jpg" class="attachment-full size-full wp-image-1143" alt="" decoding="async" srcset="./wp-content/uploads/2023/06/default-gray.jpg 400w, ./wp-content/uploads/2023/06/default-gray-300x300.jpg 300w, ./wp-content/uploads/2023/06/default-gray-150x150.jpg 150w" sizes="(max-width: 400px) 100vw, 400px" />
-            </div>
-        </div><div class="eael-entry-wrapper"><header class="eael-entry-header"><h3 class="eael-entry-title"><a
-                        class="eael-grid-post-link"
-                        href="./2022/06/03/general-bucket-elevator-options-features/index.html"
-                        title="General Bucket Elevator Options &#038; Features">General Bucket Elevator Options &#038; Features</a></h3></header><div class="eael-entry-content">
-                        <div class="eael-grid-post-excerpt"><p>Learn more about general bucket elevator options and features including platforms, split sprockets, take-ups, belt splicing kits and more.</p><a
-                            href="./2022/06/03/general-bucket-elevator-options-features/index.html"
-                            class="eael-post-elements-readmore-btn">READ</a></div>
-                    </div></div></div>
-        </div>
-    </article>
-	<article class="eael-grid-post eael-post-grid-column" data-id="1282">
-        <div class="eael-grid-post-holder">
-            <div class="eael-grid-post-holder-inner"><div class="eael-entry-media"><div class="eael-entry-overlay none"><i class="" aria-hidden="true"></i><a href="./2022/06/03/bucket-elevator-product-line-series/index.html"></a></div><div class="eael-entry-thumbnail ">
-                <img width="400" height="400" src="./wp-content/uploads/2023/10/Bucket-Elevator-Product-Line-Series.png" class="attachment-full size-full wp-image-1283" alt="" decoding="async" srcset="./wp-content/uploads/2023/10/Bucket-Elevator-Product-Line-Series.png 400w, ./wp-content/uploads/2023/10/Bucket-Elevator-Product-Line-Series-300x300.png 300w, ./wp-content/uploads/2023/10/Bucket-Elevator-Product-Line-Series-150x150.png 150w" sizes="(max-width: 400px) 100vw, 400px" />
-            </div>
-        </div><div class="eael-entry-wrapper"><header class="eael-entry-header"><h3 class="eael-entry-title"><a
-                        class="eael-grid-post-link"
-                        href="./2022/06/03/bucket-elevator-product-line-series/index.html"
-                        title="Bucket Elevator Product Line Series">Bucket Elevator Product Line Series</a></h3></header><div class="eael-entry-content">
-                        <div class="eael-grid-post-excerpt"><p>In this Bucket Elevator Product Line series we will take an in-depth look at all of our standard models as well as the various options we can incorporate into our elevator product line.
-</p><a
-                            href="./2022/06/03/bucket-elevator-product-line-series/index.html"
-                            class="eael-post-elements-readmore-btn">READ</a></div>
-                    </div></div></div>
-        </div>
-    </article></div>
-            <div class="clearfix"></div>
-        </div>		</div>
-				</div>
-					</div>
-		</div>
-							</div>
-		</section>
-							</div>
-				<div class="post-tags">
-					</div>
-			</div>
-
-	<section id="comments" class="comments-area">
-
-	
-	
-	
-</section><!-- .comments-area --></main>
+    </div>
+    <section id="comments" class="comments-area">
+    </section><!-- .comments-area -->
+</main>
 
 <?php include 'footer.php';?>
-
-
 
 <div id="search-form-overlay" class="search-overlay hidden">
     <i class="fa-solid fa-circle-xmark icon-cancel" title="Close search bar"></i>
     <div class="search-overlay-content">
-        <form action="./index.html" role="search" method="get">
+        <form action="./index.php" role="search" method="get">
             <input type="text" placeholder="" name="s">
             <button type="submit">Search</button>
         </form>

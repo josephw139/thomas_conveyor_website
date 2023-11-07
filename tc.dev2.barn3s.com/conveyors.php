@@ -66,19 +66,19 @@ img.emoji {
 <link rel='stylesheet' id='cl_elementor-video-popup-css' href='./wp-content/themes/catchylabs-elementor-theme/admin/elementor/assets/css/video-popup%EF%B9%96ver=1688672024.css' type='text/css' media='all' />
 <link rel='stylesheet' id='cl_elementor-brand-window-css' href='./wp-content/themes/catchylabs-elementor-theme/admin/elementor/assets/css/brand-window%EF%B9%96ver=1688672024.css' type='text/css' media='all' />
 <link rel='stylesheet' id='cl_reset-css' href='./wp-content/themes/catchylabs-elementor-theme/assets/css/reset%EF%B9%96ver=1.css' type='text/css' media='' />
-<link rel='stylesheet' id='cl_variables-css' href='./wp-content/themes/catchylabs-elementor-theme/assets/css/variables%EF%B9%96ver=1699035598.css' type='text/css' media='' />
+<link rel='stylesheet' id='cl_variables-css' href='./wp-content/themes/catchylabs-elementor-theme/assets/css/variables.css' type='text/css' media='' />
 <link rel='stylesheet' id='cl_fontawesome-css' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css?ver=6.3.2' type='text/css' media='all' />
 <link rel='stylesheet' id='cl_fontawesome_solid-css' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/solid.min.css?ver=6.3.2' type='text/css' media='all' />
 <link rel='stylesheet' id='cl_fontawesome_brands-css' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/brands.min.css?ver=6.3.2' type='text/css' media='all' />
 <link rel='stylesheet' id='cl_fontawesome_regular-css' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/regular.min.css?ver=6.3.2' type='text/css' media='all' />
-<link rel='stylesheet' id='cl_base-css' href='./wp-content/themes/catchylabs-elementor-theme/assets/css/base%EF%B9%96ver=1699035598.css' type='text/css' media='' />
-<link rel='stylesheet' id='cl_lightbox-css' href='./wp-content/themes/catchylabs-elementor-theme/assets/js/magnific/magnific-popup%EF%B9%96ver=1699035598.css' type='text/css' media='' />
-<link rel='stylesheet' id='cl_theme-css' href='./wp-content/themes/catchylabs-elementor-theme/assets/css/theme%EF%B9%96ver=1699035598.css' type='text/css' media='' />
-<link rel='stylesheet' id='cl_elements-css' href='./wp-content/themes/catchylabs-elementor-theme/assets/css/elements%EF%B9%96ver=1699035598.css' type='text/css' media='' />
-<link rel='stylesheet' id='cl_elementor-css' href='./wp-content/themes/catchylabs-elementor-theme/assets/css/elementor%EF%B9%96ver=1699035598.css' type='text/css' media='' />
-<link rel='stylesheet' id='cl_sitemap-css' href='./wp-content/themes/catchylabs-elementor-theme/assets/css/sitemap%EF%B9%96ver=1699035598.css' type='text/css' media='' />
+<link rel='stylesheet' id='cl_base-css' href='./wp-content/themes/catchylabs-elementor-theme/assets/css/base.css' type='text/css' media='' />
+<link rel='stylesheet' id='cl_lightbox-css' href='./wp-content/themes/catchylabs-elementor-theme/assets/js/magnific/magnific-popup.css' type='text/css' media='' />
+<link rel='stylesheet' id='cl_theme-css' href='./wp-content/themes/catchylabs-elementor-theme/assets/css/theme.css' type='text/css' media='' />
+<link rel='stylesheet' id='cl_elements-css' href='./wp-content/themes/catchylabs-elementor-theme/assets/css/elements.css' type='text/css' media='' />
+<link rel='stylesheet' id='cl_elementor-css' href='./wp-content/themes/catchylabs-elementor-theme/assets/css/elementor.css' type='text/css' media='' />
+<link rel='stylesheet' id='cl_sitemap-css' href='./wp-content/themes/catchylabs-elementor-theme/assets/css/sitemap.css' type='text/css' media='' />
 <link rel='stylesheet' id='cl_styles-css' href='./wp-content/themes/catchylabs-elementor-theme/style.css' type='text/css' media='' />
-<link rel='stylesheet' id='cl_mobile-css' href='./wp-content/themes/catchylabs-elementor-theme/assets/css/mobile%EF%B9%96ver=1699035598.css' type='text/css' media='all and (max-width: 1024px)' />
+<link rel='stylesheet' id='cl_mobile-css' href='./wp-content/themes/catchylabs-elementor-theme/assets/css/mobile.css' type='text/css' media='all and (max-width: 1024px)' />
 <link rel='stylesheet' id='elementor-icons-css' href='./wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min%EF%B9%96ver=5.20.0.css' type='text/css' media='all' />
 <link rel='stylesheet' id='elementor-frontend-css' href='./wp-content/uploads/elementor/css/custom-frontend-lite.min%EF%B9%96ver=1698856260.css' type='text/css' media='all' />
 <link rel='stylesheet' id='swiper-css' href='./wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min%EF%B9%96ver=8.4.5.css' type='text/css' media='all' />
@@ -412,9 +412,9 @@ img.emoji {
 <script type='text/javascript' src='https://tc.dev2.barn3s.com/wp-content/themes/catchylabs-elementor-theme/assets/js/jarallax.min.js?ver=1' id='jarallax-js'></script>
 <script type='text/javascript' src='https://tc.dev2.barn3s.com/wp-content/themes/catchylabs-elementor-theme/assets/js/jarallax-video.min.js?ver=1' id='jarallax-video-js'></script>
 <script type='text/javascript' src='https://tc.dev2.barn3s.com/wp-content/themes/catchylabs-elementor-theme/assets/js/jarallax-element.min.js?ver=1' id='jarallax-scroll-js'></script>
-<script type='text/javascript' src='./wp-content/themes/catchylabs-elementor-theme/assets/js/magnific/jquery.magnific-popup%EF%B9%96ver=1699035598.js' id='cl_lightbox-js'></script>
-<script type='text/javascript' src='./wp-content/themes/catchylabs-elementor-theme/assets/js/slider%EF%B9%96ver=1699035598.js' id='cl_slider-js'></script>
-<script type='text/javascript' src='./wp-content/themes/catchylabs-elementor-theme/assets/js/theme%EF%B9%96ver=1699035598.js' id='cl_theme-js'></script>
+<script type='text/javascript' src='./wp-content/themes/catchylabs-elementor-theme/assets/js/magnific/jquery.magnific-popup.js' id='cl_lightbox-js'></script>
+<script type='text/javascript' src='./wp-content/themes/catchylabs-elementor-theme/assets/js/slider.js' id='cl_slider-js'></script>
+<script type='text/javascript' src='./wp-content/themes/catchylabs-elementor-theme/assets/js/theme.js' id='cl_theme-js'></script>
 <script type='text/javascript' id='eael-general-js-extra'>
 /* <![CDATA[ */
 var localize = {"ajaxurl":"https:\/\/tc.dev2.barn3s.com\/wp-admin\/admin-ajax.php","nonce":"cccd051de6","i18n":{"added":"Added ","compare":"Compare","loading":"Loading..."},"eael_translate_text":{"required_text":"is a required field","invalid_text":"Invalid","billing_text":"Billing","shipping_text":"Shipping","fg_mfp_counter_text":"of"},"page_permalink":"https:\/\/tc.dev2.barn3s.com\/conveyors\/","cart_redirectition":"","cart_page_url":"","el_breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":true},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}};
