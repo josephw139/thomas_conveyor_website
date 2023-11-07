@@ -13,7 +13,7 @@
     <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
 
 	<!-- This site is optimized with the Yoast SEO plugin v20.11 - https://yoast.com/wordpress/plugins/seo/ -->
-	<link rel="canonical" href="conveyors/bucket-elevator-systems.php" />
+	<link rel="canonical" href="/conveyors/bucket-elevator-systems.php" />
 	<meta property="og:locale" content="en_US" />
 	<meta property="og:type" content="article" />
 	<meta property="og:title" content="Bucket Elevator Systems - Thomas Conveyor &amp; Equipment" />

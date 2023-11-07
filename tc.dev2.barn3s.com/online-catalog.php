@@ -13,7 +13,7 @@
     <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
 
 	<!-- This site is optimized with the Yoast SEO plugin v20.11 - https://yoast.com/wordpress/plugins/seo/ -->
-	<link rel="canonical" href="index.html" />
+	<link rel="canonical" href="/online-catalog.php" />
 	<meta property="og:locale" content="en_US" />
 	<meta property="og:type" content="article" />
 	<meta property="og:title" content="Online Catalog - Thomas Conveyor &amp; Equipment" />
@@ -125,7 +125,7 @@ img.emoji {
 <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin><script type='text/javascript' src='https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js?ver=6.3.2' id='jquery-js'></script>
 <link rel="https://api.w.org/" href="./wp-json/index.json" /><link rel="alternate" type="application/json" href="./wp-json/wp/v2/pages/1147.json" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="./xmlrpc.php%EF%B9%96rsd.xml" />
 <meta name="generator" content="WordPress 6.3.2" />
-<link rel='shortlink' href='index.html' />
+<link rel='shortlink' href='online-catalog.php' />
 <link rel="alternate" type="application/json+oembed" href="./wp-json/oembed/1.0/embed%EF%B9%96url=https%EF%B9%95%EA%A4%B7%EA%A4%B7tc.dev2.barn3s.com%EA%A4%B7online-catalog%EA%A4%B7.json" />
 <link rel="alternate" type="text/xml+oembed" href="./wp-json/oembed/1.0/embed%EF%B9%96url=https%EF%B9%95%EA%A4%B7%EA%A4%B7tc.dev2.barn3s.com%EA%A4%B7online-catalog%EA%A4%B7&amp;format=xml.xml" />
 <meta name="generator" content="Elementor 3.14.1; features: e_dom_optimization, e_optimized_assets_loading, e_optimized_css_loading, a11y_improvements, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-swap">
@@ -1056,7 +1056,7 @@ img.emoji {
 <div id="search-form-overlay" class="search-overlay hidden">
     <i class="fa-solid fa-circle-xmark icon-cancel" title="Close search bar"></i>
     <div class="search-overlay-content">
-        <form action="./index.html" role="search" method="get">
+        <form action="./index.php" role="search" method="get">
             <input type="text" placeholder="" name="s">
             <button type="submit">Search</button>
         </form>

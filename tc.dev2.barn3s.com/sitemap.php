@@ -184,7 +184,7 @@ img.emoji {
 <div id="search-form-overlay" class="search-overlay hidden">
     <i class="fa-solid fa-circle-xmark icon-cancel" title="Close search bar"></i>
     <div class="search-overlay-content">
-        <form action="./index.html" role="search" method="get">
+        <form action="./index.php" role="search" method="get">
             <input type="text" placeholder="" name="s">
             <button type="submit">Search</button>
         </form>
