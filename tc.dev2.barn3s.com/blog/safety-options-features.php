@@ -143,7 +143,7 @@ img.emoji {
 			<h1>
 				Blog
 			</h1>
-			<p style="font-family: 'Roboto', Sans-serif;"><a href="../index.php">Home</a> » <a href="../blog.php">Blog</a> » <a href="#" title="Safety Options &#038; Features">Safety Options &#038; Features</a>
+			<p class="breadcrumbs"><a href="../index.php">Home</a> » <a href="../blog.php">Blog</a> » <a href="#" title="Safety Options &#038; Features">Safety Options &#038; Features</a>
 			</p>
 		</div>
 		<div class="post-wrapper">

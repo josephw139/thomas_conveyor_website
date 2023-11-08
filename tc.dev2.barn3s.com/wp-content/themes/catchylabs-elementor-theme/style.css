@@ -20,7 +20,6 @@ Text Domain: cl-elementor
    background-color: rgba(0,0,0,0.5);
 }
 
-
 .support-icon .elementor-icon svg {
 	height: auto;
 }
@@ -187,7 +186,10 @@ Text Domain: cl-elementor
 	justify-content: center;
 }
 
-
+.breadcrumbs a {
+	font-size: 1.1rem;
+	font-family: 'Roboto', Sans-serif;
+}
 
 
 /******************************/
