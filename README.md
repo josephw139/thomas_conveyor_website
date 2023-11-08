@@ -15,7 +15,8 @@ Each image is marked with ```<!-- REPLACE IMAGE -->``` where the actual products
 ### Blog images
 CSS is applied to make the images rounded.
 
-* Blog posts are under the blog folder. The blog's image is right below the comment ```<!-- BLOG IMAGE HERE -->```, usually on line 285
+* Blog posts are under the blog folder. The blog's image is right below the comment 
+```<!-- BLOG IMAGE HERE -->```
 * On the blog page, each gray image is marked with ```<!-- REPLACE IMAGE -->```
 
 ## Documentation
@@ -38,7 +39,7 @@ CSS is applied to make the images rounded.
 
 
 ### Create a new blog post
-* Duplicate a blog post, go to the ```<main>``` tag to replace text & images appropriately.
+* Duplicate a blog post file, go to the ```<main>``` tag to replace text & images appropriately.
 
 * On the Blog page, each post is inside an ```<article>``` tag. Copy paste the article and modify as needed.
 
