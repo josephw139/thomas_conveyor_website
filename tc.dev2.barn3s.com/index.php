@@ -666,6 +666,7 @@ img.emoji {
 						<div class="elementor-widget-wrap elementor-element-populated">
 							<div class="elementor-element elementor-element-a5864bb elementor-widget elementor-widget-html" data-id="a5864bb" data-element_type="widget" data-widget_type="html.default">
 								<div class="elementor-widget-container">
+									<!-- FORM HERE -->
 									<form class="contact-form contact-form-home">
 										<select>
 											<option value="" id="default">I would like to (make selection)</option>
@@ -983,7 +984,8 @@ img.emoji {
 										<button type="submit" id="#submit">
 											SUBMIT <i class="fa-solid fa-chevron-right form-icon"></i>
 										</button>
-									</form>	
+									</form>
+									<!-- END FORM -->
 								</div>
 							</div>
 						</div>
