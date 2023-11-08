@@ -9,13 +9,13 @@ Forms connected to email - comments above each form ```<!-- FORM HERE -->```
 * Support page > Downloads
 
 ### Products
-Online Catalog product dropdowns currently have screencap placeholders.
+Online Catalog product dropdowns currently have screencap placeholders.<br />
 Each image is marked with ```<!-- REPLACE IMAGE -->``` where the actual products should display
 
 ### Blog images
 CSS is applied to make the images rounded.
 
-* Blog posts are under the blog folder. The blog's image is right below the comment 
+* Blog posts are under the blog folder. The blog's image is right below the comment <br />
 ```<!-- BLOG IMAGE HERE -->```
 * On the blog page, each gray image is marked with ```<!-- REPLACE IMAGE -->```
 
