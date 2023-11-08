@@ -171,886 +171,826 @@ img.emoji {
 
 <main class="site-main post-1147 page type-page status-publish hentry" role="main" id="main">
 	<div class="page-content">
-				<div data-elementor-type="wp-page" data-elementor-id="1147" class="elementor elementor-1147">
-									<section class="elementor-section elementor-top-section elementor-element elementor-element-a7f2379 elementor-section-height-min-height elementor-section-items-bottom elementor-section-boxed elementor-section-height-default" data-id="a7f2379" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;shape_divider_bottom&quot;:&quot;tilt&quot;}">
-					<div class="elementor-shape elementor-shape-bottom" data-negative="false">
-			<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 100" preserveAspectRatio="none">
-	<path class="elementor-shape-fill" d="M0,6V0h1000v100L0,6z"/>
-</svg>		</div>
-					<div class="elementor-container elementor-column-gap-no">
+		<div data-elementor-type="wp-page" data-elementor-id="1147" class="elementor elementor-1147">
+			<section class="elementor-section elementor-top-section elementor-element elementor-element-a7f2379 elementor-section-height-min-height elementor-section-items-bottom elementor-section-boxed elementor-section-height-default" data-id="a7f2379" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;shape_divider_bottom&quot;:&quot;tilt&quot;}">
+				<div class="elementor-shape elementor-shape-bottom" data-negative="false">
+					<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 100" preserveAspectRatio="none">
+						<path class="elementor-shape-fill" d="M0,6V0h1000v100L0,6z"/>
+					</svg>
+				</div>
+				<div class="elementor-container elementor-column-gap-no">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-85a7e54" data-id="85a7e54" data-element_type="column">
-			<div class="elementor-widget-wrap">
-									</div>
-		</div>
-							</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-858c078 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="858c078" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
+						<div class="elementor-widget-wrap">
+						</div>
+					</div>
+				</div>
+			</section>
+			<section class="elementor-section elementor-top-section elementor-element elementor-element-858c078 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="858c078" data-element_type="section">
+				<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-a7df733" data-id="a7df733" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-6ae9129 elementor-widget elementor-widget-heading" data-id="6ae9129" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<style>/*! elementor - v3.14.0 - 26-06-2023 */
-.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><h1 class="elementor-heading-title elementor-size-default">Online Catalog</h1>		</div>
-				</div>
-				<div class="elementor-element elementor-element-e695de5 elementor-widget elementor-widget-text-editor" data-id="e695de5" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-			<style>/*! elementor - v3.14.0 - 26-06-2023 */
-.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#69727d;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#69727d;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>
-<p class="breadcrumbs"><a href="./index.php">Home</a> » <a href="#">Online Catalog</a></p>						</div>
-				</div>
-					</div>
-		</div>
+						<div class="elementor-widget-wrap elementor-element-populated">
+							<div class="elementor-element elementor-element-6ae9129 elementor-widget elementor-widget-heading" data-id="6ae9129" data-element_type="widget" data-widget_type="heading.default">
+								<div class="elementor-widget-container">
+									<style>/*! elementor - v3.14.0 - 26-06-2023 */
+									.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style>
+									<h1 class="elementor-heading-title elementor-size-default">Online Catalog</h1>
+								</div>
 							</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-4218cf5 elementor-reverse-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4218cf5" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-element elementor-element-e695de5 elementor-widget elementor-widget-text-editor" data-id="e695de5" data-element_type="widget" data-widget_type="text-editor.default">
+								<div class="elementor-widget-container">
+									<style>/*! elementor - v3.14.0 - 26-06-2023 */
+									.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#69727d;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#69727d;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>
+									<p class="breadcrumbs"><a href="./index.php">Home</a> » <a href="#">Online Catalog</a></p>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+			<section class="elementor-section elementor-top-section elementor-element elementor-element-4218cf5 elementor-reverse-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4218cf5" data-element_type="section">
+				<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-5bc0824" data-id="5bc0824" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-333433a elementor-widget elementor-widget-image" data-id="333433a" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-															<img decoding="async" fetchpriority="high" width="457" height="457" src="./wp-content/uploads/2023/10/Online-Catalog-Books.png" class="attachment-full size-full wp-image-1162" alt="" srcset="./wp-content/uploads/2023/10/Online-Catalog-Books.png 457w, ./wp-content/uploads/2023/10/Online-Catalog-Books-300x300.png 300w, ./wp-content/uploads/2023/10/Online-Catalog-Books-150x150.png 150w" sizes="(max-width: 457px) 100vw, 457px" />															</div>
-				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-e7d83ff" data-id="e7d83ff" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-84da1e3 elementor-widget elementor-widget-text-editor" data-id="84da1e3" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p><strong>Two ways to browse our products.</strong></p><p>Download our full digital catalog or use our online system below.</p>						</div>
-				</div>
-				<div class="elementor-element elementor-element-d7cb6cf elementor-widget elementor-widget-eael-creative-button" data-id="d7cb6cf" data-element_type="widget" data-widget_type="eael-creative-button.default">
-				<div class="elementor-widget-container">
-			        <div class="eael-creative-button-wrapper">
-
-            <a class="eael-creative-button eael-creative-button--default" href="./wp-content/uploads/2023/10/thomas-catalog.pdf" data-text="">
-
-	    
-                <div class="creative-button-inner">
-
-                    
-                    <span class="cretive-button-text">DOWNLOAD</span>
-
-                                            <span class="eael-creative-button-icon-right"><i aria-hidden="true" class="fas fa-chevron-down"></i></span>                                    </div>
-	                        </a>
-        </div>
-		</div>
-				</div>
-					</div>
-		</div>
+						<div class="elementor-widget-wrap elementor-element-populated">
+							<div class="elementor-element elementor-element-333433a elementor-widget elementor-widget-image" data-id="333433a" data-element_type="widget" data-widget_type="image.default">
+								<div class="elementor-widget-container">
+									<img decoding="async" fetchpriority="high" width="457" height="457" src="./wp-content/uploads/2023/10/Online-Catalog-Books.png" class="attachment-full size-full wp-image-1162" alt="" srcset="./wp-content/uploads/2023/10/Online-Catalog-Books.png 457w, ./wp-content/uploads/2023/10/Online-Catalog-Books-300x300.png 300w, ./wp-content/uploads/2023/10/Online-Catalog-Books-150x150.png 150w" sizes="(max-width: 457px) 100vw, 457px" />
+								</div>
 							</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-7f78d23 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7f78d23" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
+						</div>
+					</div>
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-e7d83ff" data-id="e7d83ff" data-element_type="column">
+						<div class="elementor-widget-wrap elementor-element-populated">
+							<div class="elementor-element elementor-element-84da1e3 elementor-widget elementor-widget-text-editor" data-id="84da1e3" data-element_type="widget" data-widget_type="text-editor.default">
+								<div class="elementor-widget-container">
+									<p><strong>Two ways to browse our products.</strong></p><p>Download our full digital catalog or use our online system below.</p>
+								</div>
+							</div>
+							<div class="elementor-element elementor-element-d7cb6cf elementor-widget elementor-widget-eael-creative-button" data-id="d7cb6cf" data-element_type="widget" data-widget_type="eael-creative-button.default">
+								<div class="elementor-widget-container">
+			        				<div class="eael-creative-button-wrapper">
+            							<a class="eael-creative-button eael-creative-button--default" href="./wp-content/uploads/2023/10/thomas-catalog.pdf" data-text="">
+                							<div class="creative-button-inner">
+                    							<span class="cretive-button-text">DOWNLOAD</span>
+                                            	<span class="eael-creative-button-icon-right"><i aria-hidden="true" class="fas fa-chevron-down"></i></span>
+											</div>
+	                        			</a>
+        							</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+			<section class="elementor-section elementor-top-section elementor-element elementor-element-7f78d23 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7f78d23" data-element_type="section">
+				<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-2ef6824" data-id="2ef6824" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-9fa33d9 drop-white elementor-widget elementor-widget-cl_elementor-dropper-title" data-id="9fa33d9" data-element_type="widget" data-widget_type="cl_elementor-dropper-title.default">
-				<div class="elementor-widget-container">
-			
-		
-        <div class="cl-dropper-title off" data-id="housing">
-			<div style="display: flex; justify-content: space-between;">
-				<div class="text">
-                	<p>Housing</p>
-            	</div>
-				<div style="margin: 8px 12px 0px 0px">
-					<img decoding="async" style="height:35px;" src="./wp-content/uploads/2023/10/down-arrow-icon-white.svg" alt="">				</div>
-			</div>
-            
-            <div class="line"></div>
-			
-        </div>
-				</div>
-				</div>
-					</div>
-		</div>
+						<div class="elementor-widget-wrap elementor-element-populated">
+							<div class="elementor-element elementor-element-9fa33d9 drop-white elementor-widget elementor-widget-cl_elementor-dropper-title" data-id="9fa33d9" data-element_type="widget" data-widget_type="cl_elementor-dropper-title.default">
+								<div class="elementor-widget-container">
+        							<div class="cl-dropper-title off" data-id="housing">
+										<div style="display: flex; justify-content: space-between;">
+											<div class="text">
+												<p>Housing</p>
+											</div>
+											<div style="margin: 8px 12px 0px 0px">
+												<img decoding="async" style="height:35px;" src="./wp-content/uploads/2023/10/down-arrow-icon-white.svg" alt="">
+											</div>
+										</div>
+            							<div class="line"></div>
+							        </div>
+								</div>
 							</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-d3a36fc cl-drop-down elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="d3a36fc" data-element_type="section" id="housing">
-						<div class="elementor-container elementor-column-gap-default">
+						</div>
+					</div>
+				</div>
+			</section>
+			<section class="elementor-section elementor-top-section elementor-element elementor-element-d3a36fc cl-drop-down elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="d3a36fc" data-element_type="section" id="housing">
+				<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-2121797" data-id="2121797" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-b7c79a8 elementor-widget elementor-widget-cl_elementor-dropper-title" data-id="b7c79a8" data-element_type="widget" data-widget_type="cl_elementor-dropper-title.default">
-				<div class="elementor-widget-container">
-			
-		
-        <div class="cl-dropper-title off" data-id="trough">
-			<div style="display: flex; justify-content: space-between;">
-				<div class="text">
-                	<p>Trough</p>
-            	</div>
-				<div style="margin: 8px 12px 0px 0px">
-					<img decoding="async" style="height:35px;" src="./wp-content/uploads/2023/10/down-arrow-icon.svg" alt="">				</div>
-			</div>
-            
-            <div class="line"></div>
-			
-        </div>
-				</div>
-				</div>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-5f0a919 cl-drop-down elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5f0a919" data-element_type="section" id="trough">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-664abb1" data-id="664abb1" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-a654723 elementor-widget elementor-widget-image" data-id="a654723" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-															<img decoding="async" width="1882" height="1540" src="./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap.png" class="attachment-full size-full wp-image-1521" alt="" srcset="./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap.png 1882w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-300x245.png 300w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-1024x838.png 1024w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-768x628.png 768w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-1536x1257.png 1536w" sizes="(max-width: 1882px) 100vw, 1882px" />															</div>
-				</div>
-					</div>
-		</div>
+						<div class="elementor-widget-wrap elementor-element-populated">
+							<div class="elementor-element elementor-element-b7c79a8 elementor-widget elementor-widget-cl_elementor-dropper-title" data-id="b7c79a8" data-element_type="widget" data-widget_type="cl_elementor-dropper-title.default">
+								<div class="elementor-widget-container">
+									<div class="cl-dropper-title off" data-id="trough">
+										<div style="display: flex; justify-content: space-between;">
+											<div class="text">
+												<p>Trough</p>
+											</div>
+											<div style="margin: 8px 12px 0px 0px">
+												<img decoding="async" style="height:35px;" src="./wp-content/uploads/2023/10/down-arrow-icon.svg" alt="">
+											</div>
+										</div>
+										<div class="line"></div>
+							        </div>
+								</div>
 							</div>
-		</section>
-				<div class="elementor-element elementor-element-9762386 elementor-widget elementor-widget-cl_elementor-dropper-title" data-id="9762386" data-element_type="widget" data-widget_type="cl_elementor-dropper-title.default">
-				<div class="elementor-widget-container">
-			
-		
-        <div class="cl-dropper-title off" data-id="troughend">
-			<div style="display: flex; justify-content: space-between;">
-				<div class="text">
-                	<p>Trough End</p>
-            	</div>
-				<div style="margin: 8px 12px 0px 0px">
-					<img decoding="async" style="height:35px;" src="./wp-content/uploads/2023/10/down-arrow-icon.svg" alt="">				</div>
-			</div>
-            
-            <div class="line"></div>
-			
-        </div>
-				</div>
-				</div>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-1becb12 cl-drop-down elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="1becb12" data-element_type="section" id="troughend">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-0b0d05f" data-id="0b0d05f" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-b8864ae elementor-widget elementor-widget-image" data-id="b8864ae" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-															<img decoding="async" width="1882" height="1540" src="./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap.png" class="attachment-full size-full wp-image-1521" alt="" srcset="./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap.png 1882w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-300x245.png 300w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-1024x838.png 1024w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-768x628.png 768w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-1536x1257.png 1536w" sizes="(max-width: 1882px) 100vw, 1882px" />															</div>
-				</div>
-					</div>
-		</div>
+							<section class="elementor-section elementor-inner-section elementor-element elementor-element-5f0a919 cl-drop-down elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5f0a919" data-element_type="section" id="trough">
+								<div class="elementor-container elementor-column-gap-default">
+									<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-664abb1" data-id="664abb1" data-element_type="column">
+										<div class="elementor-widget-wrap elementor-element-populated">
+											<div class="elementor-element elementor-element-a654723 elementor-widget elementor-widget-image" data-id="a654723" data-element_type="widget" data-widget_type="image.default">
+												<div class="elementor-widget-container">
+													<!-- REPLACE IMAGE --> <img decoding="async" width="1882" height="1540" src="./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap.png" class="attachment-full size-full wp-image-1521" alt="" srcset="./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap.png 1882w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-300x245.png 300w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-1024x838.png 1024w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-768x628.png 768w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-1536x1257.png 1536w" sizes="(max-width: 1882px) 100vw, 1882px" />
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</section>
+							<div class="elementor-element elementor-element-9762386 elementor-widget elementor-widget-cl_elementor-dropper-title" data-id="9762386" data-element_type="widget" data-widget_type="cl_elementor-dropper-title.default">
+								<div class="elementor-widget-container">
+									<div class="cl-dropper-title off" data-id="troughend">
+										<div style="display: flex; justify-content: space-between;">
+											<div class="text">
+												<p>Trough End</p>
+											</div>
+											<div style="margin: 8px 12px 0px 0px">
+												<img decoding="async" style="height:35px;" src="./wp-content/uploads/2023/10/down-arrow-icon.svg" alt="">
+											</div>
+										</div>
+							            <div class="line"></div>
+        							</div>
+								</div>
 							</div>
-		</section>
-				<div class="elementor-element elementor-element-0dfc642 elementor-widget elementor-widget-cl_elementor-dropper-title" data-id="0dfc642" data-element_type="widget" data-widget_type="cl_elementor-dropper-title.default">
-				<div class="elementor-widget-container">
-			
-		
-        <div class="cl-dropper-title off" data-id="troughfeet">
-			<div style="display: flex; justify-content: space-between;">
-				<div class="text">
-                	<p>Trough Feet</p>
-            	</div>
-				<div style="margin: 8px 12px 0px 0px">
-					<img decoding="async" style="height:35px;" src="./wp-content/uploads/2023/10/down-arrow-icon.svg" alt="">				</div>
-			</div>
-            
-            <div class="line"></div>
-			
-        </div>
-				</div>
-				</div>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-32a2fa3 cl-drop-down elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="32a2fa3" data-element_type="section" id="troughfeet">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-766fd93" data-id="766fd93" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-10fa09c elementor-widget elementor-widget-image" data-id="10fa09c" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-															<img decoding="async" width="1882" height="1540" src="./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap.png" class="attachment-full size-full wp-image-1521" alt="" srcset="./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap.png 1882w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-300x245.png 300w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-1024x838.png 1024w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-768x628.png 768w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-1536x1257.png 1536w" sizes="(max-width: 1882px) 100vw, 1882px" />															</div>
-				</div>
-					</div>
-		</div>
+							<section class="elementor-section elementor-inner-section elementor-element elementor-element-1becb12 cl-drop-down elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="1becb12" data-element_type="section" id="troughend">
+								<div class="elementor-container elementor-column-gap-default">
+									<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-0b0d05f" data-id="0b0d05f" data-element_type="column">
+										<div class="elementor-widget-wrap elementor-element-populated">
+											<div class="elementor-element elementor-element-b8864ae elementor-widget elementor-widget-image" data-id="b8864ae" data-element_type="widget" data-widget_type="image.default">
+												<div class="elementor-widget-container">
+													<!-- REPLACE IMAGE --> <img decoding="async" width="1882" height="1540" src="./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap.png" class="attachment-full size-full wp-image-1521" alt="" srcset="./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap.png 1882w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-300x245.png 300w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-1024x838.png 1024w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-768x628.png 768w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-1536x1257.png 1536w" sizes="(max-width: 1882px) 100vw, 1882px" />
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</section>
+							<div class="elementor-element elementor-element-0dfc642 elementor-widget elementor-widget-cl_elementor-dropper-title" data-id="0dfc642" data-element_type="widget" data-widget_type="cl_elementor-dropper-title.default">
+								<div class="elementor-widget-container">
+									<div class="cl-dropper-title off" data-id="troughfeet">
+										<div style="display: flex; justify-content: space-between;">
+											<div class="text">
+												<p>Trough Feet</p>
+											</div>
+											<div style="margin: 8px 12px 0px 0px">
+												<img decoding="async" style="height:35px;" src="./wp-content/uploads/2023/10/down-arrow-icon.svg" alt="">
+											</div>
+										</div>
+										<div class="line"></div>
+									</div>
+								</div>
 							</div>
-		</section>
-				<div class="elementor-element elementor-element-c8480d5 elementor-widget elementor-widget-cl_elementor-dropper-title" data-id="c8480d5" data-element_type="widget" data-widget_type="cl_elementor-dropper-title.default">
-				<div class="elementor-widget-container">
-			
-		
-        <div class="cl-dropper-title off" data-id="troughflanges">
-			<div style="display: flex; justify-content: space-between;">
-				<div class="text">
-                	<p>Trough Flanges</p>
-            	</div>
-				<div style="margin: 8px 12px 0px 0px">
-					<img decoding="async" style="height:35px;" src="./wp-content/uploads/2023/10/down-arrow-icon.svg" alt="">				</div>
-			</div>
-            
-            <div class="line"></div>
-			
-        </div>
-				</div>
-				</div>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-fe16b3a cl-drop-down elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="fe16b3a" data-element_type="section" id="troughflanges">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-fe2ea83" data-id="fe2ea83" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-84d4ccb elementor-widget elementor-widget-image" data-id="84d4ccb" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-															<img decoding="async" width="1882" height="1540" src="./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap.png" class="attachment-full size-full wp-image-1521" alt="" srcset="./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap.png 1882w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-300x245.png 300w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-1024x838.png 1024w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-768x628.png 768w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-1536x1257.png 1536w" sizes="(max-width: 1882px) 100vw, 1882px" />															</div>
-				</div>
-					</div>
-		</div>
+							<section class="elementor-section elementor-inner-section elementor-element elementor-element-32a2fa3 cl-drop-down elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="32a2fa3" data-element_type="section" id="troughfeet">
+								<div class="elementor-container elementor-column-gap-default">
+									<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-766fd93" data-id="766fd93" data-element_type="column">
+										<div class="elementor-widget-wrap elementor-element-populated">
+											<div class="elementor-element elementor-element-10fa09c elementor-widget elementor-widget-image" data-id="10fa09c" data-element_type="widget" data-widget_type="image.default">
+												<div class="elementor-widget-container">
+													<!-- REPLACE IMAGE --> <img decoding="async" width="1882" height="1540" src="./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap.png" class="attachment-full size-full wp-image-1521" alt="" srcset="./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap.png 1882w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-300x245.png 300w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-1024x838.png 1024w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-768x628.png 768w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-1536x1257.png 1536w" sizes="(max-width: 1882px) 100vw, 1882px" />
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</section>
+							<div class="elementor-element elementor-element-c8480d5 elementor-widget elementor-widget-cl_elementor-dropper-title" data-id="c8480d5" data-element_type="widget" data-widget_type="cl_elementor-dropper-title.default">
+								<div class="elementor-widget-container">
+									<div class="cl-dropper-title off" data-id="troughflanges">
+										<div style="display: flex; justify-content: space-between;">
+											<div class="text">
+												<p>Trough Flanges</p>
+											</div>
+											<div style="margin: 8px 12px 0px 0px">
+												<img decoding="async" style="height:35px;" src="./wp-content/uploads/2023/10/down-arrow-icon.svg" alt="">
+											</div>
+										</div>
+										<div class="line"></div>
+									</div>
+								</div>
 							</div>
-		</section>
-				<div class="elementor-element elementor-element-6e8af15 elementor-widget elementor-widget-cl_elementor-dropper-title" data-id="6e8af15" data-element_type="widget" data-widget_type="cl_elementor-dropper-title.default">
-				<div class="elementor-widget-container">
-			
-		
-        <div class="cl-dropper-title off" data-id="inlets">
-			<div style="display: flex; justify-content: space-between;">
-				<div class="text">
-                	<p>Inlets</p>
-            	</div>
-				<div style="margin: 8px 12px 0px 0px">
-					<img decoding="async" style="height:35px;" src="./wp-content/uploads/2023/10/down-arrow-icon.svg" alt="">				</div>
-			</div>
-            
-            <div class="line"></div>
-			
-        </div>
-				</div>
-				</div>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-4145a9b cl-drop-down elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4145a9b" data-element_type="section" id="inlets">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-c4a9b71" data-id="c4a9b71" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-80275f8 elementor-widget elementor-widget-image" data-id="80275f8" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-															<img decoding="async" width="1882" height="1540" src="./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap.png" class="attachment-full size-full wp-image-1521" alt="" srcset="./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap.png 1882w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-300x245.png 300w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-1024x838.png 1024w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-768x628.png 768w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-1536x1257.png 1536w" sizes="(max-width: 1882px) 100vw, 1882px" />															</div>
-				</div>
-					</div>
-		</div>
+							<section class="elementor-section elementor-inner-section elementor-element elementor-element-fe16b3a cl-drop-down elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="fe16b3a" data-element_type="section" id="troughflanges">
+								<div class="elementor-container elementor-column-gap-default">
+									<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-fe2ea83" data-id="fe2ea83" data-element_type="column">
+										<div class="elementor-widget-wrap elementor-element-populated">
+											<div class="elementor-element elementor-element-84d4ccb elementor-widget elementor-widget-image" data-id="84d4ccb" data-element_type="widget" data-widget_type="image.default">
+												<div class="elementor-widget-container">
+													<!-- REPLACE IMAGE --> <img decoding="async" width="1882" height="1540" src="./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap.png" class="attachment-full size-full wp-image-1521" alt="" srcset="./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap.png 1882w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-300x245.png 300w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-1024x838.png 1024w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-768x628.png 768w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-1536x1257.png 1536w" sizes="(max-width: 1882px) 100vw, 1882px" />
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</section>
+							<div class="elementor-element elementor-element-6e8af15 elementor-widget elementor-widget-cl_elementor-dropper-title" data-id="6e8af15" data-element_type="widget" data-widget_type="cl_elementor-dropper-title.default">
+								<div class="elementor-widget-container">
+									<div class="cl-dropper-title off" data-id="inlets">
+										<div style="display: flex; justify-content: space-between;">
+											<div class="text">
+												<p>Inlets</p>
+											</div>
+											<div style="margin: 8px 12px 0px 0px">
+												<img decoding="async" style="height:35px;" src="./wp-content/uploads/2023/10/down-arrow-icon.svg" alt="">
+											</div>
+										</div>
+										<div class="line"></div>
+									</div>
+								</div>
 							</div>
-		</section>
-				<div class="elementor-element elementor-element-a10491c elementor-widget elementor-widget-cl_elementor-dropper-title" data-id="a10491c" data-element_type="widget" data-widget_type="cl_elementor-dropper-title.default">
-				<div class="elementor-widget-container">
-			
-		
-        <div class="cl-dropper-title off" data-id="discharges">
-			<div style="display: flex; justify-content: space-between;">
-				<div class="text">
-                	<p>Discharges</p>
-            	</div>
-				<div style="margin: 8px 12px 0px 0px">
-					<img decoding="async" style="height:35px;" src="./wp-content/uploads/2023/10/down-arrow-icon.svg" alt="">				</div>
-			</div>
-            
-            <div class="line"></div>
-			
-        </div>
-				</div>
-				</div>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-4bc4756 cl-drop-down elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4bc4756" data-element_type="section" id="discharges">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-ce6d022" data-id="ce6d022" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-1dadccd elementor-widget elementor-widget-image" data-id="1dadccd" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-															<img decoding="async" width="1882" height="1540" src="./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap.png" class="attachment-full size-full wp-image-1521" alt="" srcset="./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap.png 1882w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-300x245.png 300w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-1024x838.png 1024w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-768x628.png 768w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-1536x1257.png 1536w" sizes="(max-width: 1882px) 100vw, 1882px" />															</div>
-				</div>
-					</div>
-		</div>
+							<section class="elementor-section elementor-inner-section elementor-element elementor-element-4145a9b cl-drop-down elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4145a9b" data-element_type="section" id="inlets">
+								<div class="elementor-container elementor-column-gap-default">
+									<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-c4a9b71" data-id="c4a9b71" data-element_type="column">
+										<div class="elementor-widget-wrap elementor-element-populated">
+											<div class="elementor-element elementor-element-80275f8 elementor-widget elementor-widget-image" data-id="80275f8" data-element_type="widget" data-widget_type="image.default">
+												<div class="elementor-widget-container">
+													<!-- REPLACE IMAGE --> <img decoding="async" width="1882" height="1540" src="./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap.png" class="attachment-full size-full wp-image-1521" alt="" srcset="./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap.png 1882w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-300x245.png 300w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-1024x838.png 1024w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-768x628.png 768w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-1536x1257.png 1536w" sizes="(max-width: 1882px) 100vw, 1882px" />
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</section>
+							<div class="elementor-element elementor-element-a10491c elementor-widget elementor-widget-cl_elementor-dropper-title" data-id="a10491c" data-element_type="widget" data-widget_type="cl_elementor-dropper-title.default">
+								<div class="elementor-widget-container">
+									<div class="cl-dropper-title off" data-id="discharges">
+										<div style="display: flex; justify-content: space-between;">
+											<div class="text">
+												<p>Discharges</p>
+											</div>
+											<div style="margin: 8px 12px 0px 0px">
+												<img decoding="async" style="height:35px;" src="./wp-content/uploads/2023/10/down-arrow-icon.svg" alt="">
+											</div>
+										</div>
+										<div class="line"></div>
+									</div>
+								</div>
 							</div>
-		</section>
-				<div class="elementor-element elementor-element-fdd8b4e elementor-widget elementor-widget-cl_elementor-dropper-title" data-id="fdd8b4e" data-element_type="widget" data-widget_type="cl_elementor-dropper-title.default">
-				<div class="elementor-widget-container">
-			
-		
-        <div class="cl-dropper-title off" data-id="covers">
-			<div style="display: flex; justify-content: space-between;">
-				<div class="text">
-                	<p>Covers</p>
-            	</div>
-				<div style="margin: 8px 12px 0px 0px">
-					<img decoding="async" style="height:35px;" src="./wp-content/uploads/2023/10/down-arrow-icon.svg" alt="">				</div>
-			</div>
-            
-            <div class="line"></div>
-			
-        </div>
-				</div>
-				</div>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-cbffdf6 cl-drop-down elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="cbffdf6" data-element_type="section" id="covers">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-63cf64f" data-id="63cf64f" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-2a7de77 elementor-widget elementor-widget-image" data-id="2a7de77" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-															<img decoding="async" width="1882" height="1540" src="./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap.png" class="attachment-full size-full wp-image-1521" alt="" srcset="./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap.png 1882w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-300x245.png 300w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-1024x838.png 1024w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-768x628.png 768w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-1536x1257.png 1536w" sizes="(max-width: 1882px) 100vw, 1882px" />															</div>
-				</div>
-					</div>
-		</div>
+							<section class="elementor-section elementor-inner-section elementor-element elementor-element-4bc4756 cl-drop-down elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4bc4756" data-element_type="section" id="discharges">
+								<div class="elementor-container elementor-column-gap-default">
+									<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-ce6d022" data-id="ce6d022" data-element_type="column">
+										<div class="elementor-widget-wrap elementor-element-populated">
+											<div class="elementor-element elementor-element-1dadccd elementor-widget elementor-widget-image" data-id="1dadccd" data-element_type="widget" data-widget_type="image.default">
+												<div class="elementor-widget-container">
+													<!-- REPLACE IMAGE --> <img decoding="async" width="1882" height="1540" src="./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap.png" class="attachment-full size-full wp-image-1521" alt="" srcset="./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap.png 1882w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-300x245.png 300w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-1024x838.png 1024w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-768x628.png 768w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-1536x1257.png 1536w" sizes="(max-width: 1882px) 100vw, 1882px" />
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</section>
+							<div class="elementor-element elementor-element-fdd8b4e elementor-widget elementor-widget-cl_elementor-dropper-title" data-id="fdd8b4e" data-element_type="widget" data-widget_type="cl_elementor-dropper-title.default">
+								<div class="elementor-widget-container">
+									<div class="cl-dropper-title off" data-id="covers">
+										<div style="display: flex; justify-content: space-between;">
+											<div class="text">
+												<p>Covers</p>
+											</div>
+											<div style="margin: 8px 12px 0px 0px">
+												<img decoding="async" style="height:35px;" src="./wp-content/uploads/2023/10/down-arrow-icon.svg" alt="">
+											</div>
+										</div>
+										<div class="line"></div>
+									</div>
+								</div>
 							</div>
-		</section>
-				<div class="elementor-element elementor-element-6966738 elementor-widget elementor-widget-cl_elementor-dropper-title" data-id="6966738" data-element_type="widget" data-widget_type="cl_elementor-dropper-title.default">
-				<div class="elementor-widget-container">
-			
-		
-        <div class="cl-dropper-title off" data-id="feedershroud">
-			<div style="display: flex; justify-content: space-between;">
-				<div class="text">
-                	<p>Feeder Shroud</p>
-            	</div>
-				<div style="margin: 8px 12px 0px 0px">
-					<img decoding="async" style="height:35px;" src="./wp-content/uploads/2023/10/down-arrow-icon.svg" alt="">				</div>
-			</div>
-            
-            <div class="line"></div>
-			
-        </div>
-				</div>
-				</div>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-69cdb83 cl-drop-down elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="69cdb83" data-element_type="section" id="feedershroud">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-8f8c250" data-id="8f8c250" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-2d563b6 elementor-widget elementor-widget-image" data-id="2d563b6" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-															<img decoding="async" width="1882" height="1540" src="./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap.png" class="attachment-full size-full wp-image-1521" alt="" srcset="./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap.png 1882w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-300x245.png 300w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-1024x838.png 1024w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-768x628.png 768w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-1536x1257.png 1536w" sizes="(max-width: 1882px) 100vw, 1882px" />															</div>
-				</div>
-					</div>
-		</div>
+							<section class="elementor-section elementor-inner-section elementor-element elementor-element-cbffdf6 cl-drop-down elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="cbffdf6" data-element_type="section" id="covers">
+								<div class="elementor-container elementor-column-gap-default">
+									<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-63cf64f" data-id="63cf64f" data-element_type="column">
+										<div class="elementor-widget-wrap elementor-element-populated">
+											<div class="elementor-element elementor-element-2a7de77 elementor-widget elementor-widget-image" data-id="2a7de77" data-element_type="widget" data-widget_type="image.default">
+												<div class="elementor-widget-container">
+													<!-- REPLACE IMAGE --> <img decoding="async" width="1882" height="1540" src="./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap.png" class="attachment-full size-full wp-image-1521" alt="" srcset="./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap.png 1882w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-300x245.png 300w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-1024x838.png 1024w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-768x628.png 768w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-1536x1257.png 1536w" sizes="(max-width: 1882px) 100vw, 1882px" />
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</section>
+							<div class="elementor-element elementor-element-6966738 elementor-widget elementor-widget-cl_elementor-dropper-title" data-id="6966738" data-element_type="widget" data-widget_type="cl_elementor-dropper-title.default">
+								<div class="elementor-widget-container">
+									<div class="cl-dropper-title off" data-id="feedershroud">
+										<div style="display: flex; justify-content: space-between;">
+											<div class="text">
+												<p>Feeder Shroud</p>
+											</div>
+											<div style="margin: 8px 12px 0px 0px">
+												<img decoding="async" style="height:35px;" src="./wp-content/uploads/2023/10/down-arrow-icon.svg" alt="">
+											</div>
+										</div>
+										<div class="line"></div>
+									</div>
+								</div>
 							</div>
-		</section>
-				<div class="elementor-element elementor-element-e325e72 elementor-widget elementor-widget-cl_elementor-dropper-title" data-id="e325e72" data-element_type="widget" data-widget_type="cl_elementor-dropper-title.default">
-				<div class="elementor-widget-container">
-			
-		
-        <div class="cl-dropper-title off" data-id="coverfasteners ">
-			<div style="display: flex; justify-content: space-between;">
-				<div class="text">
-                	<p>Cover Fasteners</p>
-            	</div>
-				<div style="margin: 8px 12px 0px 0px">
-					<img decoding="async" style="height:35px;" src="./wp-content/uploads/2023/10/down-arrow-icon.svg" alt="">				</div>
-			</div>
-            
-            <div class="line"></div>
-			
-        </div>
-				</div>
-				</div>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-c41a394 cl-drop-down elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="c41a394" data-element_type="section" id="coverfasteners">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-22c2ebd" data-id="22c2ebd" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-db0fc9e elementor-widget elementor-widget-image" data-id="db0fc9e" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-															<img decoding="async" width="1882" height="1540" src="./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap.png" class="attachment-full size-full wp-image-1521" alt="" srcset="./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap.png 1882w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-300x245.png 300w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-1024x838.png 1024w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-768x628.png 768w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-1536x1257.png 1536w" sizes="(max-width: 1882px) 100vw, 1882px" />															</div>
-				</div>
-					</div>
-		</div>
+							<section class="elementor-section elementor-inner-section elementor-element elementor-element-69cdb83 cl-drop-down elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="69cdb83" data-element_type="section" id="feedershroud">
+								<div class="elementor-container elementor-column-gap-default">
+									<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-8f8c250" data-id="8f8c250" data-element_type="column">
+										<div class="elementor-widget-wrap elementor-element-populated">
+											<div class="elementor-element elementor-element-2d563b6 elementor-widget elementor-widget-image" data-id="2d563b6" data-element_type="widget" data-widget_type="image.default">
+												<div class="elementor-widget-container">
+													<!-- REPLACE IMAGE --> <img decoding="async" width="1882" height="1540" src="./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap.png" class="attachment-full size-full wp-image-1521" alt="" srcset="./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap.png 1882w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-300x245.png 300w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-1024x838.png 1024w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-768x628.png 768w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-1536x1257.png 1536w" sizes="(max-width: 1882px) 100vw, 1882px" />
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</section>
+							<div class="elementor-element elementor-element-e325e72 elementor-widget elementor-widget-cl_elementor-dropper-title" data-id="e325e72" data-element_type="widget" data-widget_type="cl_elementor-dropper-title.default">
+								<div class="elementor-widget-container">
+									<div class="cl-dropper-title off" data-id="coverfasteners ">
+										<div style="display: flex; justify-content: space-between;">
+											<div class="text">
+												<p>Cover Fasteners</p>
+											</div>
+											<div style="margin: 8px 12px 0px 0px">
+												<img decoding="async" style="height:35px;" src="./wp-content/uploads/2023/10/down-arrow-icon.svg" alt="">
+											</div>
+										</div>
+										<div class="line"></div>
+									</div>
+								</div>
 							</div>
-		</section>
+							<section class="elementor-section elementor-inner-section elementor-element elementor-element-c41a394 cl-drop-down elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="c41a394" data-element_type="section" id="coverfasteners">
+								<div class="elementor-container elementor-column-gap-default">
+									<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-22c2ebd" data-id="22c2ebd" data-element_type="column">
+										<div class="elementor-widget-wrap elementor-element-populated">
+											<div class="elementor-element elementor-element-db0fc9e elementor-widget elementor-widget-image" data-id="db0fc9e" data-element_type="widget" data-widget_type="image.default">
+												<div class="elementor-widget-container">
+													<!-- REPLACE IMAGE --> <img decoding="async" width="1882" height="1540" src="./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap.png" class="attachment-full size-full wp-image-1521" alt="" srcset="./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap.png 1882w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-300x245.png 300w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-1024x838.png 1024w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-768x628.png 768w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-1536x1257.png 1536w" sizes="(max-width: 1882px) 100vw, 1882px" />
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</section>
+						</div>
 					</div>
-		</div>
-							</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-5dd0ad4 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5dd0ad4" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
+				</div>
+			</section>
+			<section class="elementor-section elementor-top-section elementor-element elementor-element-5dd0ad4 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5dd0ad4" data-element_type="section">
+				<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-e1e771d" data-id="e1e771d" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-ae44402 drop-white elementor-widget elementor-widget-cl_elementor-dropper-title" data-id="ae44402" data-element_type="widget" data-widget_type="cl_elementor-dropper-title.default">
-				<div class="elementor-widget-container">
-			
-		
-        <div class="cl-dropper-title off" data-id="shafting">
-			<div style="display: flex; justify-content: space-between;">
-				<div class="text">
-                	<p>Shafting</p>
-            	</div>
-				<div style="margin: 8px 12px 0px 0px">
-					<img decoding="async" style="height:35px;" src="./wp-content/uploads/2023/10/down-arrow-icon-white.svg" alt="">				</div>
-			</div>
-            
-            <div class="line"></div>
-			
-        </div>
-				</div>
-				</div>
-					</div>
-		</div>
+						<div class="elementor-widget-wrap elementor-element-populated">
+							<div class="elementor-element elementor-element-ae44402 drop-white elementor-widget elementor-widget-cl_elementor-dropper-title" data-id="ae44402" data-element_type="widget" data-widget_type="cl_elementor-dropper-title.default">
+								<div class="elementor-widget-container">
+									<div class="cl-dropper-title off" data-id="shafting">
+										<div style="display: flex; justify-content: space-between;">
+											<div class="text">
+												<p>Shafting</p>
+											</div>
+											<div style="margin: 8px 12px 0px 0px">
+												<img decoding="async" style="height:35px;" src="./wp-content/uploads/2023/10/down-arrow-icon-white.svg" alt="">
+											</div>
+										</div>
+										<div class="line"></div>
+									</div>
+								</div>
 							</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-5d2d378 cl-drop-down elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5d2d378" data-element_type="section" id="shafting">
-						<div class="elementor-container elementor-column-gap-default">
+						</div>
+					</div>
+				</div>
+			</section>
+			<section class="elementor-section elementor-top-section elementor-element elementor-element-5d2d378 cl-drop-down elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5d2d378" data-element_type="section" id="shafting">
+				<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-9b0d54b" data-id="9b0d54b" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-fd439a7 elementor-widget elementor-widget-cl_elementor-dropper-title" data-id="fd439a7" data-element_type="widget" data-widget_type="cl_elementor-dropper-title.default">
-				<div class="elementor-widget-container">
-			
-		
-        <div class="cl-dropper-title off" data-id="shafts">
-			<div style="display: flex; justify-content: space-between;">
-				<div class="text">
-                	<p>Shafts</p>
-            	</div>
-				<div style="margin: 8px 12px 0px 0px">
-					<img decoding="async" style="height:35px;" src="./wp-content/uploads/2023/10/down-arrow-icon.svg" alt="">				</div>
-			</div>
-            
-            <div class="line"></div>
-			
-        </div>
-				</div>
-				</div>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-bd6a17b cl-drop-down elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="bd6a17b" data-element_type="section" id="shafts">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-aa2aa1d" data-id="aa2aa1d" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-8451d40 elementor-widget elementor-widget-image" data-id="8451d40" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-															<img decoding="async" width="1882" height="1540" src="./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap.png" class="attachment-full size-full wp-image-1521" alt="" srcset="./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap.png 1882w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-300x245.png 300w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-1024x838.png 1024w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-768x628.png 768w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-1536x1257.png 1536w" sizes="(max-width: 1882px) 100vw, 1882px" />															</div>
-				</div>
-					</div>
-		</div>
+						<div class="elementor-widget-wrap elementor-element-populated">
+							<div class="elementor-element elementor-element-fd439a7 elementor-widget elementor-widget-cl_elementor-dropper-title" data-id="fd439a7" data-element_type="widget" data-widget_type="cl_elementor-dropper-title.default">
+								<div class="elementor-widget-container">
+									<div class="cl-dropper-title off" data-id="shafts">
+										<div style="display: flex; justify-content: space-between;">
+											<div class="text">
+												<p>Shafts</p>
+											</div>
+											<div style="margin: 8px 12px 0px 0px">
+												<img decoding="async" style="height:35px;" src="./wp-content/uploads/2023/10/down-arrow-icon.svg" alt="">
+											</div>
+										</div>
+										<div class="line"></div>
+									</div>
+								</div>
 							</div>
-		</section>
-				<div class="elementor-element elementor-element-071810c elementor-widget elementor-widget-cl_elementor-dropper-title" data-id="071810c" data-element_type="widget" data-widget_type="cl_elementor-dropper-title.default">
-				<div class="elementor-widget-container">
-			
-		
-        <div class="cl-dropper-title off" data-id="couplingbolts1">
-			<div style="display: flex; justify-content: space-between;">
-				<div class="text">
-                	<p>Coupling Bolts</p>
-            	</div>
-				<div style="margin: 8px 12px 0px 0px">
-					<img decoding="async" style="height:35px;" src="./wp-content/uploads/2023/10/down-arrow-icon.svg" alt="">				</div>
-			</div>
-            
-            <div class="line"></div>
-			
-        </div>
-				</div>
-				</div>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-57b3273 cl-drop-down elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="57b3273" data-element_type="section" id="couplingbolts1">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-b4d005c" data-id="b4d005c" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-1b2152e elementor-widget elementor-widget-image" data-id="1b2152e" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-															<img decoding="async" width="1882" height="1540" src="./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap.png" class="attachment-full size-full wp-image-1521" alt="" srcset="./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap.png 1882w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-300x245.png 300w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-1024x838.png 1024w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-768x628.png 768w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-1536x1257.png 1536w" sizes="(max-width: 1882px) 100vw, 1882px" />															</div>
-				</div>
-					</div>
-		</div>
+							<section class="elementor-section elementor-inner-section elementor-element elementor-element-bd6a17b cl-drop-down elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="bd6a17b" data-element_type="section" id="shafts">
+								<div class="elementor-container elementor-column-gap-default">
+									<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-aa2aa1d" data-id="aa2aa1d" data-element_type="column">
+										<div class="elementor-widget-wrap elementor-element-populated">
+											<div class="elementor-element elementor-element-8451d40 elementor-widget elementor-widget-image" data-id="8451d40" data-element_type="widget" data-widget_type="image.default">
+												<div class="elementor-widget-container">
+													<!-- REPLACE IMAGE --> <img decoding="async" width="1882" height="1540" src="./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap.png" class="attachment-full size-full wp-image-1521" alt="" srcset="./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap.png 1882w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-300x245.png 300w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-1024x838.png 1024w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-768x628.png 768w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-1536x1257.png 1536w" sizes="(max-width: 1882px) 100vw, 1882px" />
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</section>
+							<div class="elementor-element elementor-element-071810c elementor-widget elementor-widget-cl_elementor-dropper-title" data-id="071810c" data-element_type="widget" data-widget_type="cl_elementor-dropper-title.default">
+								<div class="elementor-widget-container">
+									<div class="cl-dropper-title off" data-id="couplingbolts1">
+										<div style="display: flex; justify-content: space-between;">
+											<div class="text">
+												<p>Coupling Bolts</p>
+											</div>
+											<div style="margin: 8px 12px 0px 0px">
+												<img decoding="async" style="height:35px;" src="./wp-content/uploads/2023/10/down-arrow-icon.svg" alt="">
+											</div>
+										</div>
+										<div class="line"></div>
+									</div>
+								</div>
 							</div>
-		</section>
+							<section class="elementor-section elementor-inner-section elementor-element elementor-element-57b3273 cl-drop-down elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="57b3273" data-element_type="section" id="couplingbolts1">
+								<div class="elementor-container elementor-column-gap-default">
+									<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-b4d005c" data-id="b4d005c" data-element_type="column">
+										<div class="elementor-widget-wrap elementor-element-populated">
+											<div class="elementor-element elementor-element-1b2152e elementor-widget elementor-widget-image" data-id="1b2152e" data-element_type="widget" data-widget_type="image.default">
+												<div class="elementor-widget-container">
+													<!-- REPLACE IMAGE --> <img decoding="async" width="1882" height="1540" src="./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap.png" class="attachment-full size-full wp-image-1521" alt="" srcset="./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap.png 1882w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-300x245.png 300w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-1024x838.png 1024w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-768x628.png 768w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-1536x1257.png 1536w" sizes="(max-width: 1882px) 100vw, 1882px" />
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</section>
+						</div>
 					</div>
-		</div>
-							</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-9ec9ffc elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="9ec9ffc" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
+				</div>
+			</section>
+			<section class="elementor-section elementor-top-section elementor-element elementor-element-9ec9ffc elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="9ec9ffc" data-element_type="section">
+				<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-d1aca1b" data-id="d1aca1b" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-b18f95f drop-white elementor-widget elementor-widget-cl_elementor-dropper-title" data-id="b18f95f" data-element_type="widget" data-widget_type="cl_elementor-dropper-title.default">
-				<div class="elementor-widget-container">
-			
-		
-        <div class="cl-dropper-title off" data-id="endbearingsandendseals">
-			<div style="display: flex; justify-content: space-between;">
-				<div class="text">
-                	<p>End Bearings & End Seals</p>
-            	</div>
-				<div style="margin: 8px 12px 0px 0px">
-					<img decoding="async" style="height:35px;" src="./wp-content/uploads/2023/10/down-arrow-icon-white.svg" alt="">				</div>
-			</div>
-            
-            <div class="line"></div>
-			
-        </div>
-				</div>
-				</div>
-					</div>
-		</div>
+						<div class="elementor-widget-wrap elementor-element-populated">
+							<div class="elementor-element elementor-element-b18f95f drop-white elementor-widget elementor-widget-cl_elementor-dropper-title" data-id="b18f95f" data-element_type="widget" data-widget_type="cl_elementor-dropper-title.default">
+								<div class="elementor-widget-container">
+									<div class="cl-dropper-title off" data-id="endbearingsandendseals">
+										<div style="display: flex; justify-content: space-between;">
+											<div class="text">
+												<p>End Bearings & End Seals</p>
+											</div>
+											<div style="margin: 8px 12px 0px 0px">
+												<img decoding="async" style="height:35px;" src="./wp-content/uploads/2023/10/down-arrow-icon-white.svg" alt="">
+											</div>
+										</div>
+										<div class="line"></div>
+									</div>
+								</div>
 							</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-5c58929 cl-drop-down elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5c58929" data-element_type="section" id="endbearingsandendseals">
-						<div class="elementor-container elementor-column-gap-default">
+						</div>
+					</div>
+				</div>
+			</section>
+			<section class="elementor-section elementor-top-section elementor-element elementor-element-5c58929 cl-drop-down elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5c58929" data-element_type="section" id="endbearingsandendseals">
+				<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-842b93d" data-id="842b93d" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-5feab30 elementor-widget elementor-widget-cl_elementor-dropper-title" data-id="5feab30" data-element_type="widget" data-widget_type="cl_elementor-dropper-title.default">
-				<div class="elementor-widget-container">
-			
-		
-        <div class="cl-dropper-title off" data-id="endbearings">
-			<div style="display: flex; justify-content: space-between;">
-				<div class="text">
-                	<p>End Bearings</p>
-            	</div>
-				<div style="margin: 8px 12px 0px 0px">
-					<img decoding="async" style="height:35px;" src="./wp-content/uploads/2023/10/down-arrow-icon.svg" alt="">				</div>
-			</div>
-            
-            <div class="line"></div>
-			
-        </div>
-				</div>
-				</div>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-afe120e cl-drop-down elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="afe120e" data-element_type="section" id="endbearings">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-ff498e1" data-id="ff498e1" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-195980a elementor-widget elementor-widget-image" data-id="195980a" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-															<img decoding="async" width="1882" height="1540" src="./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap.png" class="attachment-full size-full wp-image-1521" alt="" srcset="./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap.png 1882w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-300x245.png 300w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-1024x838.png 1024w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-768x628.png 768w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-1536x1257.png 1536w" sizes="(max-width: 1882px) 100vw, 1882px" />															</div>
-				</div>
-					</div>
-		</div>
+						<div class="elementor-widget-wrap elementor-element-populated">
+							<div class="elementor-element elementor-element-5feab30 elementor-widget elementor-widget-cl_elementor-dropper-title" data-id="5feab30" data-element_type="widget" data-widget_type="cl_elementor-dropper-title.default">
+								<div class="elementor-widget-container">
+									<div class="cl-dropper-title off" data-id="endbearings">
+										<div style="display: flex; justify-content: space-between;">
+											<div class="text">
+												<p>End Bearings</p>
+											</div>
+											<div style="margin: 8px 12px 0px 0px">
+												<img decoding="async" style="height:35px;" src="./wp-content/uploads/2023/10/down-arrow-icon.svg" alt="">
+											</div>
+										</div>
+										<div class="line"></div>
+									</div>
+								</div>
 							</div>
-		</section>
-				<div class="elementor-element elementor-element-01b8f54 elementor-widget elementor-widget-cl_elementor-dropper-title" data-id="01b8f54" data-element_type="widget" data-widget_type="cl_elementor-dropper-title.default">
-				<div class="elementor-widget-container">
-			
-		
-        <div class="cl-dropper-title off" data-id="endseals">
-			<div style="display: flex; justify-content: space-between;">
-				<div class="text">
-                	<p>End Seals</p>
-            	</div>
-				<div style="margin: 8px 12px 0px 0px">
-					<img decoding="async" style="height:35px;" src="./wp-content/uploads/2023/10/down-arrow-icon.svg" alt="">				</div>
-			</div>
-            
-            <div class="line"></div>
-			
-        </div>
-				</div>
-				</div>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-2cd9a6e cl-drop-down elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2cd9a6e" data-element_type="section" id="endseals">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-91f7e17" data-id="91f7e17" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-372a2bc elementor-widget elementor-widget-image" data-id="372a2bc" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-															<img decoding="async" width="1882" height="1540" src="./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap.png" class="attachment-full size-full wp-image-1521" alt="" srcset="./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap.png 1882w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-300x245.png 300w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-1024x838.png 1024w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-768x628.png 768w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-1536x1257.png 1536w" sizes="(max-width: 1882px) 100vw, 1882px" />															</div>
-				</div>
-					</div>
-		</div>
+							<section class="elementor-section elementor-inner-section elementor-element elementor-element-afe120e cl-drop-down elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="afe120e" data-element_type="section" id="endbearings">
+								<div class="elementor-container elementor-column-gap-default">
+									<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-ff498e1" data-id="ff498e1" data-element_type="column">
+										<div class="elementor-widget-wrap elementor-element-populated">
+											<div class="elementor-element elementor-element-195980a elementor-widget elementor-widget-image" data-id="195980a" data-element_type="widget" data-widget_type="image.default">
+												<div class="elementor-widget-container">
+													<!-- REPLACE IMAGE --> <img decoding="async" width="1882" height="1540" src="./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap.png" class="attachment-full size-full wp-image-1521" alt="" srcset="./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap.png 1882w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-300x245.png 300w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-1024x838.png 1024w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-768x628.png 768w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-1536x1257.png 1536w" sizes="(max-width: 1882px) 100vw, 1882px" />
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</section>
+							<div class="elementor-element elementor-element-01b8f54 elementor-widget elementor-widget-cl_elementor-dropper-title" data-id="01b8f54" data-element_type="widget" data-widget_type="cl_elementor-dropper-title.default">
+								<div class="elementor-widget-container">
+									<div class="cl-dropper-title off" data-id="endseals">
+										<div style="display: flex; justify-content: space-between;">
+											<div class="text">
+												<p>End Seals</p>
+											</div>
+											<div style="margin: 8px 12px 0px 0px">
+												<img decoding="async" style="height:35px;" src="./wp-content/uploads/2023/10/down-arrow-icon.svg" alt="">
+											</div>
+										</div>
+										<div class="line"></div>
+									</div>
+								</div>
 							</div>
-		</section>
-				<div class="elementor-element elementor-element-1846c84 elementor-widget elementor-widget-cl_elementor-dropper-title" data-id="1846c84" data-element_type="widget" data-widget_type="cl_elementor-dropper-title.default">
-				<div class="elementor-widget-container">
-			
-		
-        <div class="cl-dropper-title off" data-id="thrustunits">
-			<div style="display: flex; justify-content: space-between;">
-				<div class="text">
-                	<p>Thrust Units</p>
-            	</div>
-				<div style="margin: 8px 12px 0px 0px">
-					<img decoding="async" style="height:35px;" src="./wp-content/uploads/2023/10/down-arrow-icon.svg" alt="">				</div>
-			</div>
-            
-            <div class="line"></div>
-			
-        </div>
-				</div>
-				</div>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-8fd3262 cl-drop-down elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="8fd3262" data-element_type="section" id="thrustunits">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-2f2a948" data-id="2f2a948" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-7710fd4 elementor-widget elementor-widget-image" data-id="7710fd4" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-															<img decoding="async" width="1882" height="1540" src="./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap.png" class="attachment-full size-full wp-image-1521" alt="" srcset="./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap.png 1882w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-300x245.png 300w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-1024x838.png 1024w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-768x628.png 768w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-1536x1257.png 1536w" sizes="(max-width: 1882px) 100vw, 1882px" />															</div>
-				</div>
-					</div>
-		</div>
+							<section class="elementor-section elementor-inner-section elementor-element elementor-element-2cd9a6e cl-drop-down elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2cd9a6e" data-element_type="section" id="endseals">
+								<div class="elementor-container elementor-column-gap-default">
+									<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-91f7e17" data-id="91f7e17" data-element_type="column">
+										<div class="elementor-widget-wrap elementor-element-populated">
+											<div class="elementor-element elementor-element-372a2bc elementor-widget elementor-widget-image" data-id="372a2bc" data-element_type="widget" data-widget_type="image.default">
+												<div class="elementor-widget-container">
+													<!-- REPLACE IMAGE --> <img decoding="async" width="1882" height="1540" src="./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap.png" class="attachment-full size-full wp-image-1521" alt="" srcset="./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap.png 1882w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-300x245.png 300w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-1024x838.png 1024w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-768x628.png 768w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-1536x1257.png 1536w" sizes="(max-width: 1882px) 100vw, 1882px" />
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</section>
+							<div class="elementor-element elementor-element-1846c84 elementor-widget elementor-widget-cl_elementor-dropper-title" data-id="1846c84" data-element_type="widget" data-widget_type="cl_elementor-dropper-title.default">
+								<div class="elementor-widget-container">
+									<div class="cl-dropper-title off" data-id="thrustunits">
+										<div style="display: flex; justify-content: space-between;">
+											<div class="text">
+												<p>Thrust Units</p>
+											</div>
+											<div style="margin: 8px 12px 0px 0px">
+												<img decoding="async" style="height:35px;" src="./wp-content/uploads/2023/10/down-arrow-icon.svg" alt="">
+											</div>
+										</div>
+										<div class="line"></div>
+									</div>
+								</div>
 							</div>
-		</section>
+							<section class="elementor-section elementor-inner-section elementor-element elementor-element-8fd3262 cl-drop-down elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="8fd3262" data-element_type="section" id="thrustunits">
+								<div class="elementor-container elementor-column-gap-default">
+									<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-2f2a948" data-id="2f2a948" data-element_type="column">
+										<div class="elementor-widget-wrap elementor-element-populated">
+											<div class="elementor-element elementor-element-7710fd4 elementor-widget elementor-widget-image" data-id="7710fd4" data-element_type="widget" data-widget_type="image.default">
+												<div class="elementor-widget-container">
+													<!-- REPLACE IMAGE --> <img decoding="async" width="1882" height="1540" src="./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap.png" class="attachment-full size-full wp-image-1521" alt="" srcset="./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap.png 1882w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-300x245.png 300w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-1024x838.png 1024w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-768x628.png 768w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-1536x1257.png 1536w" sizes="(max-width: 1882px) 100vw, 1882px" />
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</section>
+						</div>
 					</div>
-		</div>
-							</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-a88ae2a elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="a88ae2a" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
+				</div>
+			</section>
+			<section class="elementor-section elementor-top-section elementor-element elementor-element-a88ae2a elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="a88ae2a" data-element_type="section">
+				<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-c714187" data-id="c714187" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-7dad18b drop-white elementor-widget elementor-widget-cl_elementor-dropper-title" data-id="7dad18b" data-element_type="widget" data-widget_type="cl_elementor-dropper-title.default">
-				<div class="elementor-widget-container">
-			
-		
-        <div class="cl-dropper-title off" data-id="hangerandhangerbearing">
-			<div style="display: flex; justify-content: space-between;">
-				<div class="text">
-                	<p>Hanger & Hanger Bearing</p>
-            	</div>
-				<div style="margin: 8px 12px 0px 0px">
-					<img decoding="async" style="height:35px;" src="./wp-content/uploads/2023/10/down-arrow-icon-white.svg" alt="">				</div>
-			</div>
-            
-            <div class="line"></div>
-			
-        </div>
-				</div>
-				</div>
-					</div>
-		</div>
+						<div class="elementor-widget-wrap elementor-element-populated">
+							<div class="elementor-element elementor-element-7dad18b drop-white elementor-widget elementor-widget-cl_elementor-dropper-title" data-id="7dad18b" data-element_type="widget" data-widget_type="cl_elementor-dropper-title.default">
+								<div class="elementor-widget-container">
+									<div class="cl-dropper-title off" data-id="hangerandhangerbearing">
+										<div style="display: flex; justify-content: space-between;">
+											<div class="text">
+												<p>Hanger & Hanger Bearing</p>
+											</div>
+											<div style="margin: 8px 12px 0px 0px">
+												<img decoding="async" style="height:35px;" src="./wp-content/uploads/2023/10/down-arrow-icon-white.svg" alt="">
+											</div>
+										</div>
+										<div class="line"></div>
+									</div>
+								</div>
 							</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-3eae0b6 cl-drop-down elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="3eae0b6" data-element_type="section" id="hangerandhangerbearing">
-						<div class="elementor-container elementor-column-gap-default">
+						</div>
+					</div>
+				</div>
+			</section>
+			<section class="elementor-section elementor-top-section elementor-element elementor-element-3eae0b6 cl-drop-down elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="3eae0b6" data-element_type="section" id="hangerandhangerbearing">
+				<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-4b3c6c6" data-id="4b3c6c6" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-0cf54ef elementor-widget elementor-widget-cl_elementor-dropper-title" data-id="0cf54ef" data-element_type="widget" data-widget_type="cl_elementor-dropper-title.default">
-				<div class="elementor-widget-container">
-			
-		
-        <div class="cl-dropper-title off" data-id="hangers">
-			<div style="display: flex; justify-content: space-between;">
-				<div class="text">
-                	<p>Hangers</p>
-            	</div>
-				<div style="margin: 8px 12px 0px 0px">
-					<img decoding="async" style="height:35px;" src="./wp-content/uploads/2023/10/down-arrow-icon.svg" alt="">				</div>
-			</div>
-            
-            <div class="line"></div>
-			
-        </div>
-				</div>
-				</div>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-164830a cl-drop-down elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="164830a" data-element_type="section" id="hangers">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-b143555" data-id="b143555" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-d84e1f7 elementor-widget elementor-widget-image" data-id="d84e1f7" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-															<img decoding="async" width="1882" height="1540" src="./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap.png" class="attachment-full size-full wp-image-1521" alt="" srcset="./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap.png 1882w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-300x245.png 300w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-1024x838.png 1024w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-768x628.png 768w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-1536x1257.png 1536w" sizes="(max-width: 1882px) 100vw, 1882px" />															</div>
-				</div>
-					</div>
-		</div>
+						<div class="elementor-widget-wrap elementor-element-populated">
+							<div class="elementor-element elementor-element-0cf54ef elementor-widget elementor-widget-cl_elementor-dropper-title" data-id="0cf54ef" data-element_type="widget" data-widget_type="cl_elementor-dropper-title.default">
+								<div class="elementor-widget-container">
+									<div class="cl-dropper-title off" data-id="hangers">
+										<div style="display: flex; justify-content: space-between;">
+											<div class="text">
+												<p>Hangers</p>
+											</div>
+											<div style="margin: 8px 12px 0px 0px">
+												<img decoding="async" style="height:35px;" src="./wp-content/uploads/2023/10/down-arrow-icon.svg" alt="">
+											</div>
+										</div>
+										<div class="line"></div>
+									</div>
+								</div>
 							</div>
-		</section>
-				<div class="elementor-element elementor-element-71aba6f elementor-widget elementor-widget-cl_elementor-dropper-title" data-id="71aba6f" data-element_type="widget" data-widget_type="cl_elementor-dropper-title.default">
-				<div class="elementor-widget-container">
-			
-		
-        <div class="cl-dropper-title off" data-id="hangerbearings">
-			<div style="display: flex; justify-content: space-between;">
-				<div class="text">
-                	<p>Hanger Bearings</p>
-            	</div>
-				<div style="margin: 8px 12px 0px 0px">
-					<img decoding="async" style="height:35px;" src="./wp-content/uploads/2023/10/down-arrow-icon.svg" alt="">				</div>
-			</div>
-            
-            <div class="line"></div>
-			
-        </div>
-				</div>
-				</div>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-478ad71 cl-drop-down elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="478ad71" data-element_type="section" id="hangerbearings">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-ae20293" data-id="ae20293" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-b6c4a33 elementor-widget elementor-widget-image" data-id="b6c4a33" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-															<img decoding="async" width="1882" height="1540" src="./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap.png" class="attachment-full size-full wp-image-1521" alt="" srcset="./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap.png 1882w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-300x245.png 300w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-1024x838.png 1024w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-768x628.png 768w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-1536x1257.png 1536w" sizes="(max-width: 1882px) 100vw, 1882px" />															</div>
-				</div>
-					</div>
-		</div>
+							<section class="elementor-section elementor-inner-section elementor-element elementor-element-164830a cl-drop-down elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="164830a" data-element_type="section" id="hangers">
+								<div class="elementor-container elementor-column-gap-default">
+									<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-b143555" data-id="b143555" data-element_type="column">
+										<div class="elementor-widget-wrap elementor-element-populated">
+											<div class="elementor-element elementor-element-d84e1f7 elementor-widget elementor-widget-image" data-id="d84e1f7" data-element_type="widget" data-widget_type="image.default">
+												<div class="elementor-widget-container">
+													<!-- REPLACE IMAGE --> <img decoding="async" width="1882" height="1540" src="./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap.png" class="attachment-full size-full wp-image-1521" alt="" srcset="./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap.png 1882w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-300x245.png 300w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-1024x838.png 1024w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-768x628.png 768w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-1536x1257.png 1536w" sizes="(max-width: 1882px) 100vw, 1882px" />
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</section>
+							<div class="elementor-element elementor-element-71aba6f elementor-widget elementor-widget-cl_elementor-dropper-title" data-id="71aba6f" data-element_type="widget" data-widget_type="cl_elementor-dropper-title.default">
+								<div class="elementor-widget-container">
+									<div class="cl-dropper-title off" data-id="hangerbearings">
+										<div style="display: flex; justify-content: space-between;">
+											<div class="text">
+												<p>Hanger Bearings</p>
+											</div>
+											<div style="margin: 8px 12px 0px 0px">
+												<img decoding="async" style="height:35px;" src="./wp-content/uploads/2023/10/down-arrow-icon.svg" alt="">
+											</div>
+										</div>
+										<div class="line"></div>
+									</div>
+								</div>
 							</div>
-		</section>
+							<section class="elementor-section elementor-inner-section elementor-element elementor-element-478ad71 cl-drop-down elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="478ad71" data-element_type="section" id="hangerbearings">
+								<div class="elementor-container elementor-column-gap-default">
+									<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-ae20293" data-id="ae20293" data-element_type="column">
+										<div class="elementor-widget-wrap elementor-element-populated">
+											<div class="elementor-element elementor-element-b6c4a33 elementor-widget elementor-widget-image" data-id="b6c4a33" data-element_type="widget" data-widget_type="image.default">
+												<div class="elementor-widget-container">
+													<!-- REPLACE IMAGE --> <img decoding="async" width="1882" height="1540" src="./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap.png" class="attachment-full size-full wp-image-1521" alt="" srcset="./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap.png 1882w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-300x245.png 300w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-1024x838.png 1024w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-768x628.png 768w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-1536x1257.png 1536w" sizes="(max-width: 1882px) 100vw, 1882px" />
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</section>
+						</div>
 					</div>
-		</div>
-							</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-2fc3336 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2fc3336" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
+				</div>
+			</section>
+			<section class="elementor-section elementor-top-section elementor-element elementor-element-2fc3336 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2fc3336" data-element_type="section">
+				<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-151de3d" data-id="151de3d" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-a75cff3 drop-white elementor-widget elementor-widget-cl_elementor-dropper-title" data-id="a75cff3" data-element_type="widget" data-widget_type="cl_elementor-dropper-title.default">
-				<div class="elementor-widget-container">
-			
-		
-        <div class="cl-dropper-title off" data-id="conveyorscrews">
-			<div style="display: flex; justify-content: space-between;">
-				<div class="text">
-                	<p>Conveyor Screws</p>
-            	</div>
-				<div style="margin: 8px 12px 0px 0px">
-					<img decoding="async" style="height:35px;" src="./wp-content/uploads/2023/10/down-arrow-icon-white.svg" alt="">				</div>
-			</div>
-            
-            <div class="line"></div>
-			
-        </div>
-				</div>
-				</div>
-					</div>
-		</div>
+						<div class="elementor-widget-wrap elementor-element-populated">
+							<div class="elementor-element elementor-element-a75cff3 drop-white elementor-widget elementor-widget-cl_elementor-dropper-title" data-id="a75cff3" data-element_type="widget" data-widget_type="cl_elementor-dropper-title.default">
+								<div class="elementor-widget-container">
+									<div class="cl-dropper-title off" data-id="conveyorscrews">
+										<div style="display: flex; justify-content: space-between;">
+											<div class="text">
+												<p>Conveyor Screws</p>
+											</div>
+											<div style="margin: 8px 12px 0px 0px">
+												<img decoding="async" style="height:35px;" src="./wp-content/uploads/2023/10/down-arrow-icon-white.svg" alt="">
+											</div>
+										</div>
+            							<div class="line"></div>
+									</div>
+								</div>
 							</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-d74994f cl-drop-down elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="d74994f" data-element_type="section" id="conveyorscrews">
-						<div class="elementor-container elementor-column-gap-default">
+						</div>
+					</div>
+				</div>
+			</section>
+			<section class="elementor-section elementor-top-section elementor-element elementor-element-d74994f cl-drop-down elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="d74994f" data-element_type="section" id="conveyorscrews">
+				<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-28dfe41" data-id="28dfe41" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-1eefddc elementor-widget elementor-widget-cl_elementor-dropper-title" data-id="1eefddc" data-element_type="widget" data-widget_type="cl_elementor-dropper-title.default">
-				<div class="elementor-widget-container">
-			
-		
-        <div class="cl-dropper-title off" data-id="screws">
-			<div style="display: flex; justify-content: space-between;">
-				<div class="text">
-                	<p>Screws</p>
-            	</div>
-				<div style="margin: 8px 12px 0px 0px">
-					<img decoding="async" style="height:35px;" src="./wp-content/uploads/2023/10/down-arrow-icon.svg" alt="">				</div>
-			</div>
-            
-            <div class="line"></div>
-			
-        </div>
-				</div>
-				</div>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-f8a8e79 cl-drop-down elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="f8a8e79" data-element_type="section" id="screws">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-af19d29" data-id="af19d29" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-594beb8 elementor-widget elementor-widget-image" data-id="594beb8" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-															<img decoding="async" width="1882" height="1540" src="./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap.png" class="attachment-full size-full wp-image-1521" alt="" srcset="./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap.png 1882w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-300x245.png 300w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-1024x838.png 1024w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-768x628.png 768w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-1536x1257.png 1536w" sizes="(max-width: 1882px) 100vw, 1882px" />															</div>
-				</div>
+						<div class="elementor-widget-wrap elementor-element-populated">
+							<div class="elementor-element elementor-element-1eefddc elementor-widget elementor-widget-cl_elementor-dropper-title" data-id="1eefddc" data-element_type="widget" data-widget_type="cl_elementor-dropper-title.default">
+								<div class="elementor-widget-container">
+									<div class="cl-dropper-title off" data-id="screws">
+										<div style="display: flex; justify-content: space-between;">
+											<div class="text">
+												<p>Screws</p>
+											</div>
+											<div style="margin: 8px 12px 0px 0px">
+												<img decoding="async" style="height:35px;" src="./wp-content/uploads/2023/10/down-arrow-icon.svg" alt="">
+											</div>
+										</div>
+										<div class="line"></div>
+									</div>
+								</div>
+							</div>
+							<section class="elementor-section elementor-inner-section elementor-element elementor-element-f8a8e79 cl-drop-down elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="f8a8e79" data-element_type="section" id="screws">
+								<div class="elementor-container elementor-column-gap-default">
+									<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-af19d29" data-id="af19d29" data-element_type="column">
+										<div class="elementor-widget-wrap elementor-element-populated">
+											<div class="elementor-element elementor-element-594beb8 elementor-widget elementor-widget-image" data-id="594beb8" data-element_type="widget" data-widget_type="image.default">
+												<div class="elementor-widget-container">
+													<!-- REPLACE IMAGE --> <img decoding="async" width="1882" height="1540" src="./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap.png" class="attachment-full size-full wp-image-1521" alt="" srcset="./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap.png 1882w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-300x245.png 300w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-1024x838.png 1024w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-768x628.png 768w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-1536x1257.png 1536w" sizes="(max-width: 1882px) 100vw, 1882px" />
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</section>
+							<div class="elementor-element elementor-element-b6203b8 elementor-widget elementor-widget-cl_elementor-dropper-title" data-id="b6203b8" data-element_type="widget" data-widget_type="cl_elementor-dropper-title.default">
+								<div class="elementor-widget-container">
+									<div class="cl-dropper-title off" data-id="flighting">
+										<div style="display: flex; justify-content: space-between;">
+											<div class="text">
+												<p>Flighting</p>
+											</div>
+											<div style="margin: 8px 12px 0px 0px">
+												<img decoding="async" style="height:35px;" src="./wp-content/uploads/2023/10/down-arrow-icon.svg" alt="">
+											</div>
+										</div>
+										<div class="line"></div>
+									</div>
+								</div>
+							</div>
+							<section class="elementor-section elementor-inner-section elementor-element elementor-element-66b5c01 cl-drop-down elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="66b5c01" data-element_type="section" id="flighting">
+								<div class="elementor-container elementor-column-gap-default">
+									<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-312f45c" data-id="312f45c" data-element_type="column">
+										<div class="elementor-widget-wrap elementor-element-populated">
+											<div class="elementor-element elementor-element-dade99b elementor-widget elementor-widget-image" data-id="dade99b" data-element_type="widget" data-widget_type="image.default">
+												<div class="elementor-widget-container">
+													<!-- REPLACE IMAGE --> <img decoding="async" width="1882" height="1540" src="./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap.png" class="attachment-full size-full wp-image-1521" alt="" srcset="./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap.png 1882w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-300x245.png 300w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-1024x838.png 1024w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-768x628.png 768w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-1536x1257.png 1536w" sizes="(max-width: 1882px) 100vw, 1882px" />
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</section>
+							<div class="elementor-element elementor-element-a53e115 elementor-widget elementor-widget-cl_elementor-dropper-title" data-id="a53e115" data-element_type="widget" data-widget_type="cl_elementor-dropper-title.default">
+								<div class="elementor-widget-container">
+									<div class="cl-dropper-title off" data-id="endlugs">
+										<div style="display: flex; justify-content: space-between;">
+											<div class="text">
+												<p>End Lugs</p>
+											</div>
+											<div style="margin: 8px 12px 0px 0px">
+												<img decoding="async" style="height:35px;" src="./wp-content/uploads/2023/10/down-arrow-icon.svg" alt="">
+											</div>
+										</div>
+										<div class="line"></div>
+									</div>
+								</div>
+							</div>
+							<section class="elementor-section elementor-inner-section elementor-element elementor-element-5ab13cc cl-drop-down elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5ab13cc" data-element_type="section" id="endlugs">
+								<div class="elementor-container elementor-column-gap-default">
+									<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-2a1fdb3" data-id="2a1fdb3" data-element_type="column">
+										<div class="elementor-widget-wrap elementor-element-populated">
+											<div class="elementor-element elementor-element-84ce26c elementor-widget elementor-widget-image" data-id="84ce26c" data-element_type="widget" data-widget_type="image.default">
+												<div class="elementor-widget-container">
+													<!-- REPLACE IMAGE --> <img decoding="async" width="1882" height="1540" src="./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap.png" class="attachment-full size-full wp-image-1521" alt="" srcset="./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap.png 1882w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-300x245.png 300w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-1024x838.png 1024w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-768x628.png 768w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-1536x1257.png 1536w" sizes="(max-width: 1882px) 100vw, 1882px" />
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</section>
+							<div class="elementor-element elementor-element-5bbe85b elementor-widget elementor-widget-cl_elementor-dropper-title" data-id="5bbe85b" data-element_type="widget" data-widget_type="cl_elementor-dropper-title.default">
+								<div class="elementor-widget-container">
+									<div class="cl-dropper-title off" data-id="internalcollars">
+										<div style="display: flex; justify-content: space-between;">
+											<div class="text">
+												<p>Internal Collars</p>
+											</div>
+											<div style="margin: 8px 12px 0px 0px">
+												<img decoding="async" style="height:35px;" src="./wp-content/uploads/2023/10/down-arrow-icon.svg" alt="">
+											</div>
+										</div>
+										<div class="line"></div>
+									</div>
+								</div>
+							</div>
+							<section class="elementor-section elementor-inner-section elementor-element elementor-element-3caeeff cl-drop-down elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="3caeeff" data-element_type="section" id="internalcollars">
+								<div class="elementor-container elementor-column-gap-default">
+									<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-737b8bf" data-id="737b8bf" data-element_type="column">
+										<div class="elementor-widget-wrap elementor-element-populated">
+											<div class="elementor-element elementor-element-7392b80 elementor-widget elementor-widget-image" data-id="7392b80" data-element_type="widget" data-widget_type="image.default">
+												<div class="elementor-widget-container">
+													<!-- REPLACE IMAGE --> <img decoding="async" width="1882" height="1540" src="./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap.png" class="attachment-full size-full wp-image-1521" alt="" srcset="./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap.png 1882w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-300x245.png 300w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-1024x838.png 1024w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-768x628.png 768w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-1536x1257.png 1536w" sizes="(max-width: 1882px) 100vw, 1882px" />
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</section>
+							<div class="elementor-element elementor-element-6cfd434 elementor-widget elementor-widget-cl_elementor-dropper-title" data-id="6cfd434" data-element_type="widget" data-widget_type="cl_elementor-dropper-title.default">
+								<div class="elementor-widget-container">
+									<div class="cl-dropper-title off" data-id="couplingbolts">
+										<div style="display: flex; justify-content: space-between;">
+											<div class="text">
+												<p>Coupling Bolts</p>
+											</div>
+											<div style="margin: 8px 12px 0px 0px">
+												<img decoding="async" style="height:35px;" src="./wp-content/uploads/2023/10/down-arrow-icon.svg" alt="">
+											</div>
+										</div>
+										<div class="line"></div>
+									</div>
+								</div>
+							</div>
+							<section class="elementor-section elementor-inner-section elementor-element elementor-element-7ce1a96 cl-drop-down elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7ce1a96" data-element_type="section" id="couplingbolts">
+								<div class="elementor-container elementor-column-gap-default">
+									<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-d94c42a" data-id="d94c42a" data-element_type="column">
+										<div class="elementor-widget-wrap elementor-element-populated">
+											<div class="elementor-element elementor-element-09a1434 elementor-widget elementor-widget-image" data-id="09a1434" data-element_type="widget" data-widget_type="image.default">
+												<div class="elementor-widget-container">
+													<!-- REPLACE IMAGE --> <img decoding="async" width="1882" height="1540" src="./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap.png" class="attachment-full size-full wp-image-1521" alt="" srcset="./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap.png 1882w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-300x245.png 300w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-1024x838.png 1024w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-768x628.png 768w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-1536x1257.png 1536w" sizes="(max-width: 1882px) 100vw, 1882px" />
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</section>
+						</div>
 					</div>
+				</div>
+			</section>
 		</div>
-							</div>
-		</section>
-				<div class="elementor-element elementor-element-b6203b8 elementor-widget elementor-widget-cl_elementor-dropper-title" data-id="b6203b8" data-element_type="widget" data-widget_type="cl_elementor-dropper-title.default">
-				<div class="elementor-widget-container">
-			
-		
-        <div class="cl-dropper-title off" data-id="flighting">
-			<div style="display: flex; justify-content: space-between;">
-				<div class="text">
-                	<p>Flighting</p>
-            	</div>
-				<div style="margin: 8px 12px 0px 0px">
-					<img decoding="async" style="height:35px;" src="./wp-content/uploads/2023/10/down-arrow-icon.svg" alt="">				</div>
-			</div>
-            
-            <div class="line"></div>
-			
-        </div>
-				</div>
-				</div>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-66b5c01 cl-drop-down elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="66b5c01" data-element_type="section" id="flighting">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-312f45c" data-id="312f45c" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-dade99b elementor-widget elementor-widget-image" data-id="dade99b" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-															<img decoding="async" width="1882" height="1540" src="./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap.png" class="attachment-full size-full wp-image-1521" alt="" srcset="./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap.png 1882w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-300x245.png 300w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-1024x838.png 1024w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-768x628.png 768w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-1536x1257.png 1536w" sizes="(max-width: 1882px) 100vw, 1882px" />															</div>
-				</div>
-					</div>
+		<div class="post-tags">
 		</div>
-							</div>
-		</section>
-				<div class="elementor-element elementor-element-a53e115 elementor-widget elementor-widget-cl_elementor-dropper-title" data-id="a53e115" data-element_type="widget" data-widget_type="cl_elementor-dropper-title.default">
-				<div class="elementor-widget-container">
-			
-		
-        <div class="cl-dropper-title off" data-id="endlugs">
-			<div style="display: flex; justify-content: space-between;">
-				<div class="text">
-                	<p>End Lugs</p>
-            	</div>
-				<div style="margin: 8px 12px 0px 0px">
-					<img decoding="async" style="height:35px;" src="./wp-content/uploads/2023/10/down-arrow-icon.svg" alt="">				</div>
-			</div>
-            
-            <div class="line"></div>
-			
-        </div>
-				</div>
-				</div>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-5ab13cc cl-drop-down elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5ab13cc" data-element_type="section" id="endlugs">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-2a1fdb3" data-id="2a1fdb3" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-84ce26c elementor-widget elementor-widget-image" data-id="84ce26c" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-															<img decoding="async" width="1882" height="1540" src="./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap.png" class="attachment-full size-full wp-image-1521" alt="" srcset="./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap.png 1882w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-300x245.png 300w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-1024x838.png 1024w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-768x628.png 768w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-1536x1257.png 1536w" sizes="(max-width: 1882px) 100vw, 1882px" />															</div>
-				</div>
-					</div>
-		</div>
-							</div>
-		</section>
-				<div class="elementor-element elementor-element-5bbe85b elementor-widget elementor-widget-cl_elementor-dropper-title" data-id="5bbe85b" data-element_type="widget" data-widget_type="cl_elementor-dropper-title.default">
-				<div class="elementor-widget-container">
-			
-		
-        <div class="cl-dropper-title off" data-id="internalcollars">
-			<div style="display: flex; justify-content: space-between;">
-				<div class="text">
-                	<p>Internal Collars</p>
-            	</div>
-				<div style="margin: 8px 12px 0px 0px">
-					<img decoding="async" style="height:35px;" src="./wp-content/uploads/2023/10/down-arrow-icon.svg" alt="">				</div>
-			</div>
-            
-            <div class="line"></div>
-			
-        </div>
-				</div>
-				</div>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-3caeeff cl-drop-down elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="3caeeff" data-element_type="section" id="internalcollars">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-737b8bf" data-id="737b8bf" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-7392b80 elementor-widget elementor-widget-image" data-id="7392b80" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-															<img decoding="async" width="1882" height="1540" src="./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap.png" class="attachment-full size-full wp-image-1521" alt="" srcset="./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap.png 1882w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-300x245.png 300w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-1024x838.png 1024w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-768x628.png 768w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-1536x1257.png 1536w" sizes="(max-width: 1882px) 100vw, 1882px" />															</div>
-				</div>
-					</div>
-		</div>
-							</div>
-		</section>
-				<div class="elementor-element elementor-element-6cfd434 elementor-widget elementor-widget-cl_elementor-dropper-title" data-id="6cfd434" data-element_type="widget" data-widget_type="cl_elementor-dropper-title.default">
-				<div class="elementor-widget-container">
-			
-		
-        <div class="cl-dropper-title off" data-id="couplingbolts">
-			<div style="display: flex; justify-content: space-between;">
-				<div class="text">
-                	<p>Coupling Bolts</p>
-            	</div>
-				<div style="margin: 8px 12px 0px 0px">
-					<img decoding="async" style="height:35px;" src="./wp-content/uploads/2023/10/down-arrow-icon.svg" alt="">				</div>
-			</div>
-            
-            <div class="line"></div>
-			
-        </div>
-				</div>
-				</div>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-7ce1a96 cl-drop-down elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7ce1a96" data-element_type="section" id="couplingbolts">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-d94c42a" data-id="d94c42a" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-09a1434 elementor-widget elementor-widget-image" data-id="09a1434" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-															<img decoding="async" width="1882" height="1540" src="./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap.png" class="attachment-full size-full wp-image-1521" alt="" srcset="./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap.png 1882w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-300x245.png 300w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-1024x838.png 1024w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-768x628.png 768w, ./wp-content/uploads/2023/11/TC-Online-Catalog-Trough-Screencap-1536x1257.png 1536w" sizes="(max-width: 1882px) 100vw, 1882px" />															</div>
-				</div>
-					</div>
-		</div>
-							</div>
-		</section>
-					</div>
-		</div>
-							</div>
-		</section>
-							</div>
-				<div class="post-tags">
-					</div>
-			</div>
-
+	</div>
 	<section id="comments" class="comments-area">
-
-	
-	
-	
-</section><!-- .comments-area --></main>
+	</section><!-- .comments-area -->
+</main>
 
 <?php include 'footer.php';?>
 

@@ -253,7 +253,7 @@ img.emoji {
                                                                 <a href="./blog/super-capacity-elevators.php"></a>
                                                             </div>
                                                             <div class="eael-entry-thumbnail ">
-                                                                <img width="400" height="400" src="./wp-content/uploads/2023/06/default-gray.jpg" class="attachment-full size-full wp-image-1143" alt="" decoding="async" srcset="./wp-content/uploads/2023/06/default-gray.jpg 400w, ./wp-content/uploads/2023/06/default-gray-300x300.jpg 300w, ./wp-content/uploads/2023/06/default-gray-150x150.jpg 150w" sizes="(max-width: 400px) 100vw, 400px" />
+                                                                <!-- REPLACE IMAGE --> <img width="400" height="400" src="./wp-content/uploads/2023/06/default-gray.jpg" class="attachment-full size-full wp-image-1143" alt="" decoding="async" srcset="./wp-content/uploads/2023/06/default-gray.jpg 400w, ./wp-content/uploads/2023/06/default-gray-300x300.jpg 300w, ./wp-content/uploads/2023/06/default-gray-150x150.jpg 150w" sizes="(max-width: 400px) 100vw, 400px" />
                                                             </div>
                                                         </div>
                                                         <div class="eael-entry-wrapper">
@@ -286,7 +286,7 @@ img.emoji {
                                                                 <a href="./blog/mill-duty-elevators.php"></a>
                                                             </div>
                                                             <div class="eael-entry-thumbnail ">
-                                                                <img width="400" height="400" src="./wp-content/uploads/2023/06/default-gray.jpg" class="attachment-full size-full wp-image-1143" alt="" decoding="async" srcset="./wp-content/uploads/2023/06/default-gray.jpg 400w, ./wp-content/uploads/2023/06/default-gray-300x300.jpg 300w, ./wp-content/uploads/2023/06/default-gray-150x150.jpg 150w" sizes="(max-width: 400px) 100vw, 400px" />
+                                                                <!-- REPLACE IMAGE --> <img width="400" height="400" src="./wp-content/uploads/2023/06/default-gray.jpg" class="attachment-full size-full wp-image-1143" alt="" decoding="async" srcset="./wp-content/uploads/2023/06/default-gray.jpg 400w, ./wp-content/uploads/2023/06/default-gray-300x300.jpg 300w, ./wp-content/uploads/2023/06/default-gray-150x150.jpg 150w" sizes="(max-width: 400px) 100vw, 400px" />
                                                             </div>
                                                         </div>
                                                         <div class="eael-entry-wrapper">
@@ -319,7 +319,7 @@ img.emoji {
                                                                 <a href="./blog/highspeed-grain-elevators.php"></a>
                                                             </div>
                                                             <div class="eael-entry-thumbnail ">
-                                                                <img width="400" height="400" src="./wp-content/uploads/2023/06/default-gray.jpg" class="attachment-full size-full wp-image-1143" alt="" decoding="async" srcset="./wp-content/uploads/2023/06/default-gray.jpg 400w, ./wp-content/uploads/2023/06/default-gray-300x300.jpg 300w, ./wp-content/uploads/2023/06/default-gray-150x150.jpg 150w" sizes="(max-width: 400px) 100vw, 400px" />
+                                                                <!-- REPLACE IMAGE --> <img width="400" height="400" src="./wp-content/uploads/2023/06/default-gray.jpg" class="attachment-full size-full wp-image-1143" alt="" decoding="async" srcset="./wp-content/uploads/2023/06/default-gray.jpg 400w, ./wp-content/uploads/2023/06/default-gray-300x300.jpg 300w, ./wp-content/uploads/2023/06/default-gray-150x150.jpg 150w" sizes="(max-width: 400px) 100vw, 400px" />
                                                             </div>
                                                         </div>
                                                         <div class="eael-entry-wrapper">
@@ -353,7 +353,7 @@ img.emoji {
                                                                 <a href="./blog/centrifugal-elevators.php"></a>
                                                             </div>
                                                             <div class="eael-entry-thumbnail ">
-                                                                <img width="400" height="400" src="./wp-content/uploads/2023/06/default-gray.jpg" class="attachment-full size-full wp-image-1143" alt="" decoding="async" srcset="./wp-content/uploads/2023/06/default-gray.jpg 400w, ./wp-content/uploads/2023/06/default-gray-300x300.jpg 300w, ./wp-content/uploads/2023/06/default-gray-150x150.jpg 150w" sizes="(max-width: 400px) 100vw, 400px" />
+                                                                <!-- REPLACE IMAGE --> <img width="400" height="400" src="./wp-content/uploads/2023/06/default-gray.jpg" class="attachment-full size-full wp-image-1143" alt="" decoding="async" srcset="./wp-content/uploads/2023/06/default-gray.jpg 400w, ./wp-content/uploads/2023/06/default-gray-300x300.jpg 300w, ./wp-content/uploads/2023/06/default-gray-150x150.jpg 150w" sizes="(max-width: 400px) 100vw, 400px" />
                                                             </div>
                                                         </div>
                                                         <div class="eael-entry-wrapper">
@@ -386,7 +386,7 @@ img.emoji {
                                                                 <a href="./blog/continuous-elevators.php"></a>
                                                             </div>
                                                             <div class="eael-entry-thumbnail ">
-                                                                <img width="400" height="400" src="./wp-content/uploads/2023/06/default-gray.jpg" class="attachment-full size-full wp-image-1143" alt="" decoding="async" srcset="./wp-content/uploads/2023/06/default-gray.jpg 400w, ./wp-content/uploads/2023/06/default-gray-300x300.jpg 300w, ./wp-content/uploads/2023/06/default-gray-150x150.jpg 150w" sizes="(max-width: 400px) 100vw, 400px" />
+                                                                <!-- REPLACE IMAGE --> <img width="400" height="400" src="./wp-content/uploads/2023/06/default-gray.jpg" class="attachment-full size-full wp-image-1143" alt="" decoding="async" srcset="./wp-content/uploads/2023/06/default-gray.jpg 400w, ./wp-content/uploads/2023/06/default-gray-300x300.jpg 300w, ./wp-content/uploads/2023/06/default-gray-150x150.jpg 150w" sizes="(max-width: 400px) 100vw, 400px" />
                                                             </div>
                                                         </div>
                                                         <div class="eael-entry-wrapper">
@@ -419,7 +419,7 @@ img.emoji {
                                                                 <a href="./blog/general-bucket-elevator-options-features.php"></a>
                                                             </div>
                                                             <div class="eael-entry-thumbnail ">
-                                                                <img width="400" height="400" src="./wp-content/uploads/2023/06/default-gray.jpg" class="attachment-full size-full wp-image-1143" alt="" decoding="async" srcset="./wp-content/uploads/2023/06/default-gray.jpg 400w, ./wp-content/uploads/2023/06/default-gray-300x300.jpg 300w, ./wp-content/uploads/2023/06/default-gray-150x150.jpg 150w" sizes="(max-width: 400px) 100vw, 400px" />
+                                                                <!-- REPLACE IMAGE --> <img width="400" height="400" src="./wp-content/uploads/2023/06/default-gray.jpg" class="attachment-full size-full wp-image-1143" alt="" decoding="async" srcset="./wp-content/uploads/2023/06/default-gray.jpg 400w, ./wp-content/uploads/2023/06/default-gray-300x300.jpg 300w, ./wp-content/uploads/2023/06/default-gray-150x150.jpg 150w" sizes="(max-width: 400px) 100vw, 400px" />
                                                             </div>
                                                         </div>
                                                         <div class="eael-entry-wrapper">
