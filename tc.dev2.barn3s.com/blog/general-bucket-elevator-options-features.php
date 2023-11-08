@@ -235,7 +235,7 @@ img.emoji {
 <script type='text/javascript' src='../wp-content/themes/catchylabs-elementor-theme/admin/elementor/assets/js/slick-js/slick.min%EF%B9%96ver=6.3.2.js' id='cl_elementor-slick-js'></script>
 <script type='text/javascript' src='../wp-content/themes/catchylabs-elementor-theme/admin/elementor/assets/js/theme%EF%B9%96ver=1688672024.js' id='cl_elementor-theme-js'></script>
 <script type='text/javascript' src='../wp-content/themes/catchylabs-elementor-theme/admin/elementor/assets/js/brand-window%EF%B9%96ver=1688672024.js' id='cl_elementor-brand-window-js'></script>
-<script type='text/javascript' src='../wp-content/themes/catchylabs-elementor-theme/assets/js/areareps%EF%B9%96ver=1.js' id='areareps-js'></script>
+<script type='text/javascript' src='../wp-content/themes/catchylabs-elementor-theme/assets/js/areareps.js' id='areareps-js'></script>
 <script type='text/javascript' src='../wp-content/themes/catchylabs-elementor-theme/assets/js/jquery.hoverIntent%EF%B9%96ver=1.js' id='hoverintent-js'></script>
 <script type='text/javascript' src='https://tc.dev2.barn3s.com/wp-content/themes/catchylabs-elementor-theme/assets/js/jarallax.min.js?ver=1' id='jarallax-js'></script>
 <script type='text/javascript' src='https://tc.dev2.barn3s.com/wp-content/themes/catchylabs-elementor-theme/assets/js/jarallax-video.min.js?ver=1' id='jarallax-video-js'></script>

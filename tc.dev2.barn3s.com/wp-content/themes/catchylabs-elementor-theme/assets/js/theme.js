@@ -42,7 +42,7 @@ $(document).ready(function () {
 	});
 	
 	
-	
+	// AREA REP - this function builds out html sections dynamically populated from area
 	$('.area-select').change(function () {
 		const $this = $(this);
 		const area = $(this).val()
