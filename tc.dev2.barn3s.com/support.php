@@ -1381,7 +1381,8 @@ img.emoji {
 													<img decoding="async" loading="lazy" src="./wp-content/plugins/wpforms-lite/assets/images/submit-spin.svg" class="wpforms-submit-spinner" style="display: none;" width="26" height="26" alt="Loading">
 												</div>
 											</form>
-										</div>  <!-- .wpforms-container -->
+										</div> 
+										<!-- END FORM -->
 									</div>
 								</div>
 							</div>
