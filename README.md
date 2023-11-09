@@ -2,6 +2,17 @@
 
 ## To Do:
 
+### SSL 
+Enable SSL on http://www.thomasconveyor.com/
+
+### Beta URL Replacement
+Replace all instances of beta url across all files
+
+In VSCode, Edit > Replace in Files (in this order)
+* https://tc.dev2.barn3s.com/beta > https://www.thomasconveyor.com/
+* https://tc.dev2.barn3s.com > https://www.thomasconveyor.com/
+
+
 ### Forms
 Forms connected to email - comments above each form ```<!-- FORM HERE -->```
 * Home page
