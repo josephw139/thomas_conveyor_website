@@ -126,7 +126,8 @@ img.emoji {
 --wpforms-button-size-margin-top: 10px;
 
 				}
-			</style></head>
+			</style>
+</head>
 <body class="privacy-policy page-template-default page page-id-3 elementor-default elementor-kit-5 elementor-page elementor-page-3">
 	
 	<a class="screen-reader-text" href="#main">Skip to content</a>
@@ -135,81 +136,56 @@ img.emoji {
 
 <main class="site-main post-3 page type-page status-publish hentry" role="main" id="main">
 	<div class="page-content">
-				<div data-elementor-type="wp-page" data-elementor-id="3" class="elementor elementor-3">
-									<section class="elementor-section elementor-top-section elementor-element elementor-element-29a927a6 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="29a927a6" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
+		<div data-elementor-type="wp-page" data-elementor-id="3" class="elementor elementor-3">
+			<section class="elementor-section elementor-top-section elementor-element elementor-element-29a927a6 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="29a927a6" data-element_type="section">
+				<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-aed25dc" data-id="aed25dc" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-27e3abfe elementor-widget elementor-widget-text-editor" data-id="27e3abfe" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-			<style>/*! elementor - v3.14.0 - 26-06-2023 */
-.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#69727d;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#69727d;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<!-- wp:heading -->
-<h3>Who we are</h3>
-<!-- /wp:heading --><!-- wp:paragraph -->
-<p>Our website address is: https://tc.dev2.barn3s.com.</p>
-<!-- /wp:paragraph --><!-- wp:heading -->
-<p> </p>
-<!-- /wp:paragraph --><!-- wp:heading -->
-<h3>Media</h3>
-<!-- /wp:heading --><!-- wp:paragraph -->
-<p>If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.</p>
-<!-- /wp:paragraph --><!-- wp:heading -->
-<h2> </h2>
-<h3>Cookies</h3>
-<!-- /wp:heading --><!-- wp:paragraph -->
-<p>If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.</p>
-<!-- /wp:paragraph --><!-- wp:paragraph -->
-<p>If you visit our login page, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.</p>
-<!-- /wp:paragraph --><!-- wp:paragraph -->
-<p>When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select &#8220;Remember Me&#8221;, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.</p>
-<!-- /wp:paragraph --><!-- wp:paragraph -->
-<p>If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.</p>
-<!-- /wp:paragraph --><!-- wp:heading -->
-<h2> </h2>
-<h3>Embedded content from other websites</h3>
-<!-- /wp:heading --><!-- wp:paragraph -->
-<p>Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.</p>
-<!-- /wp:paragraph --><!-- wp:paragraph -->
-<p>These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website.</p>
-<!-- /wp:paragraph --><!-- wp:heading -->
-<h2> </h2>
-<h3>Who we share your data with</h3>
-<!-- /wp:heading --><!-- wp:paragraph -->
-<p>If you request a password reset, your IP address will be included in the reset email.</p>
-<!-- /wp:paragraph --><!-- wp:heading -->
-<h2> </h2>
-<h3>How long we retain your data</h3>
-<!-- /wp:heading --><!-- wp:paragraph -->
-<p>If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.</p>
-<!-- /wp:paragraph --><!-- wp:paragraph -->
-<p>For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.</p>
-<!-- /wp:paragraph --><!-- wp:heading -->
-<h3> </h3>
-<h3>What rights you have over your data</h3>
-<!-- /wp:heading --><!-- wp:paragraph -->
-<p>If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.</p>
-<!-- /wp:paragraph --><!-- wp:heading -->
-<h3> </h3>
-<h3>Where your data is sent</h3>
-<!-- /wp:heading --><!-- wp:paragraph -->
-<p>Visitor comments may be checked through an automated spam detection service.</p>
-<!-- /wp:paragraph -->						</div>
+						<div class="elementor-widget-wrap elementor-element-populated">
+							<div class="elementor-element elementor-element-27e3abfe elementor-widget elementor-widget-text-editor" data-id="27e3abfe" data-element_type="widget" data-widget_type="text-editor.default">
+								<div class="elementor-widget-container">
+									<style>/*! elementor - v3.14.0 - 26-06-2023 */
+									.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#69727d;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#69727d;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>
+									<h3>Who we are</h3>
+									<p>Our website address is: https://tc.dev2.barn3s.com.</p>
+									<p> </p>
+									<h3>Media</h3>
+									<p>If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.</p>
+									<h2> </h2>
+									<h3>Cookies</h3>
+									<p>If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.</p>
+									<p>If you visit our login page, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.</p>
+									<p>When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select &#8220;Remember Me&#8221;, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.</p>
+									<p>If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.</p>
+									<h2> </h2>
+									<h3>Embedded content from other websites</h3>
+									<p>Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.</p>
+									<p>These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website.</p>
+									<h2> </h2>
+									<h3>Who we share your data with</h3>
+									<p>If you request a password reset, your IP address will be included in the reset email.</p>
+									<h2> </h2>
+									<h3>How long we retain your data</h3>
+									<p>If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.</p>
+									<p>For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.</p>
+									<h3> </h3>
+									<h3>What rights you have over your data</h3>
+									<p>If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.</p>
+									<h3> </h3>
+									<h3>Where your data is sent</h3>
+									<p>Visitor comments may be checked through an automated spam detection service.</p>
+								</div>
+							</div>
+						</div>
+					</div>
 				</div>
-					</div>
+			</section>
 		</div>
-							</div>
-		</section>
-							</div>
-				<div class="post-tags">
-					</div>
-			</div>
-
+		<div class="post-tags">
+		</div>
+	</div>
 	<section id="comments" class="comments-area">
-
-	
-	
-	
-</section><!-- .comments-area --></main>
+	</section><!-- .comments-area -->
+</main>
 
 <?php include 'footer.php';?>
 
@@ -223,7 +199,7 @@ img.emoji {
         </form>
     </div>
 </div><div>
-	<link rel='stylesheet' id='elementor-post-42-css' href='./wp-content/uploads/elementor/css/post-42%EF%B9%96ver=1698954179.css' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-42-css' href='./wp-content/uploads/elementor/css/post-42%EF%B9%96ver=1698954179.css' type='text/css' media='all' />
 <link rel='stylesheet' id='elementor-post-165-css' href='./wp-content/uploads/elementor/css/post-165%EF%B9%96ver=1698862626.css' type='text/css' media='all' />
 <link rel='stylesheet' id='elementor-icons-shared-0-css' href='./wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min%EF%B9%96ver=5.15.3.css' type='text/css' media='all' />
 <link rel='stylesheet' id='elementor-icons-fa-solid-css' href='./wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min%EF%B9%96ver=5.15.3.css' type='text/css' media='all' />

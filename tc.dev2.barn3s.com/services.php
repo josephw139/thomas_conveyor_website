@@ -127,193 +127,210 @@ img.emoji {
 --wpforms-button-size-margin-top: 10px;
 
 				}
-			</style></head>
+			</style>
+</head>
 <body class="page-template-default page page-id-199 elementor-default elementor-kit-5 elementor-page elementor-page-199">
 	
 	<a class="screen-reader-text" href="#main">Skip to content</a>
-
 	<?php include 'header.php';?>
 
 <main class="site-main post-199 page type-page status-publish hentry" role="main" id="main">
 	<div class="page-content">
-				<div data-elementor-type="wp-page" data-elementor-id="199" class="elementor elementor-199">
-									<section class="elementor-section elementor-top-section elementor-element elementor-element-a7f2379 elementor-section-height-min-height elementor-section-items-bottom elementor-section-boxed elementor-section-height-default" data-id="a7f2379" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;shape_divider_bottom&quot;:&quot;tilt&quot;}">
-					<div class="elementor-shape elementor-shape-bottom" data-negative="false">
-			<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 100" preserveAspectRatio="none">
-	<path class="elementor-shape-fill" d="M0,6V0h1000v100L0,6z"/>
-</svg>		</div>
-					<div class="elementor-container elementor-column-gap-no">
+		<div data-elementor-type="wp-page" data-elementor-id="199" class="elementor elementor-199">
+			<section class="elementor-section elementor-top-section elementor-element elementor-element-a7f2379 elementor-section-height-min-height elementor-section-items-bottom elementor-section-boxed elementor-section-height-default" data-id="a7f2379" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;shape_divider_bottom&quot;:&quot;tilt&quot;}">
+				<div class="elementor-shape elementor-shape-bottom" data-negative="false">
+					<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 100" preserveAspectRatio="none">
+						<path class="elementor-shape-fill" d="M0,6V0h1000v100L0,6z"/>
+					</svg>
+				</div>
+				<div class="elementor-container elementor-column-gap-no">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-85a7e54" data-id="85a7e54" data-element_type="column">
-			<div class="elementor-widget-wrap">
-									</div>
-		</div>
-							</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-bab3ad8 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="bab3ad8" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
+						<div class="elementor-widget-wrap">
+						</div>
+					</div>
+				</div>
+			</section>
+			<section class="elementor-section elementor-top-section elementor-element elementor-element-bab3ad8 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="bab3ad8" data-element_type="section">
+				<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-02b96b1" data-id="02b96b1" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-82d07e7 elementor-widget elementor-widget-heading" data-id="82d07e7" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<style>/*! elementor - v3.14.0 - 26-06-2023 */
-.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><h1 class="elementor-heading-title elementor-size-default">Services</h1>		</div>
-				</div>
-				<div class="elementor-element elementor-element-b5d6fa6 elementor-widget elementor-widget-text-editor" data-id="b5d6fa6" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-			<style>/*! elementor - v3.14.0 - 26-06-2023 */
-.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#69727d;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#69727d;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>
-<p class="breadcrumbs"><a href="./index.php">Home</a> » <a href="#">Services</a></p>						</div>
-				</div>
-					</div>
-		</div>
+						<div class="elementor-widget-wrap elementor-element-populated">
+							<div class="elementor-element elementor-element-82d07e7 elementor-widget elementor-widget-heading" data-id="82d07e7" data-element_type="widget" data-widget_type="heading.default">
+								<div class="elementor-widget-container">
+									<style>/*! elementor - v3.14.0 - 26-06-2023 */
+									.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style>
+									<h1 class="elementor-heading-title elementor-size-default">Services</h1>
+								</div>
 							</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-4218cf5 elementor-reverse-tablet elementor-reverse-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4218cf5" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-element elementor-element-b5d6fa6 elementor-widget elementor-widget-text-editor" data-id="b5d6fa6" data-element_type="widget" data-widget_type="text-editor.default">
+								<div class="elementor-widget-container">
+									<style>/*! elementor - v3.14.0 - 26-06-2023 */
+									.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#69727d;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#69727d;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>
+									<p class="breadcrumbs"><a href="./index.php">Home</a> » <a href="#">Services</a></p>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+			<section class="elementor-section elementor-top-section elementor-element elementor-element-4218cf5 elementor-reverse-tablet elementor-reverse-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4218cf5" data-element_type="section">
+				<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-5bc0824" data-id="5bc0824" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<section class="elementor-section elementor-inner-section elementor-element elementor-element-bbcd3a4 elementor-reverse-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="bbcd3a4" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-59254b7" data-id="59254b7" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-333433a elementor-widget elementor-widget-image" data-id="333433a" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-															<img decoding="async" fetchpriority="high" width="592" height="456" src="./wp-content/uploads/2023/09/Services-Screw.png" class="attachment-large size-large wp-image-210" alt="" srcset="./wp-content/uploads/2023/09/Services-Screw.png 592w, ./wp-content/uploads/2023/09/Services-Screw-300x231.png 300w" sizes="(max-width: 592px) 100vw, 592px" />															</div>
+						<div class="elementor-widget-wrap elementor-element-populated">
+							<section class="elementor-section elementor-inner-section elementor-element elementor-element-bbcd3a4 elementor-reverse-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="bbcd3a4" data-element_type="section">
+								<div class="elementor-container elementor-column-gap-default">
+									<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-59254b7" data-id="59254b7" data-element_type="column">
+										<div class="elementor-widget-wrap elementor-element-populated">
+											<div class="elementor-element elementor-element-333433a elementor-widget elementor-widget-image" data-id="333433a" data-element_type="widget" data-widget_type="image.default">
+												<div class="elementor-widget-container">
+													<img decoding="async" fetchpriority="high" width="592" height="456" src="./wp-content/uploads/2023/09/Services-Screw.png" class="attachment-large size-large wp-image-210" alt="" srcset="./wp-content/uploads/2023/09/Services-Screw.png 592w, ./wp-content/uploads/2023/09/Services-Screw-300x231.png 300w" sizes="(max-width: 592px) 100vw, 592px" />
+												</div>
+											</div>
+										</div>
+									</div>
+									<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-6b14700" data-id="6b14700" data-element_type="column">
+										<div class="elementor-widget-wrap elementor-element-populated">
+											<div class="elementor-element elementor-element-84da1e3 elementor-widget elementor-widget-text-editor" data-id="84da1e3" data-element_type="widget" data-widget_type="text-editor.default">
+												<div class="elementor-widget-container">
+													<p><strong>At Thomas Conveyor Company, we specialize in custom material handling equipment, drawing on 60+ years of experience to meet and exceed customer expectations.</strong> Our expert teams collaborate from design to delivery, ensuring tailor-made solutions that fit your unique needs. We offer a diverse range of equipment for various industries, emphasizing the importance of the customer in our success. Beyond product design, our field representatives are on hand for on-site troubleshooting, aiming to minimize downtime, enhance processes, reduce costs, and boost profitability. Trust Thomas Conveyor to provide the best equipment solution for your business.</p>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</section>
+						</div>
+					</div>
 				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-6b14700" data-id="6b14700" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-84da1e3 elementor-widget elementor-widget-text-editor" data-id="84da1e3" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p><strong>At Thomas Conveyor Company, we specialize in custom material handling equipment, drawing on 60+ years of experience to meet and exceed customer expectations.</strong> Our expert teams collaborate from design to delivery, ensuring tailor-made solutions that fit your unique needs. We offer a diverse range of equipment for various industries, emphasizing the importance of the customer in our success. Beyond product design, our field representatives are on hand for on-site troubleshooting, aiming to minimize downtime, enhance processes, reduce costs, and boost profitability. Trust Thomas Conveyor to provide the best equipment solution for your business.</p>						</div>
-				</div>
-					</div>
-		</div>
-							</div>
-		</section>
-					</div>
-		</div>
-							</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-c6241e4 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="c6241e4" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
+			</section>
+			<section class="elementor-section elementor-top-section elementor-element elementor-element-c6241e4 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="c6241e4" data-element_type="section">
+				<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-c39ce31" data-id="c39ce31" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-b9e5ba1 elementor-widget elementor-widget-heading" data-id="b9e5ba1" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">Engineering
-</h2>		</div>
-				</div>
-				<div class="elementor-element elementor-element-0433ecf elementor-widget elementor-widget-text-editor" data-id="0433ecf" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p><strong>Thomas Conveyor Company offers comprehensive conveyor engineering services. Our skilled engineers are ready to enhance profitability, innovate component and system designs, and boost production.</strong></p>						</div>
-				</div>
-				<div class="elementor-element elementor-element-181fcb4 elementor-widget elementor-widget-text-editor" data-id="181fcb4" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p>We maintain a collaborative approach, integrating engineers, sales, and manufacturing teams. Our project management style includes stakeholders from every project phase, from design to production. This ensures customers benefit from fresh insights, anticipating potential issues and delivering cost-effective conveyor solutions.</p>						</div>
-				</div>
-				<div class="elementor-element elementor-element-4cf572a elementor-widget elementor-widget-text-editor" data-id="4cf572a" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p>Our services span from advising on new designs to customizing existing equipment. We quickly identify the ideal conveyor for your needs. With our capability to design and produce a variety of custom conveyors, clients have extensive options, including screw, drag, belt conveyors, and bucket elevators.</p>						</div>
-				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-99106a0" data-id="99106a0" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-9efb7cb elementor-widget elementor-widget-image" data-id="9efb7cb" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-															<img decoding="async" width="829" height="572" src="./wp-content/uploads/2023/09/Services-Engineering.jpg" class="attachment-full size-full wp-image-209" alt="" srcset="./wp-content/uploads/2023/09/Services-Engineering.jpg 829w, ./wp-content/uploads/2023/09/Services-Engineering-300x207.jpg 300w, ./wp-content/uploads/2023/09/Services-Engineering-768x530.jpg 768w, ./wp-content/uploads/2023/09/Services-Engineering-800x553.jpg 800w" sizes="(max-width: 829px) 100vw, 829px" />															</div>
-				</div>
-					</div>
-		</div>
+						<div class="elementor-widget-wrap elementor-element-populated">
+							<div class="elementor-element elementor-element-b9e5ba1 elementor-widget elementor-widget-heading" data-id="b9e5ba1" data-element_type="widget" data-widget_type="heading.default">
+								<div class="elementor-widget-container">
+									<h2 class="elementor-heading-title elementor-size-default">Engineering</h2>
+								</div>
 							</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-2feda0a elementor-section-full_width elementor-reverse-tablet elementor-reverse-mobile elementor-section-height-default elementor-section-height-default" data-id="2feda0a" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-element elementor-element-0433ecf elementor-widget elementor-widget-text-editor" data-id="0433ecf" data-element_type="widget" data-widget_type="text-editor.default">
+								<div class="elementor-widget-container">
+									<p><strong>Thomas Conveyor Company offers comprehensive conveyor engineering services. Our skilled engineers are ready to enhance profitability, innovate component and system designs, and boost production.</strong></p>
+								</div>
+							</div>
+							<div class="elementor-element elementor-element-181fcb4 elementor-widget elementor-widget-text-editor" data-id="181fcb4" data-element_type="widget" data-widget_type="text-editor.default">
+								<div class="elementor-widget-container">
+									<p>We maintain a collaborative approach, integrating engineers, sales, and manufacturing teams. Our project management style includes stakeholders from every project phase, from design to production. This ensures customers benefit from fresh insights, anticipating potential issues and delivering cost-effective conveyor solutions.</p>
+								</div>
+							</div>
+							<div class="elementor-element elementor-element-4cf572a elementor-widget elementor-widget-text-editor" data-id="4cf572a" data-element_type="widget" data-widget_type="text-editor.default">
+								<div class="elementor-widget-container">
+									<p>Our services span from advising on new designs to customizing existing equipment. We quickly identify the ideal conveyor for your needs. With our capability to design and produce a variety of custom conveyors, clients have extensive options, including screw, drag, belt conveyors, and bucket elevators.</p>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-99106a0" data-id="99106a0" data-element_type="column">
+						<div class="elementor-widget-wrap elementor-element-populated">
+							<div class="elementor-element elementor-element-9efb7cb elementor-widget elementor-widget-image" data-id="9efb7cb" data-element_type="widget" data-widget_type="image.default">
+								<div class="elementor-widget-container">
+									<img decoding="async" width="829" height="572" src="./wp-content/uploads/2023/09/Services-Engineering.jpg" class="attachment-full size-full wp-image-209" alt="" srcset="./wp-content/uploads/2023/09/Services-Engineering.jpg 829w, ./wp-content/uploads/2023/09/Services-Engineering-300x207.jpg 300w, ./wp-content/uploads/2023/09/Services-Engineering-768x530.jpg 768w, ./wp-content/uploads/2023/09/Services-Engineering-800x553.jpg 800w" sizes="(max-width: 829px) 100vw, 829px" />
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+			<section class="elementor-section elementor-top-section elementor-element elementor-element-2feda0a elementor-section-full_width elementor-reverse-tablet elementor-reverse-mobile elementor-section-height-default elementor-section-height-default" data-id="2feda0a" data-element_type="section">
+				<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-e78d3a2" data-id="e78d3a2" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-504e9c6 elementor-widget elementor-widget-image" data-id="504e9c6" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-															<img decoding="async" width="817" height="668" src="./wp-content/uploads/2023/09/Services-Manufacturing.jpg" class="attachment-full size-full wp-image-212" alt="" srcset="./wp-content/uploads/2023/09/Services-Manufacturing.jpg 817w, ./wp-content/uploads/2023/09/Services-Manufacturing-300x245.jpg 300w, ./wp-content/uploads/2023/09/Services-Manufacturing-768x628.jpg 768w" sizes="(max-width: 817px) 100vw, 817px" />															</div>
-				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-1daeaa2" data-id="1daeaa2" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-7bfe729 elementor-widget elementor-widget-heading" data-id="7bfe729" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">Manufacturing
-</h2>		</div>
-				</div>
-				<div class="elementor-element elementor-element-b0dc01a elementor-widget elementor-widget-text-editor" data-id="b0dc01a" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p><strong>Thomas Conveyor specializes in manufacturing a wide range of material-handling products using processes such as fabrication, turning, forging, castings, injection molding, laser cutting, and waterjet. Our varied product line allows customers to evaluate and choose the most suitable material handling system based on efficiency, compatibility, and cost. We can custom-design systems based on unique requirements and swiftly adapt to any modifications during production thanks to our on-site manufacturing capabilities.</strong></p>						</div>
-				</div>
-				<div class="elementor-element elementor-element-7542fd7 elementor-widget elementor-widget-text-editor" data-id="7542fd7" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p>Known for its advanced manufacturing techniques like lights-out laser, waterjet, and high-definition plasma cutting, Thomas Conveyor stands out in the material-handling manufacturing arena. We supply top-quality original equipment, accurate replacement part replications, and offer two- or three-dimensional approval drawings. A dedicated Project Manager ensures seamless interaction throughout the design and production phases, and we provide material traceability when needed. We also support material handling needs across the U.S. and Canada.</p>						</div>
-				</div>
-				<div class="elementor-element elementor-element-842e808 elementor-widget elementor-widget-text-editor" data-id="842e808" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p>Every assembled product is documented with photographs and videos during assembly and testing. We have a meticulous inspection system to ensure optimal operational speed. Our media content and detailed checklists, alongside “Installation/Assembly” instructions, maintenance guidelines, safety videos, and drawings, are provided to customers with every material handling project shipment.</p>						</div>
-				</div>
-					</div>
-		</div>
+						<div class="elementor-widget-wrap elementor-element-populated">
+							<div class="elementor-element elementor-element-504e9c6 elementor-widget elementor-widget-image" data-id="504e9c6" data-element_type="widget" data-widget_type="image.default">
+								<div class="elementor-widget-container">
+									<img decoding="async" width="817" height="668" src="./wp-content/uploads/2023/09/Services-Manufacturing.jpg" class="attachment-full size-full wp-image-212" alt="" srcset="./wp-content/uploads/2023/09/Services-Manufacturing.jpg 817w, ./wp-content/uploads/2023/09/Services-Manufacturing-300x245.jpg 300w, ./wp-content/uploads/2023/09/Services-Manufacturing-768x628.jpg 768w" sizes="(max-width: 817px) 100vw, 817px" />
+								</div>
 							</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-e922fea elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="e922fea" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
+						</div>
+					</div>
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-1daeaa2" data-id="1daeaa2" data-element_type="column">
+						<div class="elementor-widget-wrap elementor-element-populated">
+							<div class="elementor-element elementor-element-7bfe729 elementor-widget elementor-widget-heading" data-id="7bfe729" data-element_type="widget" data-widget_type="heading.default">
+								<div class="elementor-widget-container">
+									<h2 class="elementor-heading-title elementor-size-default">Manufacturing</h2>
+								</div>
+							</div>
+							<div class="elementor-element elementor-element-b0dc01a elementor-widget elementor-widget-text-editor" data-id="b0dc01a" data-element_type="widget" data-widget_type="text-editor.default">
+								<div class="elementor-widget-container">
+									<p><strong>Thomas Conveyor specializes in manufacturing a wide range of material-handling products using processes such as fabrication, turning, forging, castings, injection molding, laser cutting, and waterjet. Our varied product line allows customers to evaluate and choose the most suitable material handling system based on efficiency, compatibility, and cost. We can custom-design systems based on unique requirements and swiftly adapt to any modifications during production thanks to our on-site manufacturing capabilities.</strong></p>
+								</div>
+							</div>
+							<div class="elementor-element elementor-element-7542fd7 elementor-widget elementor-widget-text-editor" data-id="7542fd7" data-element_type="widget" data-widget_type="text-editor.default">
+								<div class="elementor-widget-container">
+									<p>Known for its advanced manufacturing techniques like lights-out laser, waterjet, and high-definition plasma cutting, Thomas Conveyor stands out in the material-handling manufacturing arena. We supply top-quality original equipment, accurate replacement part replications, and offer two- or three-dimensional approval drawings. A dedicated Project Manager ensures seamless interaction throughout the design and production phases, and we provide material traceability when needed. We also support material handling needs across the U.S. and Canada.</p>
+								</div>
+							</div>
+							<div class="elementor-element elementor-element-842e808 elementor-widget elementor-widget-text-editor" data-id="842e808" data-element_type="widget" data-widget_type="text-editor.default">
+								<div class="elementor-widget-container">
+									<p>Every assembled product is documented with photographs and videos during assembly and testing. We have a meticulous inspection system to ensure optimal operational speed. Our media content and detailed checklists, alongside “Installation/Assembly” instructions, maintenance guidelines, safety videos, and drawings, are provided to customers with every material handling project shipment.</p>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+			<section class="elementor-section elementor-top-section elementor-element elementor-element-e922fea elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="e922fea" data-element_type="section">
+				<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-500992a" data-id="500992a" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-f54ccb0 elementor-widget elementor-widget-heading" data-id="f54ccb0" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">Custom Solutions
-</h2>		</div>
-				</div>
-				<div class="elementor-element elementor-element-ac7b561 elementor-widget elementor-widget-text-editor" data-id="ac7b561" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p><strong>Thomas Conveyor Company specializes in custom conveyor systems, showcasing our expertise and in-house capabilities. We offer tailored design, engineering, and manufacturing to cater to diverse custom requirements.</strong></p>						</div>
-				</div>
-				<div class="elementor-element elementor-element-4d116e2 elementor-widget elementor-widget-text-editor" data-id="4d116e2" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p>We produce custom conveyor systems and components based on your specifications, utilizing our in-house laser, waterjet, and plasma technologies. </p>						</div>
-				</div>
-				<div class="elementor-element elementor-element-93c9c0e elementor-widget elementor-widget-text-editor" data-id="93c9c0e" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p>Our custom solids feeders are designed according to your needs. We engineer systems to handle materials up to 1 ½” in diameter, suitable for horizontal, inclined, or vertical setups, even in diameters as small as 4”.</p>						</div>
-				</div>
-				<div class="elementor-element elementor-element-a2717bb elementor-widget elementor-widget-text-editor" data-id="a2717bb" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p>We craft custom industrial conveyors to fit any requirement, considering factors like heat, corrosion, abrasion, and environmental conditions.</p>						</div>
-				</div>
-				<div class="elementor-element elementor-element-18bfeec elementor-widget elementor-widget-text-editor" data-id="18bfeec" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p>Our bespoke bulk-handling conveyors serve a range of industries, from grain to chemicals and beyond. We design and produce systems up to 120” in diameter to transport various materials.</p>						</div>
-				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-208afa0" data-id="208afa0" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-270023d elementor-widget elementor-widget-image" data-id="270023d" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-															<img decoding="async" loading="lazy" width="835" height="597" src="./wp-content/uploads/2023/09/Services-Custom.jpg" class="attachment-full size-full wp-image-213" alt="" srcset="./wp-content/uploads/2023/09/Services-Custom.jpg 835w, ./wp-content/uploads/2023/09/Services-Custom-300x214.jpg 300w, ./wp-content/uploads/2023/09/Services-Custom-768x549.jpg 768w" sizes="(max-width: 835px) 100vw, 835px" />															</div>
-				</div>
-					</div>
-		</div>
+						<div class="elementor-widget-wrap elementor-element-populated">
+							<div class="elementor-element elementor-element-f54ccb0 elementor-widget elementor-widget-heading" data-id="f54ccb0" data-element_type="widget" data-widget_type="heading.default">
+								<div class="elementor-widget-container">
+									<h2 class="elementor-heading-title elementor-size-default">Custom Solutions</h2>
+								</div>
 							</div>
-		</section>
+							<div class="elementor-element elementor-element-ac7b561 elementor-widget elementor-widget-text-editor" data-id="ac7b561" data-element_type="widget" data-widget_type="text-editor.default">
+								<div class="elementor-widget-container">
+									<p><strong>Thomas Conveyor Company specializes in custom conveyor systems, showcasing our expertise and in-house capabilities. We offer tailored design, engineering, and manufacturing to cater to diverse custom requirements.</strong></p>
+								</div>
 							</div>
-				<div class="post-tags">
+							<div class="elementor-element elementor-element-4d116e2 elementor-widget elementor-widget-text-editor" data-id="4d116e2" data-element_type="widget" data-widget_type="text-editor.default">
+								<div class="elementor-widget-container">
+									<p>We produce custom conveyor systems and components based on your specifications, utilizing our in-house laser, waterjet, and plasma technologies. </p>
+								</div>
+							</div>
+							<div class="elementor-element elementor-element-93c9c0e elementor-widget elementor-widget-text-editor" data-id="93c9c0e" data-element_type="widget" data-widget_type="text-editor.default">
+								<div class="elementor-widget-container">
+									<p>Our custom solids feeders are designed according to your needs. We engineer systems to handle materials up to 1 ½” in diameter, suitable for horizontal, inclined, or vertical setups, even in diameters as small as 4”.</p>
+								</div>
+							</div>
+							<div class="elementor-element elementor-element-a2717bb elementor-widget elementor-widget-text-editor" data-id="a2717bb" data-element_type="widget" data-widget_type="text-editor.default">
+								<div class="elementor-widget-container">
+									<p>We craft custom industrial conveyors to fit any requirement, considering factors like heat, corrosion, abrasion, and environmental conditions.</p>
+								</div>
+							</div>
+							<div class="elementor-element elementor-element-18bfeec elementor-widget elementor-widget-text-editor" data-id="18bfeec" data-element_type="widget" data-widget_type="text-editor.default">
+								<div class="elementor-widget-container">
+									<p>Our bespoke bulk-handling conveyors serve a range of industries, from grain to chemicals and beyond. We design and produce systems up to 120” in diameter to transport various materials.</p>
+								</div>
+							</div>
+						</div>
 					</div>
-			</div>
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-208afa0" data-id="208afa0" data-element_type="column">
+						<div class="elementor-widget-wrap elementor-element-populated">
+							<div class="elementor-element elementor-element-270023d elementor-widget elementor-widget-image" data-id="270023d" data-element_type="widget" data-widget_type="image.default">
+								<div class="elementor-widget-container">
+									<img decoding="async" loading="lazy" width="835" height="597" src="./wp-content/uploads/2023/09/Services-Custom.jpg" class="attachment-full size-full wp-image-213" alt="" srcset="./wp-content/uploads/2023/09/Services-Custom.jpg 835w, ./wp-content/uploads/2023/09/Services-Custom-300x214.jpg 300w, ./wp-content/uploads/2023/09/Services-Custom-768x549.jpg 768w" sizes="(max-width: 835px) 100vw, 835px" />
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+		</div>
+		<div class="post-tags">
+		</div>
+	</div>
 
 	<section id="comments" class="comments-area">
-
-	
-	
-	
-</section><!-- .comments-area --></main>
+	</section><!-- .comments-area -->
+</main>
 
 <?php include 'footer.php';?>
 
