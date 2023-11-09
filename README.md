@@ -15,7 +15,7 @@ Each image is marked with ```<!-- REPLACE IMAGE -->``` where the actual products
 ### Blog images
 CSS is applied to make the images rounded.
 
-* Blog posts are under the blog folder. The blog's image is right below the comment <br />
+* Blog posts are under the blogs folder. The blog's image is right below the comment <br />
 ```<!-- BLOG IMAGE HERE -->```
 * On the blog page, each gray image is marked with ```<!-- REPLACE IMAGE -->```
 
@@ -24,8 +24,8 @@ CSS is applied to make the images rounded.
 ### File Locations
 
 * index.php - home page
-* /conveyors/ folder - Conveyor subpages
-* /blog/ folder - blog posts
+* /conveyor/ folder - Conveyor subpages
+* /blogs/ folder - blog posts
 
 * wp-admin - Files here shouldn't be relevant
 
