@@ -127,7 +127,8 @@ img.emoji {
 --wpforms-button-size-margin-top: 10px;
 
 				}
-			</style></head>
+			</style>
+</head>
 <body class="page-template-default page page-id-230 page-child parent-pageid-186 elementor-default elementor-kit-5 elementor-page elementor-page-230">
 	
 	<a class="screen-reader-text" href="#main">Skip to content</a>
@@ -136,349 +137,424 @@ img.emoji {
 
 <main class="site-main post-230 page type-page status-publish hentry" role="main" id="main">
 	<div class="page-content">
-				<div data-elementor-type="wp-page" data-elementor-id="230" class="elementor elementor-230">
-									<section class="elementor-section elementor-top-section elementor-element elementor-element-a7f2379 elementor-section-height-min-height elementor-section-items-bottom elementor-section-boxed elementor-section-height-default" data-id="a7f2379" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;shape_divider_bottom&quot;:&quot;tilt&quot;}">
-					<div class="elementor-shape elementor-shape-bottom" data-negative="false">
-			<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 100" preserveAspectRatio="none">
-	<path class="elementor-shape-fill" d="M0,6V0h1000v100L0,6z"/>
-</svg>		</div>
-					<div class="elementor-container elementor-column-gap-no">
+		<div data-elementor-type="wp-page" data-elementor-id="230" class="elementor elementor-230">
+			<section class="elementor-section elementor-top-section elementor-element elementor-element-a7f2379 elementor-section-height-min-height elementor-section-items-bottom elementor-section-boxed elementor-section-height-default" data-id="a7f2379" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;shape_divider_bottom&quot;:&quot;tilt&quot;}">
+				<div class="elementor-shape elementor-shape-bottom" data-negative="false">
+					<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 100" preserveAspectRatio="none">
+						<path class="elementor-shape-fill" d="M0,6V0h1000v100L0,6z"/>
+					</svg>
+				</div>
+				<div class="elementor-container elementor-column-gap-no">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-85a7e54" data-id="85a7e54" data-element_type="column">
-			<div class="elementor-widget-wrap">
-									</div>
-		</div>
-							</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-919963e elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="919963e" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
+						<div class="elementor-widget-wrap"></div>
+					</div>
+				</div>
+			</section>
+			<section class="elementor-section elementor-top-section elementor-element elementor-element-919963e elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="919963e" data-element_type="section">
+				<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-b929131" data-id="b929131" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-c8e125c elementor-widget elementor-widget-heading" data-id="c8e125c" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<style>/*! elementor - v3.14.0 - 26-06-2023 */
-.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><h1 class="elementor-heading-title elementor-size-default">Conveyors</h1>		</div>
-				</div>
-				<div class="elementor-element elementor-element-da71e75 elementor-widget elementor-widget-text-editor" data-id="da71e75" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-			<style>/*! elementor - v3.14.0 - 26-06-2023 */
-.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#69727d;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#69727d;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p><a href="../index">Home</a> » <a href="../conveyors">Conveyors</a> » <a href="#">Screw Conveyors</a></p>						</div>
-				</div>
-					</div>
-		</div>
+						<div class="elementor-widget-wrap elementor-element-populated">
+							<div class="elementor-element elementor-element-c8e125c elementor-widget elementor-widget-heading" data-id="c8e125c" data-element_type="widget" data-widget_type="heading.default">
+								<div class="elementor-widget-container">
+									<style>/*! elementor - v3.14.0 - 26-06-2023 */
+									.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style>
+									<h1 class="elementor-heading-title elementor-size-default">Conveyors</h1>
+								</div>
 							</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-4218cf5 elementor-reverse-tablet elementor-reverse-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4218cf5" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-element elementor-element-da71e75 elementor-widget elementor-widget-text-editor" data-id="da71e75" data-element_type="widget" data-widget_type="text-editor.default">
+								<div class="elementor-widget-container">
+									<style>/*! elementor - v3.14.0 - 26-06-2023 */
+									.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#69727d;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#69727d;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>
+									<p><a href="../index">Home</a> » <a href="../conveyors">Conveyors</a> » <a href="#">Screw Conveyors</a></p>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+			<section class="elementor-section elementor-top-section elementor-element elementor-element-4218cf5 elementor-reverse-tablet elementor-reverse-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4218cf5" data-element_type="section">
+				<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-5bc0824" data-id="5bc0824" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<section class="elementor-section elementor-inner-section elementor-element elementor-element-bbcd3a4 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="bbcd3a4" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-wide">
-					<div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-c95b570" data-id="c95b570" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-49e3946 elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="49e3946" data-element_type="widget" data-widget_type="image-box.default">
-				<div class="elementor-widget-container">
-			<style>.elementor-widget-image-box .elementor-image-box-content{width:100%}@media (min-width:768px){.elementor-widget-image-box.elementor-position-left .elementor-image-box-wrapper,.elementor-widget-image-box.elementor-position-right .elementor-image-box-wrapper{display:flex}.elementor-widget-image-box.elementor-position-right .elementor-image-box-wrapper{text-align:right;flex-direction:row-reverse}.elementor-widget-image-box.elementor-position-left .elementor-image-box-wrapper{text-align:left;flex-direction:row}.elementor-widget-image-box.elementor-position-top .elementor-image-box-img{margin:auto}.elementor-widget-image-box.elementor-vertical-align-top .elementor-image-box-wrapper{align-items:flex-start}.elementor-widget-image-box.elementor-vertical-align-middle .elementor-image-box-wrapper{align-items:center}.elementor-widget-image-box.elementor-vertical-align-bottom .elementor-image-box-wrapper{align-items:flex-end}}@media (max-width:767px){.elementor-widget-image-box .elementor-image-box-img{margin-left:auto!important;margin-right:auto!important;margin-bottom:15px}}.elementor-widget-image-box .elementor-image-box-img{display:inline-block}.elementor-widget-image-box .elementor-image-box-title a{color:inherit}.elementor-widget-image-box .elementor-image-box-wrapper{text-align:center}.elementor-widget-image-box .elementor-image-box-description{margin:0}</style><div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><a href="./screw-conveyor-systems"><img decoding="async" width="195" height="195" src="../wp-content/uploads/2023/09/Screw-Conveyor-Systems.png" class="attachment-full size-full wp-image-190" alt="" srcset="../wp-content/uploads/2023/09/Screw-Conveyor-Systems.png 195w, ../wp-content/uploads/2023/09/Screw-Conveyor-Systems-150x150.png 150w" sizes="(max-width: 195px) 100vw, 195px" /></a></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title"><a href="./screw-conveyor-systems">Screw Conveyor<br> Systems </a></h3></div></div>		</div>
+						<div class="elementor-widget-wrap elementor-element-populated">
+							<section class="elementor-section elementor-inner-section elementor-element elementor-element-bbcd3a4 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="bbcd3a4" data-element_type="section">
+								<div class="elementor-container elementor-column-gap-wide">
+									<div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-c95b570" data-id="c95b570" data-element_type="column">
+										<div class="elementor-widget-wrap elementor-element-populated">
+											<div class="elementor-element elementor-element-49e3946 elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="49e3946" data-element_type="widget" data-widget_type="image-box.default">
+												<div class="elementor-widget-container">
+													<style>.elementor-widget-image-box .elementor-image-box-content{width:100%}@media (min-width:768px){.elementor-widget-image-box.elementor-position-left .elementor-image-box-wrapper,.elementor-widget-image-box.elementor-position-right .elementor-image-box-wrapper{display:flex}.elementor-widget-image-box.elementor-position-right .elementor-image-box-wrapper{text-align:right;flex-direction:row-reverse}.elementor-widget-image-box.elementor-position-left .elementor-image-box-wrapper{text-align:left;flex-direction:row}.elementor-widget-image-box.elementor-position-top .elementor-image-box-img{margin:auto}.elementor-widget-image-box.elementor-vertical-align-top .elementor-image-box-wrapper{align-items:flex-start}.elementor-widget-image-box.elementor-vertical-align-middle .elementor-image-box-wrapper{align-items:center}.elementor-widget-image-box.elementor-vertical-align-bottom .elementor-image-box-wrapper{align-items:flex-end}}@media (max-width:767px){.elementor-widget-image-box .elementor-image-box-img{margin-left:auto!important;margin-right:auto!important;margin-bottom:15px}}.elementor-widget-image-box .elementor-image-box-img{display:inline-block}.elementor-widget-image-box .elementor-image-box-title a{color:inherit}.elementor-widget-image-box .elementor-image-box-wrapper{text-align:center}.elementor-widget-image-box .elementor-image-box-description{margin:0}</style>
+													<div class="elementor-image-box-wrapper">
+														<figure class="elementor-image-box-img"><a href="./screw-conveyor-systems"><img decoding="async" width="195" height="195" src="../wp-content/uploads/2023/09/Screw-Conveyor-Systems.png" class="attachment-full size-full wp-image-190" alt="" srcset="../wp-content/uploads/2023/09/Screw-Conveyor-Systems.png 195w, ../wp-content/uploads/2023/09/Screw-Conveyor-Systems-150x150.png 150w" sizes="(max-width: 195px) 100vw, 195px" /></a></figure>
+														<div class="elementor-image-box-content">
+															<h3 class="elementor-image-box-title"><a href="./screw-conveyor-systems">Screw Conveyor<br>Systems</a></h3>
+														</div>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+									<div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-55022bb" data-id="55022bb" data-element_type="column">
+										<div class="elementor-widget-wrap elementor-element-populated">
+											<div class="elementor-element elementor-element-5852f7b conveyor-menu elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="5852f7b" data-element_type="widget" data-widget_type="image-box.default">
+												<div class="elementor-widget-container">
+													<div class="elementor-image-box-wrapper">
+														<figure class="elementor-image-box-img"><a href="./drag-conveyor-systems"><img decoding="async" width="195" height="195" src="../wp-content/uploads/2023/09/Drag-Conveyor-Systems.png" class="attachment-full size-full wp-image-191" alt="" srcset="../wp-content/uploads/2023/09/Drag-Conveyor-Systems.png 195w, ../wp-content/uploads/2023/09/Drag-Conveyor-Systems-150x150.png 150w" sizes="(max-width: 195px) 100vw, 195px" /></a></figure>
+														<div class="elementor-image-box-content">
+															<h3 class="elementor-image-box-title"><a href="./drag-conveyor-systems">Drag Conveyor<br>Systems </a></h3>
+														</div>
+													</div>		
+												</div>
+											</div>
+										</div>
+									</div>
+									<div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-6c1bfe0" data-id="6c1bfe0" data-element_type="column">
+										<div class="elementor-widget-wrap elementor-element-populated">
+											<div class="elementor-element elementor-element-c4a34b6 conveyor-menu elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="c4a34b6" data-element_type="widget" data-widget_type="image-box.default">
+												<div class="elementor-widget-container">
+													<div class="elementor-image-box-wrapper">
+														<figure class="elementor-image-box-img"><a href="./bucket-elevator-systems"><img decoding="async" width="196" height="195" src="../wp-content/uploads/2023/09/Bucket-Elevator-Systems.png" class="attachment-full size-full wp-image-192" alt="" srcset="../wp-content/uploads/2023/09/Bucket-Elevator-Systems.png 196w, ../wp-content/uploads/2023/09/Bucket-Elevator-Systems-150x150.png 150w" sizes="(max-width: 196px) 100vw, 196px" /></a></figure>
+														<div class="elementor-image-box-content">
+															<h3 class="elementor-image-box-title"><a href="./bucket-elevator-systems">Bucket Elevator<br> Systems </a></h3>
+														</div>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+									<div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-e736586" data-id="e736586" data-element_type="column">
+										<div class="elementor-widget-wrap elementor-element-populated">
+											<div class="elementor-element elementor-element-51de318 conveyor-menu elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="51de318" data-element_type="widget" data-widget_type="image-box.default">
+												<div class="elementor-widget-container">
+													<div class="elementor-image-box-wrapper">
+														<figure class="elementor-image-box-img"><a href="./belt-conveyor-systems"><img decoding="async" loading="lazy" width="195" height="195" src="../wp-content/uploads/2023/09/Belt-Conveyor-Systems.png" class="attachment-full size-full wp-image-193" alt="" srcset="../wp-content/uploads/2023/09/Belt-Conveyor-Systems.png 195w, ../wp-content/uploads/2023/09/Belt-Conveyor-Systems-150x150.png 150w" sizes="(max-width: 195px) 100vw, 195px" /></a></figure>
+														<div class="elementor-image-box-content">
+															<h3 class="elementor-image-box-title"><a href="./belt-conveyor-systems">Belt Conveyor <br>Systems </a></h3>
+														</div>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+									<div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-a834df8" data-id="a834df8" data-element_type="column">
+										<div class="elementor-widget-wrap elementor-element-populated">
+											<div class="elementor-element elementor-element-8db31e5 conveyor-menu elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="8db31e5" data-element_type="widget" data-widget_type="image-box.default">
+												<div class="elementor-widget-container">
+													<div class="elementor-image-box-wrapper">
+														<figure class="elementor-image-box-img"><a href="./conveyor-components"><img decoding="async" loading="lazy" width="195" height="195" src="../wp-content/uploads/2023/09/Screw-Conveyor-Components.png" class="attachment-full size-full wp-image-194" alt="" srcset="../wp-content/uploads/2023/09/Screw-Conveyor-Components.png 195w, ../wp-content/uploads/2023/09/Screw-Conveyor-Components-150x150.png 150w" sizes="(max-width: 195px) 100vw, 195px" /></a></figure>
+														<div class="elementor-image-box-content">
+															<h3 class="elementor-image-box-title"><a href="./conveyor-components">Conveyor <br>Components </a></h3>
+														</div>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</section>
+						</div>
+					</div>
 				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-55022bb" data-id="55022bb" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-5852f7b conveyor-menu elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="5852f7b" data-element_type="widget" data-widget_type="image-box.default">
-				<div class="elementor-widget-container">
-			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><a href="./drag-conveyor-systems"><img decoding="async" width="195" height="195" src="../wp-content/uploads/2023/09/Drag-Conveyor-Systems.png" class="attachment-full size-full wp-image-191" alt="" srcset="../wp-content/uploads/2023/09/Drag-Conveyor-Systems.png 195w, ../wp-content/uploads/2023/09/Drag-Conveyor-Systems-150x150.png 150w" sizes="(max-width: 195px) 100vw, 195px" /></a></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title"><a href="./drag-conveyor-systems">Drag Conveyor<br>Systems </a></h3></div></div>		</div>
-				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-6c1bfe0" data-id="6c1bfe0" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-c4a34b6 conveyor-menu elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="c4a34b6" data-element_type="widget" data-widget_type="image-box.default">
-				<div class="elementor-widget-container">
-			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><a href="./bucket-elevator-systems"><img decoding="async" width="196" height="195" src="../wp-content/uploads/2023/09/Bucket-Elevator-Systems.png" class="attachment-full size-full wp-image-192" alt="" srcset="../wp-content/uploads/2023/09/Bucket-Elevator-Systems.png 196w, ../wp-content/uploads/2023/09/Bucket-Elevator-Systems-150x150.png 150w" sizes="(max-width: 196px) 100vw, 196px" /></a></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title"><a href="./bucket-elevator-systems">Bucket Elevator<br> Systems </a></h3></div></div>		</div>
-				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-e736586" data-id="e736586" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-51de318 conveyor-menu elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="51de318" data-element_type="widget" data-widget_type="image-box.default">
-				<div class="elementor-widget-container">
-			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><a href="./belt-conveyor-systems"><img decoding="async" loading="lazy" width="195" height="195" src="../wp-content/uploads/2023/09/Belt-Conveyor-Systems.png" class="attachment-full size-full wp-image-193" alt="" srcset="../wp-content/uploads/2023/09/Belt-Conveyor-Systems.png 195w, ../wp-content/uploads/2023/09/Belt-Conveyor-Systems-150x150.png 150w" sizes="(max-width: 195px) 100vw, 195px" /></a></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title"><a href="./belt-conveyor-systems">Belt Conveyor <br>Systems </a></h3></div></div>		</div>
-				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-a834df8" data-id="a834df8" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-8db31e5 conveyor-menu elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="8db31e5" data-element_type="widget" data-widget_type="image-box.default">
-				<div class="elementor-widget-container">
-			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><a href="./conveyor-components"><img decoding="async" loading="lazy" width="195" height="195" src="../wp-content/uploads/2023/09/Screw-Conveyor-Components.png" class="attachment-full size-full wp-image-194" alt="" srcset="../wp-content/uploads/2023/09/Screw-Conveyor-Components.png 195w, ../wp-content/uploads/2023/09/Screw-Conveyor-Components-150x150.png 150w" sizes="(max-width: 195px) 100vw, 195px" /></a></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title"><a href="./conveyor-components">Conveyor <br>Components </a></h3></div></div>		</div>
-				</div>
-					</div>
-		</div>
-							</div>
-		</section>
-					</div>
-		</div>
-							</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-2960017 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2960017" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
+			</section>
+			<section class="elementor-section elementor-top-section elementor-element elementor-element-2960017 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2960017" data-element_type="section">
+				<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-c8fa70a" data-id="c8fa70a" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-7cf6e81 elementor-widget elementor-widget-heading" data-id="7cf6e81" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">Screw Conveyor Systems</h2>		</div>
-				</div>
-				<div class="elementor-element elementor-element-1363101 elementor-widget elementor-widget-spacer" data-id="1363101" data-element_type="widget" data-widget_type="spacer.default">
-				<div class="elementor-widget-container">
-			<style>/*! elementor - v3.14.0 - 26-06-2023 */
-.elementor-column .elementor-spacer-inner{height:var(--spacer-size)}.e-con{--container-widget-width:100%}.e-con-inner>.elementor-widget-spacer,.e-con>.elementor-widget-spacer{width:var(--container-widget-width,var(--spacer-size));--align-self:var(--container-widget-align-self,initial);--flex-shrink:0}.e-con-inner>.elementor-widget-spacer>.elementor-widget-container,.e-con-inner>.elementor-widget-spacer>.elementor-widget-container>.elementor-spacer,.e-con>.elementor-widget-spacer>.elementor-widget-container,.e-con>.elementor-widget-spacer>.elementor-widget-container>.elementor-spacer{height:100%}.e-con-inner>.elementor-widget-spacer>.elementor-widget-container>.elementor-spacer>.elementor-spacer-inner,.e-con>.elementor-widget-spacer>.elementor-widget-container>.elementor-spacer>.elementor-spacer-inner{height:var(--container-widget-height,var(--spacer-size))}</style>		<div class="elementor-spacer">
-			<div class="elementor-spacer-inner"></div>
-		</div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-e1e38c4 elementor-widget elementor-widget-text-editor" data-id="e1e38c4" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p><strong>Thomas Conveyor is one of North America’s premier custom screw conveyor makers. An esteemed member of the Conveyor Equipment Manufacturers Association (CEMA), we’re at the forefront of engineering and crafting innovative conveyor systems, ensuring they meet all requisite standards.</strong></p>						</div>
-				</div>
-					</div>
-		</div>
+						<div class="elementor-widget-wrap elementor-element-populated">
+							<div class="elementor-element elementor-element-7cf6e81 elementor-widget elementor-widget-heading" data-id="7cf6e81" data-element_type="widget" data-widget_type="heading.default">
+								<div class="elementor-widget-container">
+									<h2 class="elementor-heading-title elementor-size-default">Screw Conveyor Systems</h2>
+								</div>
 							</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-299ed7a elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="299ed7a" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-element elementor-element-1363101 elementor-widget elementor-widget-spacer" data-id="1363101" data-element_type="widget" data-widget_type="spacer.default">
+								<div class="elementor-widget-container">
+									<style>/*! elementor - v3.14.0 - 26-06-2023 */
+									.elementor-column .elementor-spacer-inner{height:var(--spacer-size)}.e-con{--container-widget-width:100%}.e-con-inner>.elementor-widget-spacer,.e-con>.elementor-widget-spacer{width:var(--container-widget-width,var(--spacer-size));--align-self:var(--container-widget-align-self,initial);--flex-shrink:0}.e-con-inner>.elementor-widget-spacer>.elementor-widget-container,.e-con-inner>.elementor-widget-spacer>.elementor-widget-container>.elementor-spacer,.e-con>.elementor-widget-spacer>.elementor-widget-container,.e-con>.elementor-widget-spacer>.elementor-widget-container>.elementor-spacer{height:100%}.e-con-inner>.elementor-widget-spacer>.elementor-widget-container>.elementor-spacer>.elementor-spacer-inner,.e-con>.elementor-widget-spacer>.elementor-widget-container>.elementor-spacer>.elementor-spacer-inner{height:var(--container-widget-height,var(--spacer-size))}</style>
+									<div class="elementor-spacer"><div class="elementor-spacer-inner"></div></div>
+								</div>
+							</div>
+							<div class="elementor-element elementor-element-e1e38c4 elementor-widget elementor-widget-text-editor" data-id="e1e38c4" data-element_type="widget" data-widget_type="text-editor.default">
+								<div class="elementor-widget-container">
+									<p><strong>Thomas Conveyor is one of North America’s premier custom screw conveyor makers. An esteemed member of the Conveyor Equipment Manufacturers Association (CEMA), we’re at the forefront of engineering and crafting innovative conveyor systems, ensuring they meet all requisite standards.</strong></p>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+			<section class="elementor-section elementor-top-section elementor-element elementor-element-299ed7a elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="299ed7a" data-element_type="section">
+				<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-990fdf9" data-id="990fdf9" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-8aecc26 elementor-widget elementor-widget-image" data-id="8aecc26" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-															<img decoding="async" loading="lazy" width="1928" height="383" src="../wp-content/uploads/2023/10/screw_conveyors.jpg" class="attachment-full size-full wp-image-326" alt="" srcset="../wp-content/uploads/2023/10/screw_conveyors.jpg 1928w, ../wp-content/uploads/2023/10/screw_conveyors-300x60.jpg 300w, ../wp-content/uploads/2023/10/screw_conveyors-1024x203.jpg 1024w, ../wp-content/uploads/2023/10/screw_conveyors-768x153.jpg 768w, ../wp-content/uploads/2023/10/screw_conveyors-1536x305.jpg 1536w" sizes="(max-width: 1928px) 100vw, 1928px" />															</div>
-				</div>
-					</div>
-		</div>
+						<div class="elementor-widget-wrap elementor-element-populated">
+							<div class="elementor-element elementor-element-8aecc26 elementor-widget elementor-widget-image" data-id="8aecc26" data-element_type="widget" data-widget_type="image.default">
+								<div class="elementor-widget-container">
+									<img decoding="async" loading="lazy" width="1928" height="383" src="../wp-content/uploads/2023/10/screw_conveyors.jpg" class="attachment-full size-full wp-image-326" alt="" srcset="../wp-content/uploads/2023/10/screw_conveyors.jpg 1928w, ../wp-content/uploads/2023/10/screw_conveyors-300x60.jpg 300w, ../wp-content/uploads/2023/10/screw_conveyors-1024x203.jpg 1024w, ../wp-content/uploads/2023/10/screw_conveyors-768x153.jpg 768w, ../wp-content/uploads/2023/10/screw_conveyors-1536x305.jpg 1536w" sizes="(max-width: 1928px) 100vw, 1928px" />
+								</div>
 							</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-2ea7cfd elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2ea7cfd" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
+						</div>
+					</div>
+				</div>
+			</section>
+			<section class="elementor-section elementor-top-section elementor-element elementor-element-2ea7cfd elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2ea7cfd" data-element_type="section">
+				<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-116564c" data-id="116564c" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<section class="elementor-section elementor-inner-section elementor-element elementor-element-a418928 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="a418928" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-wider">
-					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-35f4495" data-id="35f4495" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-e9e09ef elementor-widget elementor-widget-heading" data-id="e9e09ef" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h3 class="elementor-heading-title elementor-size-default">Bi-Directional Screw Conveyor System
-</h3>		</div>
-				</div>
-				<div class="elementor-element elementor-element-6538d17 elementor-widget elementor-widget-text-editor" data-id="6538d17" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<ul><li>Simplifies system with fewer drives</li><li>Redirects effortlessly</li><li>Suits multiple exit points</li></ul>						</div>
-				</div>
-				<div class="elementor-element elementor-element-1e314b2 elementor-widget elementor-widget-spacer" data-id="1e314b2" data-element_type="widget" data-widget_type="spacer.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-spacer">
-			<div class="elementor-spacer-inner"></div>
-		</div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-a0ced1b elementor-widget elementor-widget-heading" data-id="a0ced1b" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h3 class="elementor-heading-title elementor-size-default">Grit Washer Systems
-</h3>		</div>
-				</div>
-				<div class="elementor-element elementor-element-ae279a2 elementor-widget elementor-widget-text-editor" data-id="ae279a2" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<ul><li>Efficiently separates solids and liquids</li><li>Adjustable inclines for optimum results</li><li>Ensures washed and dewatered outcomes</li></ul>						</div>
-				</div>
-				<div class="elementor-element elementor-element-29f3e44 elementor-widget elementor-widget-spacer" data-id="29f3e44" data-element_type="widget" data-widget_type="spacer.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-spacer">
-			<div class="elementor-spacer-inner"></div>
-		</div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-49b2159 elementor-widget elementor-widget-heading" data-id="49b2159" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h3 class="elementor-heading-title elementor-size-default">Heat Transfer Screw Conveyors
-</h3>		</div>
-				</div>
-				<div class="elementor-element elementor-element-8d1ebbd elementor-widget elementor-widget-text-editor" data-id="8d1ebbd" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<ul><li>Perfect for material temperature regulation</li><li>Maintains consistent temperature</li><li>Enables simultaneous mixing during transport</li></ul>						</div>
-				</div>
-				<div class="elementor-element elementor-element-1e3cc5b elementor-widget elementor-widget-spacer" data-id="1e3cc5b" data-element_type="widget" data-widget_type="spacer.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-spacer">
-			<div class="elementor-spacer-inner"></div>
-		</div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-cbec22b elementor-widget elementor-widget-heading" data-id="cbec22b" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h3 class="elementor-heading-title elementor-size-default">Modular Plastic Screw Conveyors
-</h3>		</div>
-				</div>
-				<div class="elementor-element elementor-element-b680e2c elementor-widget elementor-widget-text-editor" data-id="b680e2c" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<ul><li>Effectively releases sticky substances and ice</li><li> Lightweight with energy-saving benefits</li><li>Suitable for food-grade requirements</li><li>Facilitates module replacements</li></ul>						</div>
-				</div>
-				<div class="elementor-element elementor-element-931be3d elementor-widget elementor-widget-spacer" data-id="931be3d" data-element_type="widget" data-widget_type="spacer.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-spacer">
-			<div class="elementor-spacer-inner"></div>
-		</div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-95bfe16 elementor-widget elementor-widget-heading" data-id="95bfe16" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h3 class="elementor-heading-title elementor-size-default">Multi Screw Conveyors
-</h3>		</div>
-				</div>
-				<div class="elementor-element elementor-element-5dfe60b elementor-widget elementor-widget-text-editor" data-id="5dfe60b" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<ul><li>Designed for broad hoppers</li><li>Fits negative-incline bins</li><li>Prevents material accumulation</li></ul>						</div>
-				</div>
-				<div class="elementor-element elementor-element-ea81424 elementor-widget elementor-widget-spacer" data-id="ea81424" data-element_type="widget" data-widget_type="spacer.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-spacer">
-			<div class="elementor-spacer-inner"></div>
-		</div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-81d98a6 elementor-widget elementor-widget-heading" data-id="81d98a6" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h3 class="elementor-heading-title elementor-size-default">Ribbon & Paddle Screws
-</h3>		</div>
-				</div>
-				<div class="elementor-element elementor-element-d8a7f16 elementor-widget elementor-widget-text-editor" data-id="d8a7f16" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<ul><li>For mixing and blending</li><li>Cools through aeration</li><li>Breaks soft aggregates</li><li>Handles tacky substances</li></ul>						</div>
-				</div>
+						<div class="elementor-widget-wrap elementor-element-populated">
+							<section class="elementor-section elementor-inner-section elementor-element elementor-element-a418928 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="a418928" data-element_type="section">
+								<div class="elementor-container elementor-column-gap-wider">
+									<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-35f4495" data-id="35f4495" data-element_type="column">
+										<div class="elementor-widget-wrap elementor-element-populated">
+											<div class="elementor-element elementor-element-e9e09ef elementor-widget elementor-widget-heading" data-id="e9e09ef" data-element_type="widget" data-widget_type="heading.default">
+												<div class="elementor-widget-container">
+													<h3 class="elementor-heading-title elementor-size-default">Bi-Directional Screw Conveyor System</h3>
+												</div>
+											</div>
+											<div class="elementor-element elementor-element-6538d17 elementor-widget elementor-widget-text-editor" data-id="6538d17" data-element_type="widget" data-widget_type="text-editor.default">
+												<div class="elementor-widget-container">
+													<ul>
+														<li>Simplifies system with fewer drives</li>
+														<li>Redirects effortlessly</li>
+														<li>Suits multiple exit points</li>
+													</ul>
+												</div>
+											</div>
+											<div class="elementor-element elementor-element-1e314b2 elementor-widget elementor-widget-spacer" data-id="1e314b2" data-element_type="widget" data-widget_type="spacer.default">
+												<div class="elementor-widget-container">
+													<div class="elementor-spacer"><div class="elementor-spacer-inner"></div></div>
+												</div>
+											</div>
+											<div class="elementor-element elementor-element-a0ced1b elementor-widget elementor-widget-heading" data-id="a0ced1b" data-element_type="widget" data-widget_type="heading.default">
+												<div class="elementor-widget-container">
+													<h3 class="elementor-heading-title elementor-size-default">Grit Washer Systems</h3>
+												</div>
+											</div>
+											<div class="elementor-element elementor-element-ae279a2 elementor-widget elementor-widget-text-editor" data-id="ae279a2" data-element_type="widget" data-widget_type="text-editor.default">
+												<div class="elementor-widget-container">
+													<ul>
+														<li>Efficiently separates solids and liquids</li>
+														<li>Adjustable inclines for optimum results</li>
+														<li>Ensures washed and dewatered outcomes</li>
+													</ul>
+												</div>
+											</div>
+											<div class="elementor-element elementor-element-29f3e44 elementor-widget elementor-widget-spacer" data-id="29f3e44" data-element_type="widget" data-widget_type="spacer.default">
+												<div class="elementor-widget-container"><div class="elementor-spacer"><div class="elementor-spacer-inner"></div></div></div>
+											</div>
+											<div class="elementor-element elementor-element-49b2159 elementor-widget elementor-widget-heading" data-id="49b2159" data-element_type="widget" data-widget_type="heading.default">
+												<div class="elementor-widget-container">
+													<h3 class="elementor-heading-title elementor-size-default">Heat Transfer Screw Conveyors</h3>
+												</div>
+											</div>
+											<div class="elementor-element elementor-element-8d1ebbd elementor-widget elementor-widget-text-editor" data-id="8d1ebbd" data-element_type="widget" data-widget_type="text-editor.default">
+												<div class="elementor-widget-container">
+													<ul>
+														<li>Perfect for material temperature regulation</li>
+														<li>Maintains consistent temperature</li>
+														<li>Enables simultaneous mixing during transport</li>
+													</ul>
+												</div>
+											</div>
+											<div class="elementor-element elementor-element-1e3cc5b elementor-widget elementor-widget-spacer" data-id="1e3cc5b" data-element_type="widget" data-widget_type="spacer.default">
+												<div class="elementor-widget-container"><div class="elementor-spacer"><div class="elementor-spacer-inner"></div></div></div>
+											</div>
+											<div class="elementor-element elementor-element-cbec22b elementor-widget elementor-widget-heading" data-id="cbec22b" data-element_type="widget" data-widget_type="heading.default">
+												<div class="elementor-widget-container">
+													<h3 class="elementor-heading-title elementor-size-default">Modular Plastic Screw Conveyors</h3>
+												</div>
+											</div>
+											<div class="elementor-element elementor-element-b680e2c elementor-widget elementor-widget-text-editor" data-id="b680e2c" data-element_type="widget" data-widget_type="text-editor.default">
+												<div class="elementor-widget-container">
+													<ul>
+														<li>Effectively releases sticky substances and ice</li>
+														<li>Lightweight with energy-saving benefits</li>
+														<li>Suitable for food-grade requirements</li>
+														<li>Facilitates module replacements</li>
+													</ul>
+												</div>
+											</div>
+											<div class="elementor-element elementor-element-931be3d elementor-widget elementor-widget-spacer" data-id="931be3d" data-element_type="widget" data-widget_type="spacer.default">
+												<div class="elementor-widget-container"><div class="elementor-spacer"><div class="elementor-spacer-inner"></div></div></div>
+											</div>
+											<div class="elementor-element elementor-element-95bfe16 elementor-widget elementor-widget-heading" data-id="95bfe16" data-element_type="widget" data-widget_type="heading.default">
+												<div class="elementor-widget-container">
+													<h3 class="elementor-heading-title elementor-size-default">Multi Screw Conveyors</h3>
+												</div>
+											</div>
+											<div class="elementor-element elementor-element-5dfe60b elementor-widget elementor-widget-text-editor" data-id="5dfe60b" data-element_type="widget" data-widget_type="text-editor.default">
+												<div class="elementor-widget-container">
+													<ul>
+														<li>Designed for broad hoppers</li>
+														<li>Fits negative-incline bins</li>
+														<li>Prevents material accumulation</li>
+													</ul>
+												</div>
+											</div>
+											<div class="elementor-element elementor-element-ea81424 elementor-widget elementor-widget-spacer" data-id="ea81424" data-element_type="widget" data-widget_type="spacer.default">
+												<div class="elementor-widget-container"><div class="elementor-spacer"><div class="elementor-spacer-inner"></div></div></div>
+											</div>
+											<div class="elementor-element elementor-element-81d98a6 elementor-widget elementor-widget-heading" data-id="81d98a6" data-element_type="widget" data-widget_type="heading.default">
+												<div class="elementor-widget-container">
+													<h3 class="elementor-heading-title elementor-size-default">Ribbon & Paddle Screws</h3>
+												</div>
+											</div>
+											<div class="elementor-element elementor-element-d8a7f16 elementor-widget elementor-widget-text-editor" data-id="d8a7f16" data-element_type="widget" data-widget_type="text-editor.default">
+												<div class="elementor-widget-container">
+													<ul>
+														<li>For mixing and blending</li>
+														<li>Cools through aeration</li>
+														<li>Breaks soft aggregates</li>
+														<li>Handles tacky substances</li>
+													</ul>
+												</div>
+											</div>
+										</div>
+									</div>
+									<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-14ce769" data-id="14ce769" data-element_type="column">
+										<div class="elementor-widget-wrap elementor-element-populated">
+											<div class="elementor-element elementor-element-0520b19 elementor-widget elementor-widget-heading" data-id="0520b19" data-element_type="widget" data-widget_type="heading.default">
+												<div class="elementor-widget-container">
+													<h3 class="elementor-heading-title elementor-size-default">Screw Conveyor & Incline Systems</h3>
+												</div>
+											</div>
+											<div class="elementor-element elementor-element-af00577 elementor-widget elementor-widget-text-editor" data-id="af00577" data-element_type="widget" data-widget_type="text-editor.default">
+												<div class="elementor-widget-container">
+													<ul>
+														<li>Efficient product elevation</li>
+														<li>Aids in bagging and consistent feeding</li>
+													</ul>
+												</div>
+											</div>
+											<div class="elementor-element elementor-element-c3bc44d elementor-widget elementor-widget-spacer" data-id="c3bc44d" data-element_type="widget" data-widget_type="spacer.default">
+												<div class="elementor-widget-container"><div class="elementor-spacer"><div class="elementor-spacer-inner"></div></div></div>
+											</div>
+											<div class="elementor-element elementor-element-005132d elementor-widget elementor-widget-heading" data-id="005132d" data-element_type="widget" data-widget_type="heading.default">
+												<div class="elementor-widget-container">
+													<h3 class="elementor-heading-title elementor-size-default">Screw Feeders</h3>
+												</div>
+											</div>
+											<div class="elementor-element elementor-element-90d6aea elementor-widget elementor-widget-text-editor" data-id="90d6aea" data-element_type="widget" data-widget_type="text-editor.default">
+												<div class="elementor-widget-container">
+													<ul>
+														<li>Ensures steady material flow from bins</li>
+														<li>Energy-saving drive systems</li>
+														<li>Designed for heavy-loading scenarios</li>
+													</ul>
+												</div>
+											</div>
+											<div class="elementor-element elementor-element-5962a99 elementor-widget elementor-widget-spacer" data-id="5962a99" data-element_type="widget" data-widget_type="spacer.default">
+												<div class="elementor-widget-container"><div class="elementor-spacer"><div class="elementor-spacer-inner"></div></div></div>
+											</div>
+											<div class="elementor-element elementor-element-fe20cc6 elementor-widget elementor-widget-heading" data-id="fe20cc6" data-element_type="widget" data-widget_type="heading.default">
+												<div class="elementor-widget-container">
+													<h3 class="elementor-heading-title elementor-size-default">Shaftless Screw Conveyors</h3>
+												</div>
+											</div>
+											<div class="elementor-element elementor-element-1d848f9 elementor-widget elementor-widget-text-editor" data-id="1d848f9" data-element_type="widget" data-widget_type="text-editor.default">
+												<div class="elementor-widget-container">
+													<ul>
+														<li>No need for additional supports</li>
+														<li>Moves sticky substances and large chunks</li>
+													</ul>
+												</div>
+											</div>
+											<div class="elementor-element elementor-element-368e23d elementor-widget elementor-widget-spacer" data-id="368e23d" data-element_type="widget" data-widget_type="spacer.default">
+												<div class="elementor-widget-container"><div class="elementor-spacer"><div class="elementor-spacer-inner"></div></div></div>
+											</div>
+											<div class="elementor-element elementor-element-a958a70 elementor-widget elementor-widget-heading" data-id="a958a70" data-element_type="widget" data-widget_type="heading.default">
+												<div class="elementor-widget-container">
+													<h3 class="elementor-heading-title elementor-size-default">Stainless Steel Screw Conveyor</h3>
+												</div>
+											</div>
+											<div class="elementor-element elementor-element-8cd15e2 elementor-widget elementor-widget-text-editor" data-id="8cd15e2" data-element_type="widget" data-widget_type="text-editor.default">
+												<div class="elementor-widget-container">
+													<ul>
+														<li>Perfect for food applications</li>
+														<li>Uses specialty materials for corrosion protection</li>
+														<li>Options for wear resistance</li>
+													</ul>
+												</div>
+											</div>
+											<div class="elementor-element elementor-element-7444baa elementor-widget elementor-widget-spacer" data-id="7444baa" data-element_type="widget" data-widget_type="spacer.default">
+												<div class="elementor-widget-container"><div class="elementor-spacer"><div class="elementor-spacer-inner"></div></div></div>
+											</div>
+											<div class="elementor-element elementor-element-5dce7f4 elementor-widget elementor-widget-heading" data-id="5dce7f4" data-element_type="widget" data-widget_type="heading.default">
+												<div class="elementor-widget-container">
+													<h3 class="elementor-heading-title elementor-size-default">Vertical Screw Elevators</h3>
+												</div>
+											</div>
+											<div class="elementor-element elementor-element-5970e6e elementor-widget elementor-widget-text-editor" data-id="5970e6e" data-element_type="widget" data-widget_type="text-editor.default">
+												<div class="elementor-widget-container">
+													<ul>
+														<li>Space-saving vertical design</li>
+														<li>Suitable for dry, free-flow products</li>
+														<li>Top/bottom drive options</li>
+													</ul>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</section>
+						</div>
 					</div>
-		</div>
-				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-14ce769" data-id="14ce769" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-0520b19 elementor-widget elementor-widget-heading" data-id="0520b19" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h3 class="elementor-heading-title elementor-size-default">Screw Conveyor & Incline Systems
-</h3>		</div>
 				</div>
-				<div class="elementor-element elementor-element-af00577 elementor-widget elementor-widget-text-editor" data-id="af00577" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<ul><li>Efficient product elevation</li><li>Aids in bagging and consistent feeding</li></ul>						</div>
-				</div>
-				<div class="elementor-element elementor-element-c3bc44d elementor-widget elementor-widget-spacer" data-id="c3bc44d" data-element_type="widget" data-widget_type="spacer.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-spacer">
-			<div class="elementor-spacer-inner"></div>
-		</div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-005132d elementor-widget elementor-widget-heading" data-id="005132d" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h3 class="elementor-heading-title elementor-size-default">Screw Feeders
-</h3>		</div>
-				</div>
-				<div class="elementor-element elementor-element-90d6aea elementor-widget elementor-widget-text-editor" data-id="90d6aea" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<ul><li>Ensures steady material flow from bins</li><li>Energy-saving drive systems</li><li>Designed for heavy-loading scenarios</li></ul>						</div>
-				</div>
-				<div class="elementor-element elementor-element-5962a99 elementor-widget elementor-widget-spacer" data-id="5962a99" data-element_type="widget" data-widget_type="spacer.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-spacer">
-			<div class="elementor-spacer-inner"></div>
-		</div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-fe20cc6 elementor-widget elementor-widget-heading" data-id="fe20cc6" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h3 class="elementor-heading-title elementor-size-default">Shaftless Screw Conveyors
-</h3>		</div>
-				</div>
-				<div class="elementor-element elementor-element-1d848f9 elementor-widget elementor-widget-text-editor" data-id="1d848f9" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<ul><li>No need for additional supports</li><li>Moves sticky substances and large chunks</li></ul>						</div>
-				</div>
-				<div class="elementor-element elementor-element-368e23d elementor-widget elementor-widget-spacer" data-id="368e23d" data-element_type="widget" data-widget_type="spacer.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-spacer">
-			<div class="elementor-spacer-inner"></div>
-		</div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-a958a70 elementor-widget elementor-widget-heading" data-id="a958a70" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h3 class="elementor-heading-title elementor-size-default">Stainless Steel Screw Conveyor
-</h3>		</div>
-				</div>
-				<div class="elementor-element elementor-element-8cd15e2 elementor-widget elementor-widget-text-editor" data-id="8cd15e2" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<ul><li>Perfect for food applications</li><li>Uses specialty materials for corrosion protection</li><li>Options for wear resistance</li></ul>						</div>
-				</div>
-				<div class="elementor-element elementor-element-7444baa elementor-widget elementor-widget-spacer" data-id="7444baa" data-element_type="widget" data-widget_type="spacer.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-spacer">
-			<div class="elementor-spacer-inner"></div>
-		</div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-5dce7f4 elementor-widget elementor-widget-heading" data-id="5dce7f4" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h3 class="elementor-heading-title elementor-size-default">Vertical Screw Elevators
-</h3>		</div>
-				</div>
-				<div class="elementor-element elementor-element-5970e6e elementor-widget elementor-widget-text-editor" data-id="5970e6e" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<ul><li>Space-saving vertical design</li><li>Suitable for dry, free-flow products</li><li>Top/bottom drive options</li></ul>						</div>
-				</div>
-					</div>
-		</div>
-							</div>
-		</section>
-					</div>
-		</div>
-							</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-f961dd2 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="f961dd2" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
+			</section>
+			<section class="elementor-section elementor-top-section elementor-element elementor-element-f961dd2 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="f961dd2" data-element_type="section">
+				<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-ecc0b2c" data-id="ecc0b2c" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-0c2cdc4 elementor-widget elementor-widget-heading" data-id="0c2cdc4" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h3 class="elementor-heading-title elementor-size-default">Key Benefits of Screw Conveyors
-</h3>		</div>
-				</div>
-				<div class="elementor-element elementor-element-8ff8fb8 elementor-widget elementor-widget-text-editor" data-id="8ff8fb8" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<ul><li>Highly adaptable with various configurations.</li><li>Natural mixing capability.</li><li>Capable of two-direction transport.</li><li>High temperature resilience; can handle &gt;1000°F.</li><li>Wear-resistant for abrasive substances.</li><li>Efficient flood-loading and unloading.</li><li>Environmentally friendly with total enclosure systems.</li><li>Accommodates large materials.</li><li>Adaptable for multiple entry or exit points.</li></ul>						</div>
-				</div>
-				<div class="elementor-element elementor-element-b94117c elementor-widget__width-initial elementor-widget elementor-widget-text-editor" data-id="b94117c" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<strong>Regarded as one of the most elementary devices for bulk movement, our conveyors fit in tight spaces, can mix dry/wet ingredients, and are crafted from materials resistant to various environmental factors.
-</strong>						</div>
-				</div>
-				<div class="elementor-element elementor-element-4f61a61 elementor-widget elementor-widget-heading" data-id="4f61a61" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h3 class="elementor-heading-title elementor-size-default">Additional Conveyor Details
-</h3>		</div>
-				</div>
-				<div class="elementor-element elementor-element-ce03e96 elementor-widget elementor-widget-text-editor" data-id="ce03e96" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<ul><li>Multi Screw Conveyors: Designed for diverse material flows.</li><li>Ribbon Flight Conveyors: Tackles sticky materials.</li><li>Paddle Screw Conveyors: Ensures thorough mixing.</li><li>Screw Feeders: Precise and controlled flow rates.</li><li>Shaftless Systems: Ideal for large particles, no central pipe.</li><li>Thomas Grit Washer: Distinguishes and manages wastewater solids.</li><li>Heat Transfer Systems: Regulates material temperatures.</li><li>Pressurized Conveyors: Suited for chemicals and fire-related uses.</li></ul>						</div>
-				</div>
+						<div class="elementor-widget-wrap elementor-element-populated">
+							<div class="elementor-element elementor-element-0c2cdc4 elementor-widget elementor-widget-heading" data-id="0c2cdc4" data-element_type="widget" data-widget_type="heading.default">
+								<div class="elementor-widget-container">
+									<h3 class="elementor-heading-title elementor-size-default">Key Benefits of Screw Conveyors</h3>
+								</div>
+							</div>
+							<div class="elementor-element elementor-element-8ff8fb8 elementor-widget elementor-widget-text-editor" data-id="8ff8fb8" data-element_type="widget" data-widget_type="text-editor.default">
+								<div class="elementor-widget-container">
+									<ul>
+										<li>Highly adaptable with various configurations.</li>
+										<li>Natural mixing capability.</li>
+										<li>Capable of two-direction transport.</li>
+										<li>High temperature resilience; can handle &gt;1000°F.</li>
+										<li>Wear-resistant for abrasive substances.</li>
+										<li>Efficient flood-loading and unloading.</li>
+										<li>Environmentally friendly with total enclosure systems.</li>
+										<li>Accommodates large materials.</li>
+										<li>Adaptable for multiple entry or exit points.</li>
+									</ul>
+								</div>
+							</div>
+							<div class="elementor-element elementor-element-b94117c elementor-widget__width-initial elementor-widget elementor-widget-text-editor" data-id="b94117c" data-element_type="widget" data-widget_type="text-editor.default">
+								<div class="elementor-widget-container">
+									<strong>Regarded as one of the most elementary devices for bulk movement, our conveyors fit in tight spaces, can mix dry/wet ingredients, and are crafted from materials resistant to various environmental factors.</strong>
+								</div>
+							</div>
+							<div class="elementor-element elementor-element-4f61a61 elementor-widget elementor-widget-heading" data-id="4f61a61" data-element_type="widget" data-widget_type="heading.default">
+								<div class="elementor-widget-container">
+									<h3 class="elementor-heading-title elementor-size-default">Additional Conveyor Details</h3>
+								</div>
+							</div>
+							<div class="elementor-element elementor-element-ce03e96 elementor-widget elementor-widget-text-editor" data-id="ce03e96" data-element_type="widget" data-widget_type="text-editor.default">
+								<div class="elementor-widget-container">
+									<ul>
+										<li>Multi Screw Conveyors: Designed for diverse material flows.</li>
+										<li>Ribbon Flight Conveyors: Tackles sticky materials.</li>
+										<li>Paddle Screw Conveyors: Ensures thorough mixing.</li>
+										<li>Screw Feeders: Precise and controlled flow rates.</li>
+										<li>Shaftless Systems: Ideal for large particles, no central pipe.</li>
+										<li>Thomas Grit Washer: Distinguishes and manages wastewater solids.</li>
+										<li>Heat Transfer Systems: Regulates material temperatures.</li>
+										<li>Pressurized Conveyors: Suited for chemicals and fire-related uses.</li>
+									</ul>
+								</div>
+							</div>
+						</div>
 					</div>
+				</div>
+			</section>
 		</div>
-							</div>
-		</section>
-							</div>
-				<div class="post-tags">
-					</div>
-			</div>
+		<div class="post-tags">
+		</div>
+	</div>
 
 	<section id="comments" class="comments-area">
-
-	
-	
-	
-</section><!-- .comments-area --></main>
+	</section><!-- .comments-area --></main>
 
 <?php include '../footer.php';?>
 
