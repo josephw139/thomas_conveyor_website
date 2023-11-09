@@ -21,12 +21,12 @@
 								<div class="nav-menu nav-menu-">
 									<nav class="navbar ">
 										<ul class="menu line">
-											<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-179"><a href="https://tc.dev2.barn3s.com/beta/about.php">About</a></li>
-											<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-198"><a href="https://tc.dev2.barn3s.com/beta/conveyors.php">Conveyors</a></li>
-											<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-259"><a href="https://tc.dev2.barn3s.com/beta/services.php">Services</a></li>
-											<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-632"><a href="https://tc.dev2.barn3s.com/beta/industries.php">Industries</a></li>
-											<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-922"><a href="https://tc.dev2.barn3s.com/beta/support.php">Support</a></li>
-											<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1036"><a href="https://tc.dev2.barn3s.com/beta/blog.php">Blog</a></li>
+											<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-179"><a href="https://tc.dev2.barn3s.com/beta/about">About</a></li>
+											<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-198"><a href="https://tc.dev2.barn3s.com/beta/conveyors">Conveyors</a></li>
+											<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-259"><a href="https://tc.dev2.barn3s.com/beta/services">Services</a></li>
+											<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-632"><a href="https://tc.dev2.barn3s.com/beta/industries">Industries</a></li>
+											<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-922"><a href="https://tc.dev2.barn3s.com/beta/support">Support</a></li>
+											<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1036"><a href="https://tc.dev2.barn3s.com/beta/blog">Blog</a></li>
 										</ul>
 									</nav>
 								</div>
@@ -38,8 +38,8 @@
 									<nav class="navbar ">
 										<ul class="menu line">
 											<li id="menu-item-13" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13"><a target="_blank" rel="noopener" href="https://www.martinsprocket.com/view/companypage/contact-us/request-a-quote">Request Quote</a></li>
-											<li id="menu-item-1422" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1422"><a href="https://tc.dev2.barn3s.com/online-catalog.php">Online Catalog</a></li>
-											<li id="menu-item-1421" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1421"><a href="https://tc.dev2.barn3s.com/contact.php">Contact</a></li>
+											<li id="menu-item-1422" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1422"><a href="https://tc.dev2.barn3s.com/online-catalog">Online Catalog</a></li>
+											<li id="menu-item-1421" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1421"><a href="https://tc.dev2.barn3s.com/contact">Contact</a></li>
 										</ul>
 									</nav>
 								</div>
@@ -50,9 +50,9 @@
 								<div class="nav-menu nav-menu-">
 									<nav class="navbar ">
 										<ul class="menu line">
-											<li id="menu-item-1426" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-1426"><a rel="privacy-policy" href="https://tc.dev2.barn3s.com/privacy-policy.php">Privacy Policy</a></li>
-											<li id="menu-item-1451" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1451"><a href="https://tc.dev2.barn3s.com/terms-conditions.php">Terms &#038; Conditions</a></li>
-											<li id="menu-item-1487" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1487"><a href="https://tc.dev2.barn3s.com/sitemap.php">Sitemap</a></li>
+											<li id="menu-item-1426" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-1426"><a rel="privacy-policy" href="https://tc.dev2.barn3s.com/privacy-policy">Privacy Policy</a></li>
+											<li id="menu-item-1451" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1451"><a href="https://tc.dev2.barn3s.com/terms-conditions">Terms &#038; Conditions</a></li>
+											<li id="menu-item-1487" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1487"><a href="https://tc.dev2.barn3s.com/sitemap">Sitemap</a></li>
 										</ul>
 									</nav>
 								</div>

@@ -4,23 +4,23 @@
             <i class="fa-solid fa-circle-xmark"></i>
         </div>
         <div class="mobile-menu">
-            <ul id="menu-full-menu-mobile" class="menu"><li id="menu-item-1546" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-53 current_page_item menu-item-1546"><a href="index.php" aria-current="page">Home</a></li>
-                <li id="menu-item-1547" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1547"><a href="about.php">About</a></li>
-                <li id="menu-item-1548" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1548"><a href="blog.php">Blog</a></li>
-                <li id="menu-item-1553" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1553"><a href="contact.php">Contact</a></li>
-                <li id="menu-item-1549" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1549"><a href="conveyors.php">Conveyors</a>
+            <ul id="menu-full-menu-mobile" class="menu"><li id="menu-item-1546" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-53 current_page_item menu-item-1546"><a href="index" aria-current="page">Home</a></li>
+                <li id="menu-item-1547" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1547"><a href="about">About</a></li>
+                <li id="menu-item-1548" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1548"><a href="blog">Blog</a></li>
+                <li id="menu-item-1553" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1553"><a href="contact">Contact</a></li>
+                <li id="menu-item-1549" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1549"><a href="conveyors">Conveyors</a>
                     <ul class="sub-menu">
-                        <li id="menu-item-1556" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1556"><a href="conveyors/screw-conveyor-systems.php">Screw Conveyor Systems</a></li>
-                        <li id="menu-item-1557" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1557"><a href="conveyors/drag-conveyor-systems.php">Drag Conveyor Systems</a></li>
-                        <li id="menu-item-1559" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1559"><a href="conveyors/bucket-elevator-systems.php">Bucket Elevator Systems</a></li>
-                        <li id="menu-item-1560" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1560"><a href="conveyors/belt-conveyor-systems.php">Belt Conveyor Systems</a></li>
-                        <li id="menu-item-1558" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1558"><a href="conveyors/conveyor-components.php">Conveyor Components</a></li>
+                        <li id="menu-item-1556" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1556"><a href="conveyor/screw-conveyor-systems">Screw Conveyor Systems</a></li>
+                        <li id="menu-item-1557" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1557"><a href="conveyor/drag-conveyor-systems">Drag Conveyor Systems</a></li>
+                        <li id="menu-item-1559" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1559"><a href="conveyor/bucket-elevator-systems">Bucket Elevator Systems</a></li>
+                        <li id="menu-item-1560" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1560"><a href="conveyor/belt-conveyor-systems">Belt Conveyor Systems</a></li>
+                        <li id="menu-item-1558" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1558"><a href="conveyor/conveyor-components">Conveyor Components</a></li>
                     </ul>
                 </li>
-                <li id="menu-item-1551" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1551"><a href="services.php">Services</a></li>
-                <li id="menu-item-1550" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1550"><a href="industries.php">Industries</a></li>
-                <li id="menu-item-1552" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1552"><a href="support.php">Support</a></li>
-                <li id="menu-item-1554" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1554"><a href="online-catalog.php">Online Catalog</a></li>
+                <li id="menu-item-1551" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1551"><a href="services">Services</a></li>
+                <li id="menu-item-1550" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1550"><a href="industries">Industries</a></li>
+                <li id="menu-item-1552" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1552"><a href="support">Support</a></li>
+                <li id="menu-item-1554" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1554"><a href="online-catalog">Online Catalog</a></li>
                 <li id="menu-item-1555" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1555"><a href="https://www.martinsprocket.com/view/companypage/contact-us/request-a-quote">Request Quote</a></li>
             </ul>
         </div>		
@@ -81,7 +81,7 @@
                                         <div class="elementor-element elementor-element-6c1dafe elementor-widget elementor-widget-button" data-id="6c1dafe" data-element_type="widget" data-widget_type="button.default">
                                             <div class="elementor-widget-container">
                                                 <div class="elementor-button-wrapper">
-                                                    <a class="elementor-button elementor-button-link elementor-size-sm" href="online-catalog.php">
+                                                    <a class="elementor-button elementor-button-link elementor-size-sm" href="online-catalog">
                                                         <span class="elementor-button-content-wrapper">
                                                             <span class="elementor-button-text">Online Catalog</span>
                                                         </span>
@@ -96,7 +96,7 @@
                                         <div class="elementor-element elementor-element-697fd49 elementor-widget elementor-widget-button" data-id="697fd49" data-element_type="widget" data-widget_type="button.default">
                                             <div class="elementor-widget-container">
                                                 <div class="elementor-button-wrapper">
-                                                    <a class="elementor-button elementor-button-link elementor-size-sm" href="contact.php">
+                                                    <a class="elementor-button elementor-button-link elementor-size-sm" href="contact">
                                                         <span class="elementor-button-content-wrapper">
                                                             <span class="elementor-button-text">Contact</span>
                                                         </span>
@@ -116,12 +116,12 @@
                                     </a>
                                     <nav class="navbar ">
                                         <ul class="menu line">
-                                            <li id="menu-item-179" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-179"><a href="https://tc.dev2.barn3s.com/beta/about.php">About</a></li>
-                                            <li id="menu-item-198" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-198"><a href="https://tc.dev2.barn3s.com/beta/conveyors.php">Conveyors</a></li>
-                                            <li id="menu-item-259" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-259"><a href="https://tc.dev2.barn3s.com/beta/services.php">Services</a></li>
-                                            <li id="menu-item-632" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-632"><a href="https://tc.dev2.barn3s.com/beta/industries.php">Industries</a></li>
-                                            <li id="menu-item-922" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-922"><a href="https://tc.dev2.barn3s.com/beta/support.php">Support</a></li>
-                                            <li id="menu-item-1036" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1036"><a href="https://tc.dev2.barn3s.com/beta/blog.php">Blog</a></li>
+                                            <li id="menu-item-179" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-179"><a href="https://tc.dev2.barn3s.com/beta/about">About</a></li>
+                                            <li id="menu-item-198" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-198"><a href="https://tc.dev2.barn3s.com/beta/conveyors">Conveyors</a></li>
+                                            <li id="menu-item-259" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-259"><a href="https://tc.dev2.barn3s.com/beta/services">Services</a></li>
+                                            <li id="menu-item-632" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-632"><a href="https://tc.dev2.barn3s.com/beta/industries">Industries</a></li>
+                                            <li id="menu-item-922" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-922"><a href="https://tc.dev2.barn3s.com/beta/support">Support</a></li>
+                                            <li id="menu-item-1036" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1036"><a href="https://tc.dev2.barn3s.com/beta/blog">Blog</a></li>
                                         </ul>
                                     </nav>
                                 </div>

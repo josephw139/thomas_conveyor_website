@@ -9,19 +9,19 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,300;1,300&amp;family=Roboto:ital,wght@0,300;0,500;1,300;1,500&amp;display=swap" rel="stylesheet">
 
-	<title>Mill Duty Elevators - Thomas Conveyor &amp; Equipment</title>
+	<title>Continuous Elevators - Thomas Conveyor &amp; Equipment</title>
     <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
 
 	<!-- This site is optimized with the Yoast SEO plugin v20.11 - https://yoast.com/wordpress/plugins/seo/ -->
-	<link rel="canonical" href="/blog/mill-duty-elevators.php" />
+	<link rel="canonical" href="/blogs/continuous-elevators" />
 	<meta property="og:locale" content="en_US" />
 	<meta property="og:type" content="article" />
-	<meta property="og:title" content="Mill Duty Elevators - Thomas Conveyor &amp; Equipment" />
-	<meta property="og:description" content="Our mill duty product line is based on a centrifugal style design. Due to the rough industrial environments that these elevators are used in our design offers heavy duty construction including buckets, belt, chain, bearings, &amp; casing." />
-	<meta property="og:url" content="https://tc.dev2.barn3s.com/2022/07/01/mill-duty-elevators/" />
+	<meta property="og:title" content="Continuous Elevators - Thomas Conveyor &amp; Equipment" />
+	<meta property="og:description" content="Continuous elevators primarily differentiate themselves from centrifugal elevators in two ways. They have a unique bucket geometry and they operate a lower speeds using gravity to discharge the buckets." />
+	<meta property="og:url" content="https://tc.dev2.barn3s.com/2022/06/10/continuous-elevators/" />
 	<meta property="og:site_name" content="Thomas Conveyor &amp; Equipment" />
-	<meta property="article:published_time" content="2022-07-01T16:54:00+00:00" />
-	<meta property="article:modified_time" content="2023-10-31T17:02:47+00:00" />
+	<meta property="article:published_time" content="2022-06-10T16:58:46+00:00" />
+	<meta property="article:modified_time" content="2023-10-31T17:01:37+00:00" />
 	<meta property="og:image" content="https://tc.dev2.barn3s.com/wp-content/uploads/2023/06/default-gray.jpg" />
 	<meta property="og:image:width" content="400" />
 	<meta property="og:image:height" content="400" />
@@ -29,7 +29,7 @@
 	<meta name="twitter:card" content="summary_large_image" />
 	<meta name="twitter:label2" content="Est. reading time" />
 	<meta name="twitter:data2" content="2 minutes" />
-	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://tc.dev2.barn3s.com/2022/07/01/mill-duty-elevators/","url":"https://tc.dev2.barn3s.com/2022/07/01/mill-duty-elevators/","name":"Mill Duty Elevators - Thomas Conveyor &amp; Equipment","isPartOf":{"@id":"https://tc.dev2.barn3s.com/#website"},"primaryImageOfPage":{"@id":"https://tc.dev2.barn3s.com/2022/07/01/mill-duty-elevators/#primaryimage"},"image":{"@id":"https://tc.dev2.barn3s.com/2022/07/01/mill-duty-elevators/#primaryimage"},"thumbnailUrl":"https://tc.dev2.barn3s.com/wp-content/uploads/2023/06/default-gray.jpg","datePublished":"2022-07-01T16:54:00+00:00","dateModified":"2023-10-31T17:02:47+00:00","author":{"@id":"https://tc.dev2.barn3s.com/#/schema/person/c99bb6d69eb1bb179c1aa33481c757a4"},"breadcrumb":{"@id":"https://tc.dev2.barn3s.com/2022/07/01/mill-duty-elevators/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://tc.dev2.barn3s.com/2022/07/01/mill-duty-elevators/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https://tc.dev2.barn3s.com/2022/07/01/mill-duty-elevators/#primaryimage","url":"https://tc.dev2.barn3s.com/wp-content/uploads/2023/06/default-gray.jpg","contentUrl":"https://tc.dev2.barn3s.com/wp-content/uploads/2023/06/default-gray.jpg","width":400,"height":400},{"@type":"BreadcrumbList","@id":"https://tc.dev2.barn3s.com/2022/07/01/mill-duty-elevators/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://tc.dev2.barn3s.com/"},{"@type":"ListItem","position":2,"name":"Mill Duty Elevators"}]},{"@type":"WebSite","@id":"https://tc.dev2.barn3s.com/#website","url":"https://tc.dev2.barn3s.com/","name":"Thomas Conveyor &amp; Equipment","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://tc.dev2.barn3s.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"Person","@id":"https://tc.dev2.barn3s.com/#/schema/person/c99bb6d69eb1bb179c1aa33481c757a4","name":"josephwill","image":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://tc.dev2.barn3s.com/#/schema/person/image/","url":"https://secure.gravatar.com/avatar/b1de6b99c94b2cb638bee2f917237fdc?s=96&d=mm&r=g","contentUrl":"https://secure.gravatar.com/avatar/b1de6b99c94b2cb638bee2f917237fdc?s=96&d=mm&r=g","caption":"josephwill"},"url":"https://tc.dev2.barn3s.com/author/josephwill/"}]}</script>
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://tc.dev2.barn3s.com/2022/06/10/continuous-elevators/","url":"https://tc.dev2.barn3s.com/2022/06/10/continuous-elevators/","name":"Continuous Elevators - Thomas Conveyor &amp; Equipment","isPartOf":{"@id":"https://tc.dev2.barn3s.com/#website"},"primaryImageOfPage":{"@id":"https://tc.dev2.barn3s.com/2022/06/10/continuous-elevators/#primaryimage"},"image":{"@id":"https://tc.dev2.barn3s.com/2022/06/10/continuous-elevators/#primaryimage"},"thumbnailUrl":"https://tc.dev2.barn3s.com/wp-content/uploads/2023/06/default-gray.jpg","datePublished":"2022-06-10T16:58:46+00:00","dateModified":"2023-10-31T17:01:37+00:00","author":{"@id":"https://tc.dev2.barn3s.com/#/schema/person/c99bb6d69eb1bb179c1aa33481c757a4"},"breadcrumb":{"@id":"https://tc.dev2.barn3s.com/2022/06/10/continuous-elevators/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://tc.dev2.barn3s.com/2022/06/10/continuous-elevators/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https://tc.dev2.barn3s.com/2022/06/10/continuous-elevators/#primaryimage","url":"https://tc.dev2.barn3s.com/wp-content/uploads/2023/06/default-gray.jpg","contentUrl":"https://tc.dev2.barn3s.com/wp-content/uploads/2023/06/default-gray.jpg","width":400,"height":400},{"@type":"BreadcrumbList","@id":"https://tc.dev2.barn3s.com/2022/06/10/continuous-elevators/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://tc.dev2.barn3s.com/"},{"@type":"ListItem","position":2,"name":"Continuous Elevators"}]},{"@type":"WebSite","@id":"https://tc.dev2.barn3s.com/#website","url":"https://tc.dev2.barn3s.com/","name":"Thomas Conveyor &amp; Equipment","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://tc.dev2.barn3s.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"Person","@id":"https://tc.dev2.barn3s.com/#/schema/person/c99bb6d69eb1bb179c1aa33481c757a4","name":"josephwill","image":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://tc.dev2.barn3s.com/#/schema/person/image/","url":"https://secure.gravatar.com/avatar/b1de6b99c94b2cb638bee2f917237fdc?s=96&d=mm&r=g","contentUrl":"https://secure.gravatar.com/avatar/b1de6b99c94b2cb638bee2f917237fdc?s=96&d=mm&r=g","caption":"josephwill"},"url":"https://tc.dev2.barn3s.com/author/josephwill/"}]}</script>
 	<!-- / Yoast SEO plugin. -->
 
 
@@ -83,19 +83,14 @@ img.emoji {
 <link rel='stylesheet' id='cl_sitemap-css' href='../wp-content/themes/catchylabs-elementor-theme/assets/css/sitemap.css' type='text/css' media='' />
 <link rel='stylesheet' id='cl_styles-css' href='../wp-content/themes/catchylabs-elementor-theme/style.css' type='text/css' media='' />
 <link rel='stylesheet' id='cl_mobile-css' href='../wp-content/themes/catchylabs-elementor-theme/assets/css/mobile.css' type='text/css' media='all and (max-width: 1024px)' />
-<link rel='stylesheet' id='elementor-icons-css' href='../wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min%EF%B9%96ver=5.20.0.css' type='text/css' media='all' />
 <link rel='stylesheet' id='elementor-frontend-css' href='../wp-content/uploads/elementor/css/custom-frontend-lite.min%EF%B9%96ver=1698856260.css' type='text/css' media='all' />
-<link rel='stylesheet' id='swiper-css' href='../wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min%EF%B9%96ver=8.4.5.css' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-post-5-css' href='../wp-content/uploads/elementor/css/post-5%EF%B9%96ver=1698856260.css' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-global-css' href='../wp-content/uploads/elementor/css/global%EF%B9%96ver=1698856260.css' type='text/css' media='all' />
 <link rel='stylesheet' id='eael-general-css' href='../wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/css/view/general.min%EF%B9%96ver=5.8.13.css' type='text/css' media='all' />
-<link rel='stylesheet' id='google-fonts-1-css' href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;display=swap&amp;ver=6.3.2' type='text/css' media='all' />
-<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin><script type='text/javascript' src='https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js?ver=6.3.2' id='jquery-js'></script>
-<link rel="https://api.w.org/" href="../wp-json/index.json" /><link rel="alternate" type="application/json" href="../wp-json/wp/v2/posts/1269.json" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="../xmlrpc.php%EF%B9%96rsd.xml" />
+<script type='text/javascript' src='https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js?ver=6.3.2' id='jquery-js'></script>
+<link rel="https://api.w.org/" href="../wp-json/index.json" /><link rel="alternate" type="application/json" href="../wp-json/wp/v2/posts/1278.json" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="../xmlrpc.php%EF%B9%96rsd.xml" />
 <meta name="generator" content="WordPress 6.3.2" />
-<link rel='shortlink' href='/blog/mill-duty-elevators.php' />
-<link rel="alternate" type="application/json+oembed" href="../wp-json/oembed/1.0/embed%EF%B9%96url=https%EF%B9%95%EA%A4%B7%EA%A4%B7tc.dev2.barn3s.com%EA%A4%B72022%EA%A4%B707%EA%A4%B701%EA%A4%B7mill-duty-elevators%EA%A4%B7.json" />
-<link rel="alternate" type="text/xml+oembed" href="../wp-json/oembed/1.0/embed%EF%B9%96url=https%EF%B9%95%EA%A4%B7%EA%A4%B7tc.dev2.barn3s.com%EA%A4%B72022%EA%A4%B707%EA%A4%B701%EA%A4%B7mill-duty-elevators%EA%A4%B7&amp;format=xml.xml" />
+<link rel='shortlink' href='blogs/continuous-elevators' />
+<link rel="alternate" type="application/json+oembed" href="../wp-json/oembed/1.0/embed%EF%B9%96url=https%EF%B9%95%EA%A4%B7%EA%A4%B7tc.dev2.barn3s.com%EA%A4%B72022%EA%A4%B706%EA%A4%B710%EA%A4%B7continuous-elevators%EA%A4%B7.json" />
+<link rel="alternate" type="text/xml+oembed" href="../wp-json/oembed/1.0/embed%EF%B9%96url=https%EF%B9%95%EA%A4%B7%EA%A4%B7tc.dev2.barn3s.com%EA%A4%B72022%EA%A4%B706%EA%A4%B710%EA%A4%B7continuous-elevators%EA%A4%B7&amp;format=xml.xml" />
 <meta name="generator" content="Elementor 3.14.1; features: e_dom_optimization, e_optimized_assets_loading, e_optimized_css_loading, a11y_improvements, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-swap">
 <link rel="icon" href="../wp-content/uploads/2023/11/thomas_favicon.jpg" sizes="32x32" />
 <link rel="icon" href="../wp-content/uploads/2023/11/thomas_favicon.jpg" sizes="192x192" />
@@ -131,13 +126,13 @@ img.emoji {
 
 				}
 			</style></head>
-<body class="post-template-default single single-post postid-1269 single-format-standard elementor-default elementor-kit-5 elementor-page elementor-page-1269">
+<body class="post-template-default single single-post postid-1278 single-format-standard elementor-default elementor-kit-5">
 	
 	<a class="screen-reader-text" href="#main">Skip to content</a>
 
 	<?php include '../header.php';?>
 
-<main class="site-main post-1269 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized" role="main" id="main">
+<main class="site-main post-1278 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized" role="main" id="main">
 	<div class="post-banner">
 		<div class="blog-title">
 			Blog
@@ -148,7 +143,7 @@ img.emoji {
 			<h1>
 				Blog
 			</h1>
-			<p class="breadcrumbs"><a href="../index.php">Home</a> » <a href="../blog.php">Blog</a> » <a href="#" title="Mill Duty Elevators">Mill Duty Elevators</a>
+			<p class="breadcrumbs"><a href="../index">Home</a> » <a href="../blog">Blog</a> » <a href="#" title="Continuous Elevators">Continuous Elevators</a>
 			</p>
 		</div>
 		<div class="post-wrapper">
@@ -158,26 +153,25 @@ img.emoji {
 					<img src="../wp-content/uploads/2023/06/default-gray.jpg" >
 				</div>
 				<div style="flex: 1;">
-					<a href="../blog.php"><img style="width:200px;" src="../wp-content/uploads/2023/10/Return-to-the-Blog.jpg" ></a>
+					<a href="../blog"><img style="width:200px;" src="../wp-content/uploads/2023/10/Return-to-the-Blog.jpg" ></a>
 				</div>
 			</div>
 			<div class="page-content" style="flex: 2; padding: 75px 0px 0px 50px;">
 				<h3 style="color: #333333; padding-bottom: 30px;">
-					Mill Duty Elevators				</h3>
-				<p>Our mill duty product line is based on a centrifugal style design. Due to the rough industrial environments that these elevators are used in our design offers heavy duty construction including buckets, belt, chain, bearings, &amp; casing.</p>
-<p>We provide AC style buckets for increased carrying capacities. AC style buckets use thicker walls &amp; a reinforced lip to handle heavier &amp; more abrasive products. These can be ductile iron or fabricated out of abrasion resistant plate.</p>
-<p>Mill duty elevators can be provided with either belt or chain. For belting we use a multi-ply polyester carcass belt with a heavy-duty rubber covering. For the chain option we provide a hardened steel bushed chain that provides increased wear resistance along with higher load capacities compared to standard elevator roller chains.</p>
-<p>This product line will use minimum ¼” thick plate for the head &amp; boot sections &amp; 3/16” thk intermediate sections. Along with the heavier casing we provide abrasion resistant liners in all areas of the housing that will see product contact.</p>
-<p>Although not limited to the cement industry, mill duty elevators were designed to meet the requirements of cement industry. One large area of concern with cement is dust &amp; leakage. To minimize escaping dust this elevator is provided with an internal gravity take up. This style take up is self-adjusting &amp; uses a boot shaft that is fully enclosed within the boot housing. Eliminating the need for a shaft seal.</p>
+					Continuous Elevators				</h3>
+				<p>These elevators primarily differentiate themselves from centrifugal elevators in two ways. They have a unique bucket geometry and they operate a lower speeds using gravity to discharge the buckets.</p>
+<p>The lower speeds allow for ideal handling of heavy abrasive materials by having a gentler feed &amp; discharge rate, reducing wear on both the buckets &amp; discharge areas of the elevator. The low speed also provides the benefit of allowing sluggish materials more time to discharge.</p>
+<p>Continuous elevators use an MF (medium front) style bucket &amp; a tight bucket spacing that allow the discharging bucket to utilize the back side of the preceding bucket as a ramp to guide the material into the discharge.</p>
+<p>The inlet is mounted higher on the housing compared to a centrifugal elevator. This combined with the lower speeds allow for the buckets to be directly fed with minimal spillage. Decreased spillage provides the advantage of longer bucket life by eliminating the need for the buckets to dig spilled product out of the boot housing.</p>
 <p><strong>Key Features:</strong></p>
 <ul>
-<li>Belt or chain operation</li>
-<li>Capacities up to 12,000 CFH</li>
-<li>Heavy construction for abrasive applications</li>
-<li>Commonly used in the following industries: Cement, gypsum, fertilizer, sand</li>
+<li>Belt or Chain operation</li>
+<li>Low speed</li>
+<li>Capacities up to 5,900 CFH</li>
+<li>Less Impact/abrasion</li>
+<li>Commonly used in the following industries: mining, aggregate, waste water, food, chemical</li>
 </ul>
-<p><img decoding="async" class="alignnone size-medium wp-image-1270" src="../wp-content/uploads/2023/10/MillDutyIso-3-blog5-81x300.png" alt="" width="81" height="300" srcset="../wp-content/uploads/2023/10/MillDutyIso-3-blog5-81x300.png 81w, ../wp-content/uploads/2023/10/MillDutyIso-3-blog5-276x1024.png 276w, ../wp-content/uploads/2023/10/MillDutyIso-3-blog5.png 394w" sizes="(max-width: 81px) 100vw, 81px" /></p>
-<p>&nbsp;</p>
+<p><img decoding="async" class="alignnone size-medium wp-image-1279" src="../wp-content/uploads/2023/10/Blog2Pic-72x300.png" alt="" width="72" height="300" /></p>
 			</div>
 		</div>
 	</div>
@@ -197,6 +191,11 @@ img.emoji {
 </div><div>
 	<link rel='stylesheet' id='elementor-post-42-css' href='../wp-content/uploads/elementor/css/post-42%EF%B9%96ver=1698954179.css' type='text/css' media='all' />
 <link rel='stylesheet' id='elementor-post-165-css' href='../wp-content/uploads/elementor/css/post-165%EF%B9%96ver=1698862626.css' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-css' href='../wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min%EF%B9%96ver=5.20.0.css' type='text/css' media='all' />
+<link rel='stylesheet' id='swiper-css' href='../wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min%EF%B9%96ver=8.4.5.css' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-5-css' href='../wp-content/uploads/elementor/css/post-5%EF%B9%96ver=1698856260.css' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-global-css' href='../wp-content/uploads/elementor/css/global%EF%B9%96ver=1698856260.css' type='text/css' media='all' />
+<link rel='stylesheet' id='google-fonts-1-css' href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;display=swap&amp;ver=6.3.2' type='text/css' media='all' />
 <link rel='stylesheet' id='elementor-icons-shared-0-css' href='../wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min%EF%B9%96ver=5.15.3.css' type='text/css' media='all' />
 <link rel='stylesheet' id='elementor-icons-fa-solid-css' href='../wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min%EF%B9%96ver=5.15.3.css' type='text/css' media='all' />
 <link rel='stylesheet' id='elementor-icons-fa-brands-css' href='../wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min%EF%B9%96ver=5.15.3.css' type='text/css' media='all' />
@@ -213,7 +212,7 @@ img.emoji {
 <script type='text/javascript' src='../wp-content/themes/catchylabs-elementor-theme/assets/js/theme.js' id='cl_theme-js'></script>
 <script type='text/javascript' id='eael-general-js-extra'>
 /* <![CDATA[ */
-var localize = {"ajaxurl":"https:\/\/tc.dev2.barn3s.com\/wp-admin\/admin-ajax.php","nonce":"cccd051de6","i18n":{"added":"Added ","compare":"Compare","loading":"Loading..."},"eael_translate_text":{"required_text":"is a required field","invalid_text":"Invalid","billing_text":"Billing","shipping_text":"Shipping","fg_mfp_counter_text":"of"},"page_permalink":"https:\/\/tc.dev2.barn3s.com\/2022\/07\/01\/mill-duty-elevators\/","cart_redirectition":"","cart_page_url":"","el_breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":true},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}};
+var localize = {"ajaxurl":"https:\/\/tc.dev2.barn3s.com\/wp-admin\/admin-ajax.php","nonce":"cccd051de6","i18n":{"added":"Added ","compare":"Compare","loading":"Loading..."},"eael_translate_text":{"required_text":"is a required field","invalid_text":"Invalid","billing_text":"Billing","shipping_text":"Shipping","fg_mfp_counter_text":"of"},"page_permalink":"https:\/\/tc.dev2.barn3s.com\/2022\/06\/10\/continuous-elevators\/","cart_redirectition":"","cart_page_url":"","el_breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":true},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}};
 /* ]]> */
 </script>
 <script type='text/javascript' src='../wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/js/view/general.min%EF%B9%96ver=5.8.13.js' id='eael-general-js'></script>
@@ -222,7 +221,7 @@ var localize = {"ajaxurl":"https:\/\/tc.dev2.barn3s.com\/wp-admin\/admin-ajax.ph
 <script type='text/javascript' src='../wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min%EF%B9%96ver=4.0.2.js' id='elementor-waypoints-js'></script>
 <script type='text/javascript' src='../wp-includes/js/jquery/ui/core.min%EF%B9%96ver=1.13.2.js' id='jquery-ui-core-js'></script>
 <script id="elementor-frontend-js-before" type="text/javascript">
-var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close","a11yCarouselWrapperAriaLabel":"Carousel | Horizontal scrolling: Arrow Left & Right","a11yCarouselPrevSlideMessage":"Previous slide","a11yCarouselNextSlideMessage":"Next slide","a11yCarouselFirstSlideMessage":"This is the first slide","a11yCarouselLastSlideMessage":"This is the last slide","a11yCarouselPaginationBulletMessage":"Go to slide"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":true},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.14.1","is_static":false,"experimentalFeatures":{"e_dom_optimization":true,"e_optimized_assets_loading":true,"e_optimized_css_loading":true,"a11y_improvements":true,"additional_custom_breakpoints":true,"e_swiper_latest":true,"landing-pages":true},"urls":{"assets":"https:\/\/tc.dev2.barn3s.com\/wp-content\/plugins\/elementor\/assets\/"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet","viewport_laptop"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":1269,"title":"Mill%20Duty%20Elevators%20-%20Thomas%20Conveyor%20%26%20Equipment","excerpt":"Our mill duty product line is based on a centrifugal style design. Due to the rough industrial environments that these elevators are used in our design offers heavy duty construction including buckets, belt, chain, bearings, & casing.","featuredImage":"https:\/\/tc.dev2.barn3s.com\/wp-content\/uploads\/2023\/06\/default-gray.jpg"}};
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close","a11yCarouselWrapperAriaLabel":"Carousel | Horizontal scrolling: Arrow Left & Right","a11yCarouselPrevSlideMessage":"Previous slide","a11yCarouselNextSlideMessage":"Next slide","a11yCarouselFirstSlideMessage":"This is the first slide","a11yCarouselLastSlideMessage":"This is the last slide","a11yCarouselPaginationBulletMessage":"Go to slide"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":true},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.14.1","is_static":false,"experimentalFeatures":{"e_dom_optimization":true,"e_optimized_assets_loading":true,"e_optimized_css_loading":true,"a11y_improvements":true,"additional_custom_breakpoints":true,"e_swiper_latest":true,"landing-pages":true},"urls":{"assets":"https:\/\/tc.dev2.barn3s.com\/wp-content\/plugins\/elementor\/assets\/"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet","viewport_laptop"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":1278,"title":"Continuous%20Elevators%20-%20Thomas%20Conveyor%20%26%20Equipment","excerpt":"Continuous elevators primarily differentiate themselves from centrifugal elevators in two ways. They have a unique bucket geometry and they operate a lower speeds using gravity to discharge the buckets.","featuredImage":"https:\/\/tc.dev2.barn3s.com\/wp-content\/uploads\/2023\/06\/default-gray.jpg"}};
 </script>
 <script type='text/javascript' src='../wp-content/plugins/elementor/assets/js/frontend.min%EF%B9%96ver=3.14.1.js' id='elementor-frontend-js'></script>
 <script type='text/javascript' src='../wp-includes/js/underscore.min%EF%B9%96ver=1.13.4.js' id='underscore-js'></script>

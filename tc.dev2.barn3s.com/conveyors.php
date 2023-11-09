@@ -13,7 +13,7 @@
     <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
 
 	<!-- This site is optimized with the Yoast SEO plugin v20.11 - https://yoast.com/wordpress/plugins/seo/ -->
-	<link rel="canonical" href="/conveyors.php" />
+	<link rel="canonical" href="/conveyors" />
 	<meta property="og:locale" content="en_US" />
 	<meta property="og:type" content="article" />
 	<meta property="og:title" content="Conveyors - Thomas Conveyor &amp; Equipment" />
@@ -165,7 +165,7 @@ img.emoji {
 								<div class="elementor-widget-container">
 									<style>/*! elementor - v3.14.0 - 26-06-2023 */
 										.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#69727d;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#69727d;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>
-										<p class="breadcrumbs"><a href="./index.php">Home</a> » <a href="#">Conveyors</a></p>						
+										<p class="breadcrumbs"><a href="./index">Home</a> » <a href="#">Conveyors</a></p>						
 								</div>
 							</div>
 						</div>
@@ -185,10 +185,10 @@ img.emoji {
 													<style>.elementor-widget-image-box .elementor-image-box-content{width:100%}@media (min-width:768px){.elementor-widget-image-box.elementor-position-left .elementor-image-box-wrapper,.elementor-widget-image-box.elementor-position-right .elementor-image-box-wrapper{display:flex}.elementor-widget-image-box.elementor-position-right .elementor-image-box-wrapper{text-align:right;flex-direction:row-reverse}.elementor-widget-image-box.elementor-position-left .elementor-image-box-wrapper{text-align:left;flex-direction:row}.elementor-widget-image-box.elementor-position-top .elementor-image-box-img{margin:auto}.elementor-widget-image-box.elementor-vertical-align-top .elementor-image-box-wrapper{align-items:flex-start}.elementor-widget-image-box.elementor-vertical-align-middle .elementor-image-box-wrapper{align-items:center}.elementor-widget-image-box.elementor-vertical-align-bottom .elementor-image-box-wrapper{align-items:flex-end}}@media (max-width:767px){.elementor-widget-image-box .elementor-image-box-img{margin-left:auto!important;margin-right:auto!important;margin-bottom:15px}}.elementor-widget-image-box .elementor-image-box-img{display:inline-block}.elementor-widget-image-box .elementor-image-box-title a{color:inherit}.elementor-widget-image-box .elementor-image-box-wrapper{text-align:center}.elementor-widget-image-box .elementor-image-box-description{margin:0}</style>
 													<div class="elementor-image-box-wrapper">
 														<figure class="elementor-image-box-img">
-															<a href="conveyors/screw-conveyor-systems.php"><img decoding="async" width="195" height="195" src="./wp-content/uploads/2023/09/Screw-Conveyor-Systems.png" class="attachment-full size-full wp-image-190" alt="" srcset="./wp-content/uploads/2023/09/Screw-Conveyor-Systems.png 195w, ./wp-content/uploads/2023/09/Screw-Conveyor-Systems-150x150.png 150w" sizes="(max-width: 195px) 100vw, 195px" /></a>
+															<a href="conveyor/screw-conveyor-systems"><img decoding="async" width="195" height="195" src="./wp-content/uploads/2023/09/Screw-Conveyor-Systems.png" class="attachment-full size-full wp-image-190" alt="" srcset="./wp-content/uploads/2023/09/Screw-Conveyor-Systems.png 195w, ./wp-content/uploads/2023/09/Screw-Conveyor-Systems-150x150.png 150w" sizes="(max-width: 195px) 100vw, 195px" /></a>
 														</figure>
 														<div class="elementor-image-box-content">
-															<h3 class="elementor-image-box-title"><a href="conveyors/screw-conveyor-systems.php">Screw Conveyor <br>Systems </a></h3>
+															<h3 class="elementor-image-box-title"><a href="conveyor/screw-conveyor-systems">Screw Conveyor <br>Systems </a></h3>
 														</div>
 													</div>
 												</div>
@@ -201,10 +201,10 @@ img.emoji {
 												<div class="elementor-widget-container">
 													<div class="elementor-image-box-wrapper">
 														<figure class="elementor-image-box-img">
-															<a href="conveyors/drag-conveyor-systems.php"><img decoding="async" width="195" height="195" src="./wp-content/uploads/2023/09/Drag-Conveyor-Systems.png" class="attachment-full size-full wp-image-191" alt="" srcset="./wp-content/uploads/2023/09/Drag-Conveyor-Systems.png 195w, ./wp-content/uploads/2023/09/Drag-Conveyor-Systems-150x150.png 150w" sizes="(max-width: 195px) 100vw, 195px" /></a>
+															<a href="conveyor/drag-conveyor-systems"><img decoding="async" width="195" height="195" src="./wp-content/uploads/2023/09/Drag-Conveyor-Systems.png" class="attachment-full size-full wp-image-191" alt="" srcset="./wp-content/uploads/2023/09/Drag-Conveyor-Systems.png 195w, ./wp-content/uploads/2023/09/Drag-Conveyor-Systems-150x150.png 150w" sizes="(max-width: 195px) 100vw, 195px" /></a>
 														</figure>
 														<div class="elementor-image-box-content">
-															<h3 class="elementor-image-box-title"><a href="conveyors/drag-conveyor-systems.php">Drag Conveyor<br> Systems </a></h3>
+															<h3 class="elementor-image-box-title"><a href="conveyor/drag-conveyor-systems">Drag Conveyor<br> Systems </a></h3>
 														</div>
 													</div>
 												</div>
@@ -217,10 +217,10 @@ img.emoji {
 												<div class="elementor-widget-container">
 													<div class="elementor-image-box-wrapper">
 														<figure class="elementor-image-box-img">
-															<a href="conveyors/bucket-elevator-systems.php"><img decoding="async" width="196" height="195" src="./wp-content/uploads/2023/09/Bucket-Elevator-Systems.png" class="attachment-full size-full wp-image-192" alt="" srcset="./wp-content/uploads/2023/09/Bucket-Elevator-Systems.png 196w, ./wp-content/uploads/2023/09/Bucket-Elevator-Systems-150x150.png 150w" sizes="(max-width: 196px) 100vw, 196px" /></a>
+															<a href="conveyor/bucket-elevator-systems"><img decoding="async" width="196" height="195" src="./wp-content/uploads/2023/09/Bucket-Elevator-Systems.png" class="attachment-full size-full wp-image-192" alt="" srcset="./wp-content/uploads/2023/09/Bucket-Elevator-Systems.png 196w, ./wp-content/uploads/2023/09/Bucket-Elevator-Systems-150x150.png 150w" sizes="(max-width: 196px) 100vw, 196px" /></a>
 														</figure>
 														<div class="elementor-image-box-content">
-															<h3 class="elementor-image-box-title"><a href="conveyors/bucket-elevator-systems.php">Bucket Elevator <br>Systems </a></h3>
+															<h3 class="elementor-image-box-title"><a href="conveyor/bucket-elevator-systems">Bucket Elevator <br>Systems </a></h3>
 														</div>
 													</div>
 												</div>
@@ -233,10 +233,10 @@ img.emoji {
 												<div class="elementor-widget-container">
 													<div class="elementor-image-box-wrapper">
 														<figure class="elementor-image-box-img">
-															<a href="conveyors/belt-conveyor-systems.php"><img decoding="async" loading="lazy" width="195" height="195" src="./wp-content/uploads/2023/09/Belt-Conveyor-Systems.png" class="attachment-full size-full wp-image-193" alt="" srcset="./wp-content/uploads/2023/09/Belt-Conveyor-Systems.png 195w, ./wp-content/uploads/2023/09/Belt-Conveyor-Systems-150x150.png 150w" sizes="(max-width: 195px) 100vw, 195px" /></a>
+															<a href="conveyor/belt-conveyor-systems"><img decoding="async" loading="lazy" width="195" height="195" src="./wp-content/uploads/2023/09/Belt-Conveyor-Systems.png" class="attachment-full size-full wp-image-193" alt="" srcset="./wp-content/uploads/2023/09/Belt-Conveyor-Systems.png 195w, ./wp-content/uploads/2023/09/Belt-Conveyor-Systems-150x150.png 150w" sizes="(max-width: 195px) 100vw, 195px" /></a>
 														</figure>
 														<div class="elementor-image-box-content">
-															<h3 class="elementor-image-box-title"><a href="conveyors/belt-conveyor-systems.php">Belt Conveyor<br> Systems </a></h3>
+															<h3 class="elementor-image-box-title"><a href="conveyor/belt-conveyor-systems">Belt Conveyor<br> Systems </a></h3>
 														</div>
 													</div>
 												</div>
@@ -249,10 +249,10 @@ img.emoji {
 												<div class="elementor-widget-container">
 													<div class="elementor-image-box-wrapper">
 														<figure class="elementor-image-box-img">
-															<a href="conveyors/conveyor-components.php"><img decoding="async" loading="lazy" width="195" height="195" src="./wp-content/uploads/2023/09/Screw-Conveyor-Components.png" class="attachment-full size-full wp-image-194" alt="" srcset="./wp-content/uploads/2023/09/Screw-Conveyor-Components.png 195w, ./wp-content/uploads/2023/09/Screw-Conveyor-Components-150x150.png 150w" sizes="(max-width: 195px) 100vw, 195px" /></a>
+															<a href="conveyor/conveyor-components"><img decoding="async" loading="lazy" width="195" height="195" src="./wp-content/uploads/2023/09/Screw-Conveyor-Components.png" class="attachment-full size-full wp-image-194" alt="" srcset="./wp-content/uploads/2023/09/Screw-Conveyor-Components.png 195w, ./wp-content/uploads/2023/09/Screw-Conveyor-Components-150x150.png 150w" sizes="(max-width: 195px) 100vw, 195px" /></a>
 														</figure>
 														<div class="elementor-image-box-content">
-															<h3 class="elementor-image-box-title"><a href="conveyors/conveyor-components.php">Conveyor <br>Components </a></h3>
+															<h3 class="elementor-image-box-title"><a href="conveyor/conveyor-components">Conveyor <br>Components </a></h3>
 														</div>
 													</div>
 												</div>
@@ -393,7 +393,7 @@ img.emoji {
 <div id="search-form-overlay" class="search-overlay hidden">
     <i class="fa-solid fa-circle-xmark icon-cancel" title="Close search bar"></i>
     <div class="search-overlay-content">
-        <form action="./index.php" role="search" method="get">
+        <form action="./index" role="search" method="get">
             <input type="text" placeholder="" name="s">
             <button type="submit">Search</button>
         </form>

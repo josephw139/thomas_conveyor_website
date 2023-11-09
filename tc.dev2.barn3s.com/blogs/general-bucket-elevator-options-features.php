@@ -13,12 +13,12 @@
     <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
 
 	<!-- This site is optimized with the Yoast SEO plugin v20.11 - https://yoast.com/wordpress/plugins/seo/ -->
-	<link rel="canonical" href="/blog/bucket-elevator-product-line-series.php" />
+	<link rel="canonical" href="/blogs/bucket-elevator-product-line-series" />
 	<meta property="og:locale" content="en_US" />
 	<meta property="og:type" content="article" />
 	<meta property="og:title" content="General Bucket Elevator Options &amp; Features - Thomas Conveyor &amp; Equipment" />
 	<meta property="og:description" content="Learn more about general bucket elevator options and features including platforms, split sprockets, take-ups, belt splicing kits and more." />
-	<meta property="og:url" content="https://tc.dev2.barn3s.com/blog/general-bucket-elevator-options-features.php/" />
+	<meta property="og:url" content="https://tc.dev2.barn3s.com/blogs/general-bucket-elevator-options-features/" />
 	<meta property="og:site_name" content="Thomas Conveyor &amp; Equipment" />
 	<meta property="article:published_time" content="2022-06-03T17:53:00+00:00" />
 	<meta property="article:modified_time" content="2023-10-31T18:01:35+00:00" />
@@ -88,7 +88,7 @@ img.emoji {
 <script type='text/javascript' src='https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js?ver=6.3.2' id='jquery-js'></script>
 <link rel="https://api.w.org/" href="../wp-json/index.json" /><link rel="alternate" type="application/json" href="../wp-json/wp/v2/posts/1031.json" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="../xmlrpc.php%EF%B9%96rsd.xml" />
 <meta name="generator" content="WordPress 6.3.2" />
-<link rel='shortlink' href='/blog/bucket-elevator-product-line-series.php' />
+<link rel='shortlink' href='/blogs/bucket-elevator-product-line-series' />
 <link rel="alternate" type="application/json+oembed" href="../wp-json/oembed/1.0/embed%EF%B9%96url=https%EF%B9%95%EA%A4%B7%EA%A4%B7tc.dev2.barn3s.com%EA%A4%B72022%EA%A4%B706%EA%A4%B703%EA%A4%B7general-bucket-elevator-options-features%EA%A4%B7.json" />
 <link rel="alternate" type="text/xml+oembed" href="../wp-json/oembed/1.0/embed%EF%B9%96url=https%EF%B9%95%EA%A4%B7%EA%A4%B7tc.dev2.barn3s.com%EA%A4%B72022%EA%A4%B706%EA%A4%B703%EA%A4%B7general-bucket-elevator-options-features%EA%A4%B7&amp;format=xml.xml" />
 <meta name="generator" content="Elementor 3.14.1; features: e_dom_optimization, e_optimized_assets_loading, e_optimized_css_loading, a11y_improvements, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-swap">
@@ -143,7 +143,7 @@ img.emoji {
 			<h1>
 				Blog
 			</h1>
-			<p class="breadcrumbs"><a href="../index.php">Home</a> » <a href="../blog.php">Blog</a> » <a href="#" title="General Bucket Elevator Options &#038; Features">General Bucket Elevator Options &#038; Features</a>
+			<p class="breadcrumbs"><a href="../index">Home</a> » <a href="../blog">Blog</a> » <a href="#" title="General Bucket Elevator Options &#038; Features">General Bucket Elevator Options &#038; Features</a>
 			</p>
 		</div>
 		<div class="post-wrapper">
@@ -153,7 +153,7 @@ img.emoji {
 					<img src="../wp-content/uploads/2023/06/default-gray.jpg" >
 				</div>
 				<div style="flex: 1;">
-					<a href="../blog.php"><img style="width:200px;" src="../wp-content/uploads/2023/10/Return-to-the-Blog.jpg" ></a>
+					<a href="../blog"><img style="width:200px;" src="../wp-content/uploads/2023/10/Return-to-the-Blog.jpg" ></a>
 				</div>
 			</div>
 			<div class="page-content" style="flex: 2; padding: 75px 0px 0px 50px;">

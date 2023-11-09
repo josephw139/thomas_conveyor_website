@@ -13,7 +13,7 @@
     <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
 
 	<!-- This site is optimized with the Yoast SEO plugin v20.11 - https://yoast.com/wordpress/plugins/seo/ -->
-	<link rel="canonical" href="/services.php" />
+	<link rel="canonical" href="/services" />
 	<meta property="og:locale" content="en_US" />
 	<meta property="og:type" content="article" />
 	<meta property="og:title" content="Services - Thomas Conveyor &amp; Equipment" />
@@ -90,7 +90,7 @@ img.emoji {
 <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin><script type='text/javascript' src='https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js?ver=6.3.2' id='jquery-js'></script>
 <link rel="https://api.w.org/" href="./wp-json/index.json" /><link rel="alternate" type="application/json" href="./wp-json/wp/v2/pages/199.json" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="./xmlrpc.php%EF%B9%96rsd.xml" />
 <meta name="generator" content="WordPress 6.3.2" />
-<link rel='shortlink' href='/services.php' />
+<link rel='shortlink' href='/services' />
 <link rel="alternate" type="application/json+oembed" href="./wp-json/oembed/1.0/embed%EF%B9%96url=https%EF%B9%95%EA%A4%B7%EA%A4%B7tc.dev2.barn3s.com%EA%A4%B7services%EA%A4%B7.json" />
 <link rel="alternate" type="text/xml+oembed" href="./wp-json/oembed/1.0/embed%EF%B9%96url=https%EF%B9%95%EA%A4%B7%EA%A4%B7tc.dev2.barn3s.com%EA%A4%B7services%EA%A4%B7&amp;format=xml.xml" />
 <meta name="generator" content="Elementor 3.14.1; features: e_dom_optimization, e_optimized_assets_loading, e_optimized_css_loading, a11y_improvements, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-swap">
@@ -165,7 +165,7 @@ img.emoji {
 								<div class="elementor-widget-container">
 									<style>/*! elementor - v3.14.0 - 26-06-2023 */
 									.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#69727d;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#69727d;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>
-									<p class="breadcrumbs"><a href="./index.php">Home</a> » <a href="#">Services</a></p>
+									<p class="breadcrumbs"><a href="./index">Home</a> » <a href="#">Services</a></p>
 								</div>
 							</div>
 						</div>

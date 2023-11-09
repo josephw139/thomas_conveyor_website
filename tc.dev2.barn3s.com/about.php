@@ -12,7 +12,7 @@
     </title>
     <meta content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" name="robots">
     <!-- This site is optimized with the Yoast SEO plugin v20.11 - https://yoast.com/wordpress/plugins/seo/ -->
-    <link href="/about.php" rel="canonical">
+    <link href="/about" rel="canonical">
         <meta content="en_US" property="og:locale">
         <meta content="article" property="og:type"/>
         <meta content="About - Thomas Conveyor &amp; Equipment" property="og:title"/>
@@ -95,7 +95,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
                 <link href="./wp-json/wp/v2/pages/157.json" rel="alternate" type="application/json"/>
                 <link href="./xmlrpc.php%EF%B9%96rsd.xml" rel="EditURI" title="RSD" type="application/rsd+xml"/>
                 <meta content="WordPress 6.3.2" name="generator"/>
-                <link href="about.php" rel="shortlink"/>
+                <link href="about" rel="shortlink"/>
                 <link href="./wp-json/oembed/1.0/embed%EF%B9%96url=https%EF%B9%95%EA%A4%B7%EA%A4%B7tc.dev2.barn3s.com%EA%A4%B7about%EA%A4%B7.json" rel="alternate" type="application/json+oembed"/>
                 <link href="./wp-json/oembed/1.0/embed%EF%B9%96url=https%EF%B9%95%EA%A4%B7%EA%A4%B7tc.dev2.barn3s.com%EA%A4%B7about%EA%A4%B7&amp;format=xml.xml" rel="alternate" type="text/xml+oembed"/>
                 <meta content="Elementor 3.14.1; features: e_dom_optimization, e_optimized_assets_loading, e_optimized_css_loading, a11y_improvements, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-swap" name="generator"/>
@@ -187,7 +187,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
                             .elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#69727d;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#69727d;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}
                         </style>
                         <p class="breadcrumbs">
-                            <a href="./index.php">
+                            <a href="./index">
                                 Home
                             </a>
                                 »

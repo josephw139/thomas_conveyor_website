@@ -9,27 +9,27 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,300;1,300&amp;family=Roboto:ital,wght@0,300;0,500;1,300;1,500&amp;display=swap" rel="stylesheet">
 
-	<title>Highspeed Grain Elevators - Thomas Conveyor &amp; Equipment</title>
+	<title>Bucket Elevator Product Line Series - Thomas Conveyor &amp; Equipment</title>
     <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
 
 	<!-- This site is optimized with the Yoast SEO plugin v20.11 - https://yoast.com/wordpress/plugins/seo/ -->
-	<link rel="canonical" href="/blog/highspeed-grain-elevators.php" />
+	<link rel="canonical" href="/blogs/bucket-elevator-product-line-series" />
 	<meta property="og:locale" content="en_US" />
 	<meta property="og:type" content="article" />
-	<meta property="og:title" content="Highspeed Grain Elevators - Thomas Conveyor &amp; Equipment" />
-	<meta property="og:description" content="Highspeed grain elevators are a type of centrifugal elevator. This model operates at even higher speeds than the standard centrifugal line." />
-	<meta property="og:url" content="https://tc.dev2.barn3s.com/2022/06/24/highspeed-grain-elevators/" />
+	<meta property="og:title" content="Bucket Elevator Product Line Series - Thomas Conveyor &amp; Equipment" />
+	<meta property="og:description" content="In this Bucket Elevator Product Line series we will take an in-depth look at all of our standard models as well as the various options we can incorporate into our elevator product line." />
+	<meta property="og:url" content="https://tc.dev2.barn3s.com/2022/06/03/bucket-elevator-product-line-series/" />
 	<meta property="og:site_name" content="Thomas Conveyor &amp; Equipment" />
-	<meta property="article:published_time" content="2022-06-24T16:55:23+00:00" />
-	<meta property="article:modified_time" content="2023-10-31T16:55:47+00:00" />
-	<meta property="og:image" content="https://tc.dev2.barn3s.com/wp-content/uploads/2023/06/default-gray.jpg" />
+	<meta property="article:published_time" content="2022-06-03T17:00:30+00:00" />
+	<meta property="article:modified_time" content="2023-10-31T17:00:45+00:00" />
+	<meta property="og:image" content="https://tc.dev2.barn3s.com/wp-content/uploads/2023/10/Bucket-Elevator-Product-Line-Series.png" />
 	<meta property="og:image:width" content="400" />
 	<meta property="og:image:height" content="400" />
-	<meta property="og:image:type" content="image/jpeg" />
+	<meta property="og:image:type" content="image/png" />
 	<meta name="twitter:card" content="summary_large_image" />
 	<meta name="twitter:label2" content="Est. reading time" />
 	<meta name="twitter:data2" content="1 minute" />
-	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://tc.dev2.barn3s.com/2022/06/24/highspeed-grain-elevators/","url":"https://tc.dev2.barn3s.com/2022/06/24/highspeed-grain-elevators/","name":"Highspeed Grain Elevators - Thomas Conveyor &amp; Equipment","isPartOf":{"@id":"https://tc.dev2.barn3s.com/#website"},"primaryImageOfPage":{"@id":"https://tc.dev2.barn3s.com/2022/06/24/highspeed-grain-elevators/#primaryimage"},"image":{"@id":"https://tc.dev2.barn3s.com/2022/06/24/highspeed-grain-elevators/#primaryimage"},"thumbnailUrl":"https://tc.dev2.barn3s.com/wp-content/uploads/2023/06/default-gray.jpg","datePublished":"2022-06-24T16:55:23+00:00","dateModified":"2023-10-31T16:55:47+00:00","author":{"@id":"https://tc.dev2.barn3s.com/#/schema/person/c99bb6d69eb1bb179c1aa33481c757a4"},"breadcrumb":{"@id":"https://tc.dev2.barn3s.com/2022/06/24/highspeed-grain-elevators/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://tc.dev2.barn3s.com/2022/06/24/highspeed-grain-elevators/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https://tc.dev2.barn3s.com/2022/06/24/highspeed-grain-elevators/#primaryimage","url":"https://tc.dev2.barn3s.com/wp-content/uploads/2023/06/default-gray.jpg","contentUrl":"https://tc.dev2.barn3s.com/wp-content/uploads/2023/06/default-gray.jpg","width":400,"height":400},{"@type":"BreadcrumbList","@id":"https://tc.dev2.barn3s.com/2022/06/24/highspeed-grain-elevators/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://tc.dev2.barn3s.com/"},{"@type":"ListItem","position":2,"name":"Highspeed Grain Elevators"}]},{"@type":"WebSite","@id":"https://tc.dev2.barn3s.com/#website","url":"https://tc.dev2.barn3s.com/","name":"Thomas Conveyor &amp; Equipment","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://tc.dev2.barn3s.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"Person","@id":"https://tc.dev2.barn3s.com/#/schema/person/c99bb6d69eb1bb179c1aa33481c757a4","name":"josephwill","image":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://tc.dev2.barn3s.com/#/schema/person/image/","url":"https://secure.gravatar.com/avatar/b1de6b99c94b2cb638bee2f917237fdc?s=96&d=mm&r=g","contentUrl":"https://secure.gravatar.com/avatar/b1de6b99c94b2cb638bee2f917237fdc?s=96&d=mm&r=g","caption":"josephwill"},"url":"https://tc.dev2.barn3s.com/author/josephwill/"}]}</script>
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://tc.dev2.barn3s.com/2022/06/03/bucket-elevator-product-line-series/","url":"https://tc.dev2.barn3s.com/2022/06/03/bucket-elevator-product-line-series/","name":"Bucket Elevator Product Line Series - Thomas Conveyor &amp; Equipment","isPartOf":{"@id":"https://tc.dev2.barn3s.com/#website"},"primaryImageOfPage":{"@id":"https://tc.dev2.barn3s.com/2022/06/03/bucket-elevator-product-line-series/#primaryimage"},"image":{"@id":"https://tc.dev2.barn3s.com/2022/06/03/bucket-elevator-product-line-series/#primaryimage"},"thumbnailUrl":"https://tc.dev2.barn3s.com/wp-content/uploads/2023/10/Bucket-Elevator-Product-Line-Series.png","datePublished":"2022-06-03T17:00:30+00:00","dateModified":"2023-10-31T17:00:45+00:00","author":{"@id":"https://tc.dev2.barn3s.com/#/schema/person/c99bb6d69eb1bb179c1aa33481c757a4"},"breadcrumb":{"@id":"https://tc.dev2.barn3s.com/2022/06/03/bucket-elevator-product-line-series/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://tc.dev2.barn3s.com/2022/06/03/bucket-elevator-product-line-series/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https://tc.dev2.barn3s.com/2022/06/03/bucket-elevator-product-line-series/#primaryimage","url":"https://tc.dev2.barn3s.com/wp-content/uploads/2023/10/Bucket-Elevator-Product-Line-Series.png","contentUrl":"https://tc.dev2.barn3s.com/wp-content/uploads/2023/10/Bucket-Elevator-Product-Line-Series.png","width":400,"height":400},{"@type":"BreadcrumbList","@id":"https://tc.dev2.barn3s.com/2022/06/03/bucket-elevator-product-line-series/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://tc.dev2.barn3s.com/"},{"@type":"ListItem","position":2,"name":"Bucket Elevator Product Line Series"}]},{"@type":"WebSite","@id":"https://tc.dev2.barn3s.com/#website","url":"https://tc.dev2.barn3s.com/","name":"Thomas Conveyor &amp; Equipment","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://tc.dev2.barn3s.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"Person","@id":"https://tc.dev2.barn3s.com/#/schema/person/c99bb6d69eb1bb179c1aa33481c757a4","name":"josephwill","image":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://tc.dev2.barn3s.com/#/schema/person/image/","url":"https://secure.gravatar.com/avatar/b1de6b99c94b2cb638bee2f917237fdc?s=96&d=mm&r=g","contentUrl":"https://secure.gravatar.com/avatar/b1de6b99c94b2cb638bee2f917237fdc?s=96&d=mm&r=g","caption":"josephwill"},"url":"https://tc.dev2.barn3s.com/author/josephwill/"}]}</script>
 	<!-- / Yoast SEO plugin. -->
 
 
@@ -86,11 +86,11 @@ img.emoji {
 <link rel='stylesheet' id='elementor-frontend-css' href='../wp-content/uploads/elementor/css/custom-frontend-lite.min%EF%B9%96ver=1698856260.css' type='text/css' media='all' />
 <link rel='stylesheet' id='eael-general-css' href='../wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/css/view/general.min%EF%B9%96ver=5.8.13.css' type='text/css' media='all' />
 <script type='text/javascript' src='https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js?ver=6.3.2' id='jquery-js'></script>
-<link rel="https://api.w.org/" href="../wp-json/index.json" /><link rel="alternate" type="application/json" href="../wp-json/wp/v2/posts/1272.json" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="../xmlrpc.php%EF%B9%96rsd.xml" />
+<link rel="https://api.w.org/" href="../wp-json/index.json" /><link rel="alternate" type="application/json" href="../wp-json/wp/v2/posts/1282.json" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="../xmlrpc.php%EF%B9%96rsd.xml" />
 <meta name="generator" content="WordPress 6.3.2" />
-<link rel='shortlink' href='blog/highspeed-grain-elevators.php' />
-<link rel="alternate" type="application/json+oembed" href="../wp-json/oembed/1.0/embed%EF%B9%96url=https%EF%B9%95%EA%A4%B7%EA%A4%B7tc.dev2.barn3s.com%EA%A4%B72022%EA%A4%B706%EA%A4%B724%EA%A4%B7highspeed-grain-elevators%EA%A4%B7.json" />
-<link rel="alternate" type="text/xml+oembed" href="../wp-json/oembed/1.0/embed%EF%B9%96url=https%EF%B9%95%EA%A4%B7%EA%A4%B7tc.dev2.barn3s.com%EA%A4%B72022%EA%A4%B706%EA%A4%B724%EA%A4%B7highspeed-grain-elevators%EA%A4%B7&amp;format=xml.xml" />
+<link rel='shortlink' href='/blogs/bucket-elevator-product-line-series' />
+<link rel="alternate" type="application/json+oembed" href="../wp-json/oembed/1.0/embed%EF%B9%96url=https%EF%B9%95%EA%A4%B7%EA%A4%B7tc.dev2.barn3s.com%EA%A4%B72022%EA%A4%B706%EA%A4%B703%EA%A4%B7bucket-elevator-product-line-series%EA%A4%B7.json" />
+<link rel="alternate" type="text/xml+oembed" href="../wp-json/oembed/1.0/embed%EF%B9%96url=https%EF%B9%95%EA%A4%B7%EA%A4%B7tc.dev2.barn3s.com%EA%A4%B72022%EA%A4%B706%EA%A4%B703%EA%A4%B7bucket-elevator-product-line-series%EA%A4%B7&amp;format=xml.xml" />
 <meta name="generator" content="Elementor 3.14.1; features: e_dom_optimization, e_optimized_assets_loading, e_optimized_css_loading, a11y_improvements, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-swap">
 <link rel="icon" href="../wp-content/uploads/2023/11/thomas_favicon.jpg" sizes="32x32" />
 <link rel="icon" href="../wp-content/uploads/2023/11/thomas_favicon.jpg" sizes="192x192" />
@@ -126,13 +126,13 @@ img.emoji {
 
 				}
 			</style></head>
-<body class="post-template-default single single-post postid-1272 single-format-standard elementor-default elementor-kit-5">
+<body class="post-template-default single single-post postid-1282 single-format-standard elementor-default elementor-kit-5">
 	
 	<a class="screen-reader-text" href="#main">Skip to content</a>
 
 	<?php include '../header.php';?>
 
-<main class="site-main post-1272 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized" role="main" id="main">
+<main class="site-main post-1282 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized" role="main" id="main">
 	<div class="post-banner">
 		<div class="blog-title">
 			Blog
@@ -143,34 +143,24 @@ img.emoji {
 			<h1>
 				Blog
 			</h1>
-			<p class="breadcrumbs"><a href="../index.php">Home</a> » <a href="../blog.php">Blog</a> » <a href="#" title="Highspeed Grain Elevators">Highspeed Grain Elevators</a>
+			<p class="breadcrumbs"><a href="../index">Home</a> » <a href="../blog">Blog</a> » <a href="#" title="Bucket Elevator Product Line Series">Bucket Elevator Product Line Series</a>
 			</p>
 		</div>
 		<div class="post-wrapper">
 			<div class="blog-post-thumbnail">
 				<div style="margin-bottom: 40px;">
 					<!-- BLOG IMAGE HERE -->
-					<img src="../wp-content/uploads/2023/06/default-gray.jpg" >
+					<img src="../wp-content/uploads/2023/10/Bucket-Elevator-Product-Line-Series.png" >
 				</div>
 				<div style="flex: 1;">
-					<a href="../blog.php"><img style="width:200px;" src="../wp-content/uploads/2023/10/Return-to-the-Blog.jpg" ></a>
+					<a href="../blog"><img style="width:200px;" src="../wp-content/uploads/2023/10/Return-to-the-Blog.jpg" ></a>
 				</div>
 			</div>
 			<div class="page-content" style="flex: 2; padding: 75px 0px 0px 50px;">
 				<h3 style="color: #333333; padding-bottom: 30px;">
-					Highspeed Grain Elevators				</h3>
-				<p>Highspeed grain elevators are a type of centrifugal elevator. This model operates at even higher speeds than the standard centrifugal line. It also uses a unique “dual leg” design where the up-leg &amp; down-leg are separate chambers.</p>
-<p>As the name states, these elevators are primarily used for handling grain. Due to the highspeed operation these are used for handling lighter, non-abrasive materials. However, there are some special applications where these have been successfully used handling frac sand &amp; pebble lime. Because our elevator line is fully customizable we are able to make design considerations to accommodate non-standard requirements.</p>
-<p>A key advantage of the HSG product line is that they provide a relatively small foot print when compared to a standard duty centrifugal or continuous elevator rated for the same capacity. If space if of concern then a highspeed grain elevator may be worth considering.</p>
-<p><strong>Key Features:</strong></p>
-<ul>
-<li>Belt operation only</li>
-<li>Higher speeds</li>
-<li>Capacities up to 75,000 CFH</li>
-<li>Best used for lighter, free-flowing materials</li>
-<li>Commonly used in the following industries: agriculture, food</li>
-</ul>
-<p><img decoding="async" class="alignnone size-medium wp-image-1273" src="../wp-content/uploads/2023/10/HighSpeedGrain-4-blog4-74x300.png" alt="" width="74" height="300" srcset="../wp-content/uploads/2023/10/HighSpeedGrain-4-blog4-74x300.png 74w, ../wp-content/uploads/2023/10/HighSpeedGrain-4-blog4-252x1024.png 252w, ../wp-content/uploads/2023/10/HighSpeedGrain-4-blog4.png 347w" sizes="(max-width: 74px) 100vw, 74px" /></p>
+					Bucket Elevator Product Line Series				</h3>
+				<p>Thomas designs &amp; manufactures various types of bucket elevators to handle most varieties of dry, free-flowing bulk materials. We offer both belt &amp; chain varieties between our centrifugal &amp; continuous style elevators between our standard duty, mill duty, super capacity, and highspeed grain style product line. We work alongside our reps &amp; customers to provide custom elevator solutions. So, while we offer over 150+ standard models with various combinations of casing sizes, buckets, belt, &amp; chain, each elevator we design &amp; sell is customized to meet our customers’ needs. We pride ourselves on being a “solutions” supplier by offering made to order conveyors and elevators with a wide range of customization options.</p>
+<p>In this series we will take an in-depth look at all of our standard models as well as the various options we can incorporate into our elevator product line.</p>
 			</div>
 		</div>
 	</div>
@@ -212,7 +202,7 @@ img.emoji {
 <script type='text/javascript' src='../wp-content/themes/catchylabs-elementor-theme/assets/js/theme.js' id='cl_theme-js'></script>
 <script type='text/javascript' id='eael-general-js-extra'>
 /* <![CDATA[ */
-var localize = {"ajaxurl":"https:\/\/tc.dev2.barn3s.com\/wp-admin\/admin-ajax.php","nonce":"cccd051de6","i18n":{"added":"Added ","compare":"Compare","loading":"Loading..."},"eael_translate_text":{"required_text":"is a required field","invalid_text":"Invalid","billing_text":"Billing","shipping_text":"Shipping","fg_mfp_counter_text":"of"},"page_permalink":"https:\/\/tc.dev2.barn3s.com\/2022\/06\/24\/highspeed-grain-elevators\/","cart_redirectition":"","cart_page_url":"","el_breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":true},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}};
+var localize = {"ajaxurl":"https:\/\/tc.dev2.barn3s.com\/wp-admin\/admin-ajax.php","nonce":"cccd051de6","i18n":{"added":"Added ","compare":"Compare","loading":"Loading..."},"eael_translate_text":{"required_text":"is a required field","invalid_text":"Invalid","billing_text":"Billing","shipping_text":"Shipping","fg_mfp_counter_text":"of"},"page_permalink":"https:\/\/tc.dev2.barn3s.com\/2022\/06\/03\/bucket-elevator-product-line-series\/","cart_redirectition":"","cart_page_url":"","el_breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":true},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}};
 /* ]]> */
 </script>
 <script type='text/javascript' src='../wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/js/view/general.min%EF%B9%96ver=5.8.13.js' id='eael-general-js'></script>
@@ -221,7 +211,7 @@ var localize = {"ajaxurl":"https:\/\/tc.dev2.barn3s.com\/wp-admin\/admin-ajax.ph
 <script type='text/javascript' src='../wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min%EF%B9%96ver=4.0.2.js' id='elementor-waypoints-js'></script>
 <script type='text/javascript' src='../wp-includes/js/jquery/ui/core.min%EF%B9%96ver=1.13.2.js' id='jquery-ui-core-js'></script>
 <script id="elementor-frontend-js-before" type="text/javascript">
-var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close","a11yCarouselWrapperAriaLabel":"Carousel | Horizontal scrolling: Arrow Left & Right","a11yCarouselPrevSlideMessage":"Previous slide","a11yCarouselNextSlideMessage":"Next slide","a11yCarouselFirstSlideMessage":"This is the first slide","a11yCarouselLastSlideMessage":"This is the last slide","a11yCarouselPaginationBulletMessage":"Go to slide"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":true},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.14.1","is_static":false,"experimentalFeatures":{"e_dom_optimization":true,"e_optimized_assets_loading":true,"e_optimized_css_loading":true,"a11y_improvements":true,"additional_custom_breakpoints":true,"e_swiper_latest":true,"landing-pages":true},"urls":{"assets":"https:\/\/tc.dev2.barn3s.com\/wp-content\/plugins\/elementor\/assets\/"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet","viewport_laptop"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":1272,"title":"Highspeed%20Grain%20Elevators%20-%20Thomas%20Conveyor%20%26%20Equipment","excerpt":"Highspeed grain elevators are a type of centrifugal elevator. This model operates at even higher speeds than the standard centrifugal line.","featuredImage":"https:\/\/tc.dev2.barn3s.com\/wp-content\/uploads\/2023\/06\/default-gray.jpg"}};
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close","a11yCarouselWrapperAriaLabel":"Carousel | Horizontal scrolling: Arrow Left & Right","a11yCarouselPrevSlideMessage":"Previous slide","a11yCarouselNextSlideMessage":"Next slide","a11yCarouselFirstSlideMessage":"This is the first slide","a11yCarouselLastSlideMessage":"This is the last slide","a11yCarouselPaginationBulletMessage":"Go to slide"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":true},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.14.1","is_static":false,"experimentalFeatures":{"e_dom_optimization":true,"e_optimized_assets_loading":true,"e_optimized_css_loading":true,"a11y_improvements":true,"additional_custom_breakpoints":true,"e_swiper_latest":true,"landing-pages":true},"urls":{"assets":"https:\/\/tc.dev2.barn3s.com\/wp-content\/plugins\/elementor\/assets\/"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet","viewport_laptop"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":1282,"title":"Bucket%20Elevator%20Product%20Line%20Series%20-%20Thomas%20Conveyor%20%26%20Equipment","excerpt":"In this Bucket Elevator Product Line series we will take an in-depth look at all of our standard models as well as the various options we can incorporate into our elevator product line.\r\n","featuredImage":"https:\/\/tc.dev2.barn3s.com\/wp-content\/uploads\/2023\/10\/Bucket-Elevator-Product-Line-Series.png"}};
 </script>
 <script type='text/javascript' src='../wp-content/plugins/elementor/assets/js/frontend.min%EF%B9%96ver=3.14.1.js' id='elementor-frontend-js'></script>
 <script type='text/javascript' src='../wp-includes/js/underscore.min%EF%B9%96ver=1.13.4.js' id='underscore-js'></script>

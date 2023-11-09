@@ -9,19 +9,19 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,300;1,300&amp;family=Roboto:ital,wght@0,300;0,500;1,300;1,500&amp;display=swap" rel="stylesheet">
 
-	<title>Continuous Elevators - Thomas Conveyor &amp; Equipment</title>
+	<title>Centrifugal Elevators - Thomas Conveyor &amp; Equipment</title>
     <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
 
 	<!-- This site is optimized with the Yoast SEO plugin v20.11 - https://yoast.com/wordpress/plugins/seo/ -->
-	<link rel="canonical" href="/blog/continuous-elevators.php" />
+	<link rel="canonical" href="/blogs/centrifugal-elevators" />
 	<meta property="og:locale" content="en_US" />
 	<meta property="og:type" content="article" />
-	<meta property="og:title" content="Continuous Elevators - Thomas Conveyor &amp; Equipment" />
-	<meta property="og:description" content="Continuous elevators primarily differentiate themselves from centrifugal elevators in two ways. They have a unique bucket geometry and they operate a lower speeds using gravity to discharge the buckets." />
-	<meta property="og:url" content="https://tc.dev2.barn3s.com/2022/06/10/continuous-elevators/" />
+	<meta property="og:title" content="Centrifugal Elevators - Thomas Conveyor &amp; Equipment" />
+	<meta property="og:description" content="Centrifugal elevators operate at high speeds &amp; use centrifugal motion to “throw” material out of the buckets as they come around the head pulley or sprocket." />
+	<meta property="og:url" content="https://tc.dev2.barn3s.com/2022/06/15/centrifugal-elevators/" />
 	<meta property="og:site_name" content="Thomas Conveyor &amp; Equipment" />
-	<meta property="article:published_time" content="2022-06-10T16:58:46+00:00" />
-	<meta property="article:modified_time" content="2023-10-31T17:01:37+00:00" />
+	<meta property="article:published_time" content="2022-06-15T16:57:04+00:00" />
+	<meta property="article:modified_time" content="2023-10-31T17:01:23+00:00" />
 	<meta property="og:image" content="https://tc.dev2.barn3s.com/wp-content/uploads/2023/06/default-gray.jpg" />
 	<meta property="og:image:width" content="400" />
 	<meta property="og:image:height" content="400" />
@@ -29,7 +29,7 @@
 	<meta name="twitter:card" content="summary_large_image" />
 	<meta name="twitter:label2" content="Est. reading time" />
 	<meta name="twitter:data2" content="2 minutes" />
-	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://tc.dev2.barn3s.com/2022/06/10/continuous-elevators/","url":"https://tc.dev2.barn3s.com/2022/06/10/continuous-elevators/","name":"Continuous Elevators - Thomas Conveyor &amp; Equipment","isPartOf":{"@id":"https://tc.dev2.barn3s.com/#website"},"primaryImageOfPage":{"@id":"https://tc.dev2.barn3s.com/2022/06/10/continuous-elevators/#primaryimage"},"image":{"@id":"https://tc.dev2.barn3s.com/2022/06/10/continuous-elevators/#primaryimage"},"thumbnailUrl":"https://tc.dev2.barn3s.com/wp-content/uploads/2023/06/default-gray.jpg","datePublished":"2022-06-10T16:58:46+00:00","dateModified":"2023-10-31T17:01:37+00:00","author":{"@id":"https://tc.dev2.barn3s.com/#/schema/person/c99bb6d69eb1bb179c1aa33481c757a4"},"breadcrumb":{"@id":"https://tc.dev2.barn3s.com/2022/06/10/continuous-elevators/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://tc.dev2.barn3s.com/2022/06/10/continuous-elevators/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https://tc.dev2.barn3s.com/2022/06/10/continuous-elevators/#primaryimage","url":"https://tc.dev2.barn3s.com/wp-content/uploads/2023/06/default-gray.jpg","contentUrl":"https://tc.dev2.barn3s.com/wp-content/uploads/2023/06/default-gray.jpg","width":400,"height":400},{"@type":"BreadcrumbList","@id":"https://tc.dev2.barn3s.com/2022/06/10/continuous-elevators/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://tc.dev2.barn3s.com/"},{"@type":"ListItem","position":2,"name":"Continuous Elevators"}]},{"@type":"WebSite","@id":"https://tc.dev2.barn3s.com/#website","url":"https://tc.dev2.barn3s.com/","name":"Thomas Conveyor &amp; Equipment","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://tc.dev2.barn3s.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"Person","@id":"https://tc.dev2.barn3s.com/#/schema/person/c99bb6d69eb1bb179c1aa33481c757a4","name":"josephwill","image":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://tc.dev2.barn3s.com/#/schema/person/image/","url":"https://secure.gravatar.com/avatar/b1de6b99c94b2cb638bee2f917237fdc?s=96&d=mm&r=g","contentUrl":"https://secure.gravatar.com/avatar/b1de6b99c94b2cb638bee2f917237fdc?s=96&d=mm&r=g","caption":"josephwill"},"url":"https://tc.dev2.barn3s.com/author/josephwill/"}]}</script>
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://tc.dev2.barn3s.com/2022/06/15/centrifugal-elevators/","url":"https://tc.dev2.barn3s.com/2022/06/15/centrifugal-elevators/","name":"Centrifugal Elevators - Thomas Conveyor &amp; Equipment","isPartOf":{"@id":"https://tc.dev2.barn3s.com/#website"},"primaryImageOfPage":{"@id":"https://tc.dev2.barn3s.com/2022/06/15/centrifugal-elevators/#primaryimage"},"image":{"@id":"https://tc.dev2.barn3s.com/2022/06/15/centrifugal-elevators/#primaryimage"},"thumbnailUrl":"https://tc.dev2.barn3s.com/wp-content/uploads/2023/06/default-gray.jpg","datePublished":"2022-06-15T16:57:04+00:00","dateModified":"2023-10-31T17:01:23+00:00","author":{"@id":"https://tc.dev2.barn3s.com/#/schema/person/c99bb6d69eb1bb179c1aa33481c757a4"},"breadcrumb":{"@id":"https://tc.dev2.barn3s.com/2022/06/15/centrifugal-elevators/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://tc.dev2.barn3s.com/2022/06/15/centrifugal-elevators/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https://tc.dev2.barn3s.com/2022/06/15/centrifugal-elevators/#primaryimage","url":"https://tc.dev2.barn3s.com/wp-content/uploads/2023/06/default-gray.jpg","contentUrl":"https://tc.dev2.barn3s.com/wp-content/uploads/2023/06/default-gray.jpg","width":400,"height":400},{"@type":"BreadcrumbList","@id":"https://tc.dev2.barn3s.com/2022/06/15/centrifugal-elevators/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://tc.dev2.barn3s.com/"},{"@type":"ListItem","position":2,"name":"Centrifugal Elevators"}]},{"@type":"WebSite","@id":"https://tc.dev2.barn3s.com/#website","url":"https://tc.dev2.barn3s.com/","name":"Thomas Conveyor &amp; Equipment","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://tc.dev2.barn3s.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"Person","@id":"https://tc.dev2.barn3s.com/#/schema/person/c99bb6d69eb1bb179c1aa33481c757a4","name":"josephwill","image":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://tc.dev2.barn3s.com/#/schema/person/image/","url":"https://secure.gravatar.com/avatar/b1de6b99c94b2cb638bee2f917237fdc?s=96&d=mm&r=g","contentUrl":"https://secure.gravatar.com/avatar/b1de6b99c94b2cb638bee2f917237fdc?s=96&d=mm&r=g","caption":"josephwill"},"url":"https://tc.dev2.barn3s.com/author/josephwill/"}]}</script>
 	<!-- / Yoast SEO plugin. -->
 
 
@@ -86,11 +86,11 @@ img.emoji {
 <link rel='stylesheet' id='elementor-frontend-css' href='../wp-content/uploads/elementor/css/custom-frontend-lite.min%EF%B9%96ver=1698856260.css' type='text/css' media='all' />
 <link rel='stylesheet' id='eael-general-css' href='../wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/css/view/general.min%EF%B9%96ver=5.8.13.css' type='text/css' media='all' />
 <script type='text/javascript' src='https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js?ver=6.3.2' id='jquery-js'></script>
-<link rel="https://api.w.org/" href="../wp-json/index.json" /><link rel="alternate" type="application/json" href="../wp-json/wp/v2/posts/1278.json" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="../xmlrpc.php%EF%B9%96rsd.xml" />
+<link rel="https://api.w.org/" href="../wp-json/index.json" /><link rel="alternate" type="application/json" href="../wp-json/wp/v2/posts/1275.json" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="../xmlrpc.php%EF%B9%96rsd.xml" />
 <meta name="generator" content="WordPress 6.3.2" />
-<link rel='shortlink' href='blog/continuous-elevators.php' />
-<link rel="alternate" type="application/json+oembed" href="../wp-json/oembed/1.0/embed%EF%B9%96url=https%EF%B9%95%EA%A4%B7%EA%A4%B7tc.dev2.barn3s.com%EA%A4%B72022%EA%A4%B706%EA%A4%B710%EA%A4%B7continuous-elevators%EA%A4%B7.json" />
-<link rel="alternate" type="text/xml+oembed" href="../wp-json/oembed/1.0/embed%EF%B9%96url=https%EF%B9%95%EA%A4%B7%EA%A4%B7tc.dev2.barn3s.com%EA%A4%B72022%EA%A4%B706%EA%A4%B710%EA%A4%B7continuous-elevators%EA%A4%B7&amp;format=xml.xml" />
+<link rel='shortlink' href='blogs/centrifugal-elevators' />
+<link rel="alternate" type="application/json+oembed" href="../wp-json/oembed/1.0/embed%EF%B9%96url=https%EF%B9%95%EA%A4%B7%EA%A4%B7tc.dev2.barn3s.com%EA%A4%B72022%EA%A4%B706%EA%A4%B715%EA%A4%B7centrifugal-elevators%EA%A4%B7.json" />
+<link rel="alternate" type="text/xml+oembed" href="../wp-json/oembed/1.0/embed%EF%B9%96url=https%EF%B9%95%EA%A4%B7%EA%A4%B7tc.dev2.barn3s.com%EA%A4%B72022%EA%A4%B706%EA%A4%B715%EA%A4%B7centrifugal-elevators%EA%A4%B7&amp;format=xml.xml" />
 <meta name="generator" content="Elementor 3.14.1; features: e_dom_optimization, e_optimized_assets_loading, e_optimized_css_loading, a11y_improvements, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-swap">
 <link rel="icon" href="../wp-content/uploads/2023/11/thomas_favicon.jpg" sizes="32x32" />
 <link rel="icon" href="../wp-content/uploads/2023/11/thomas_favicon.jpg" sizes="192x192" />
@@ -126,13 +126,13 @@ img.emoji {
 
 				}
 			</style></head>
-<body class="post-template-default single single-post postid-1278 single-format-standard elementor-default elementor-kit-5">
+<body class="post-template-default single single-post postid-1275 single-format-standard elementor-default elementor-kit-5">
 	
 	<a class="screen-reader-text" href="#main">Skip to content</a>
 
 	<?php include '../header.php';?>
 
-<main class="site-main post-1278 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized" role="main" id="main">
+<main class="site-main post-1275 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized" role="main" id="main">
 	<div class="post-banner">
 		<div class="blog-title">
 			Blog
@@ -143,7 +143,7 @@ img.emoji {
 			<h1>
 				Blog
 			</h1>
-			<p class="breadcrumbs"><a href="../index.php">Home</a> » <a href="../blog.php">Blog</a> » <a href="#" title="Continuous Elevators">Continuous Elevators</a>
+			<p class="breadcrumbs"><a href="../index">Home</a> » <a href="../blog">Blog</a> » <a href="#" title="Centrifugal Elevators">Centrifugal Elevators</a>
 			</p>
 		</div>
 		<div class="post-wrapper">
@@ -153,25 +153,24 @@ img.emoji {
 					<img src="../wp-content/uploads/2023/06/default-gray.jpg" >
 				</div>
 				<div style="flex: 1;">
-					<a href="../blog.php"><img style="width:200px;" src="../wp-content/uploads/2023/10/Return-to-the-Blog.jpg" ></a>
+					<a href="../blog"><img style="width:200px;" src="../wp-content/uploads/2023/10/Return-to-the-Blog.jpg" ></a>
 				</div>
 			</div>
 			<div class="page-content" style="flex: 2; padding: 75px 0px 0px 50px;">
 				<h3 style="color: #333333; padding-bottom: 30px;">
-					Continuous Elevators				</h3>
-				<p>These elevators primarily differentiate themselves from centrifugal elevators in two ways. They have a unique bucket geometry and they operate a lower speeds using gravity to discharge the buckets.</p>
-<p>The lower speeds allow for ideal handling of heavy abrasive materials by having a gentler feed &amp; discharge rate, reducing wear on both the buckets &amp; discharge areas of the elevator. The low speed also provides the benefit of allowing sluggish materials more time to discharge.</p>
-<p>Continuous elevators use an MF (medium front) style bucket &amp; a tight bucket spacing that allow the discharging bucket to utilize the back side of the preceding bucket as a ramp to guide the material into the discharge.</p>
-<p>The inlet is mounted higher on the housing compared to a centrifugal elevator. This combined with the lower speeds allow for the buckets to be directly fed with minimal spillage. Decreased spillage provides the advantage of longer bucket life by eliminating the need for the buckets to dig spilled product out of the boot housing.</p>
+					Centrifugal Elevators				</h3>
+				<p>Centrifugal elevators operate at high speeds &amp; use centrifugal motion to “throw” material out of the buckets as they come around the head pulley or sprocket. The speed of the elevator is critical for proper bucket discharge with centrifugal elevators. If the belt/chain speed is too slow or too fast the buckets may not properly discharge which can result in “downlegging.” This is when material does not exit the discharge chute &amp; falls back to the boot on the downward side of the elevator.</p>
+<p>Due to the higher speeds there is more spillage at the inlet with this style of elevator. To compensate for the added spillage centrifugal elevators use “digger” buckets every 10th bucket space. These buckets have a slightly more pronounced lip that allows them to scoop spilled material from the boot housing. The digger buckets are typically made of a steel &amp; include a wear resistant lip.</p>
+<p>Centrifugal elevators can be used to move “lighter” abrasive materials. Due to the high speed “throwing” action in this style elevator, abrasion resistant liners can be added to the head, hood, &amp; discharge area to handle the added wear.</p>
 <p><strong>Key Features:</strong></p>
 <ul>
 <li>Belt or Chain operation</li>
-<li>Low speed</li>
-<li>Capacities up to 5,900 CFH</li>
-<li>Less Impact/abrasion</li>
-<li>Commonly used in the following industries: mining, aggregate, waste water, food, chemical</li>
+<li>Higher speeds</li>
+<li>Capacities up to 6,500 CFH</li>
+<li>Better for discharging material that interlocks or agglomerates</li>
+<li>Commonly used in the following industries: food, agriculture, petfood, wood products</li>
 </ul>
-<p><img decoding="async" class="alignnone size-medium wp-image-1279" src="../wp-content/uploads/2023/10/Blog2Pic-72x300.png" alt="" width="72" height="300" /></p>
+<p><img decoding="async" fetchpriority="high" class="alignnone size-medium wp-image-1276" src="../wp-content/uploads/2023/10/CentChain-Rendering-1-blog3-267x300.png" alt="" width="267" height="300" srcset="../wp-content/uploads/2023/10/CentChain-Rendering-1-blog3-267x300.png 267w, ../wp-content/uploads/2023/10/CentChain-Rendering-1-blog3.png 741w" sizes="(max-width: 267px) 100vw, 267px" /></p>
 			</div>
 		</div>
 	</div>
@@ -212,7 +211,7 @@ img.emoji {
 <script type='text/javascript' src='../wp-content/themes/catchylabs-elementor-theme/assets/js/theme.js' id='cl_theme-js'></script>
 <script type='text/javascript' id='eael-general-js-extra'>
 /* <![CDATA[ */
-var localize = {"ajaxurl":"https:\/\/tc.dev2.barn3s.com\/wp-admin\/admin-ajax.php","nonce":"cccd051de6","i18n":{"added":"Added ","compare":"Compare","loading":"Loading..."},"eael_translate_text":{"required_text":"is a required field","invalid_text":"Invalid","billing_text":"Billing","shipping_text":"Shipping","fg_mfp_counter_text":"of"},"page_permalink":"https:\/\/tc.dev2.barn3s.com\/2022\/06\/10\/continuous-elevators\/","cart_redirectition":"","cart_page_url":"","el_breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":true},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}};
+var localize = {"ajaxurl":"https:\/\/tc.dev2.barn3s.com\/wp-admin\/admin-ajax.php","nonce":"cccd051de6","i18n":{"added":"Added ","compare":"Compare","loading":"Loading..."},"eael_translate_text":{"required_text":"is a required field","invalid_text":"Invalid","billing_text":"Billing","shipping_text":"Shipping","fg_mfp_counter_text":"of"},"page_permalink":"https:\/\/tc.dev2.barn3s.com\/2022\/06\/15\/centrifugal-elevators\/","cart_redirectition":"","cart_page_url":"","el_breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":true},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}};
 /* ]]> */
 </script>
 <script type='text/javascript' src='../wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/js/view/general.min%EF%B9%96ver=5.8.13.js' id='eael-general-js'></script>
@@ -221,7 +220,7 @@ var localize = {"ajaxurl":"https:\/\/tc.dev2.barn3s.com\/wp-admin\/admin-ajax.ph
 <script type='text/javascript' src='../wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min%EF%B9%96ver=4.0.2.js' id='elementor-waypoints-js'></script>
 <script type='text/javascript' src='../wp-includes/js/jquery/ui/core.min%EF%B9%96ver=1.13.2.js' id='jquery-ui-core-js'></script>
 <script id="elementor-frontend-js-before" type="text/javascript">
-var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close","a11yCarouselWrapperAriaLabel":"Carousel | Horizontal scrolling: Arrow Left & Right","a11yCarouselPrevSlideMessage":"Previous slide","a11yCarouselNextSlideMessage":"Next slide","a11yCarouselFirstSlideMessage":"This is the first slide","a11yCarouselLastSlideMessage":"This is the last slide","a11yCarouselPaginationBulletMessage":"Go to slide"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":true},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.14.1","is_static":false,"experimentalFeatures":{"e_dom_optimization":true,"e_optimized_assets_loading":true,"e_optimized_css_loading":true,"a11y_improvements":true,"additional_custom_breakpoints":true,"e_swiper_latest":true,"landing-pages":true},"urls":{"assets":"https:\/\/tc.dev2.barn3s.com\/wp-content\/plugins\/elementor\/assets\/"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet","viewport_laptop"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":1278,"title":"Continuous%20Elevators%20-%20Thomas%20Conveyor%20%26%20Equipment","excerpt":"Continuous elevators primarily differentiate themselves from centrifugal elevators in two ways. They have a unique bucket geometry and they operate a lower speeds using gravity to discharge the buckets.","featuredImage":"https:\/\/tc.dev2.barn3s.com\/wp-content\/uploads\/2023\/06\/default-gray.jpg"}};
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close","a11yCarouselWrapperAriaLabel":"Carousel | Horizontal scrolling: Arrow Left & Right","a11yCarouselPrevSlideMessage":"Previous slide","a11yCarouselNextSlideMessage":"Next slide","a11yCarouselFirstSlideMessage":"This is the first slide","a11yCarouselLastSlideMessage":"This is the last slide","a11yCarouselPaginationBulletMessage":"Go to slide"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":true},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.14.1","is_static":false,"experimentalFeatures":{"e_dom_optimization":true,"e_optimized_assets_loading":true,"e_optimized_css_loading":true,"a11y_improvements":true,"additional_custom_breakpoints":true,"e_swiper_latest":true,"landing-pages":true},"urls":{"assets":"https:\/\/tc.dev2.barn3s.com\/wp-content\/plugins\/elementor\/assets\/"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet","viewport_laptop"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":1275,"title":"Centrifugal%20Elevators%20-%20Thomas%20Conveyor%20%26%20Equipment","excerpt":"Centrifugal elevators operate at high speeds & use centrifugal motion to \u201cthrow\u201d material out of the buckets as they come around the head pulley or sprocket.","featuredImage":"https:\/\/tc.dev2.barn3s.com\/wp-content\/uploads\/2023\/06\/default-gray.jpg"}};
 </script>
 <script type='text/javascript' src='../wp-content/plugins/elementor/assets/js/frontend.min%EF%B9%96ver=3.14.1.js' id='elementor-frontend-js'></script>
 <script type='text/javascript' src='../wp-includes/js/underscore.min%EF%B9%96ver=1.13.4.js' id='underscore-js'></script>

@@ -13,7 +13,7 @@
     <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
 
 	<!-- This site is optimized with the Yoast SEO plugin v20.11 - https://yoast.com/wordpress/plugins/seo/ -->
-	<link rel="canonical" href="/sitemap.php" />
+	<link rel="canonical" href="/sitemap" />
 	<meta property="og:locale" content="en_US" />
 	<meta property="og:type" content="article" />
 	<meta property="og:title" content="Sitemap - Thomas Conveyor &amp; Equipment" />
@@ -86,7 +86,7 @@ img.emoji {
 <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin><script type='text/javascript' src='https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js?ver=6.3.2' id='jquery-js'></script>
 <link rel="https://api.w.org/" href="./wp-json/index.json" /><link rel="alternate" type="application/json" href="./wp-json/wp/v2/pages/1476.json" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="./xmlrpc.php%EF%B9%96rsd.xml" />
 <meta name="generator" content="WordPress 6.3.2" />
-<link rel='shortlink' href='/sitemap.php' />
+<link rel='shortlink' href='/sitemap' />
 <link rel="alternate" type="application/json+oembed" href="./wp-json/oembed/1.0/embed%EF%B9%96url=https%EF%B9%95%EA%A4%B7%EA%A4%B7tc.dev2.barn3s.com%EA%A4%B7sitemap%EA%A4%B7.json" />
 <link rel="alternate" type="text/xml+oembed" href="./wp-json/oembed/1.0/embed%EF%B9%96url=https%EF%B9%95%EA%A4%B7%EA%A4%B7tc.dev2.barn3s.com%EA%A4%B7sitemap%EA%A4%B7&amp;format=xml.xml" />
 <meta name="generator" content="Elementor 3.14.1; features: e_dom_optimization, e_optimized_assets_loading, e_optimized_css_loading, a11y_improvements, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-swap">
@@ -140,26 +140,26 @@ img.emoji {
 								<div class="elementor-widget-container">   
         							<nav id="sitemapNav">
 										<ul id="sitemap">
-											<li class="page_item page-item-157"><a href="./about.php">About</a></li>
-											<li class="page_item page-item-1026"><a href="./blog.php">Blog</a></li>
-											<li class="page_item page-item-930"><a href="./contact.php">Contact</a></li>
-											<li class="page_item page-item-186 page_item_has_children"><a href="./conveyors.php">Conveyors</a>
+											<li class="page_item page-item-157"><a href="./about">About</a></li>
+											<li class="page_item page-item-1026"><a href="./blog">Blog</a></li>
+											<li class="page_item page-item-930"><a href="./contact">Contact</a></li>
+											<li class="page_item page-item-186 page_item_has_children"><a href="./conveyors">Conveyors</a>
 												<ul class='children'>
-													<li class="page_item page-item-435"><a href="./conveyors/belt-conveyor-systems.php">Belt Conveyor Systems</a></li>
-													<li class="page_item page-item-364"><a href="./conveyors/bucket-elevator-systems.php">Bucket Elevator Systems</a></li>
-													<li class="page_item page-item-562"><a href="./conveyors/conveyor-components.php">Conveyor Components</a></li>
-													<li class="page_item page-item-340"><a href="./conveyors/drag-conveyor-systems.php">Drag Conveyor Systems</a></li>
-													<li class="page_item page-item-230"><a href="./conveyors/screw-conveyor-systems.php">Screw Conveyor Systems</a></li>
+													<li class="page_item page-item-435"><a href="./conveyor/belt-conveyor-systems">Belt Conveyor Systems</a></li>
+													<li class="page_item page-item-364"><a href="./conveyor/bucket-elevator-systems">Bucket Elevator Systems</a></li>
+													<li class="page_item page-item-562"><a href="./conveyor/conveyor-components">Conveyor Components</a></li>
+													<li class="page_item page-item-340"><a href="./conveyor/drag-conveyor-systems">Drag Conveyor Systems</a></li>
+													<li class="page_item page-item-230"><a href="./conveyor/screw-conveyor-systems">Screw Conveyor Systems</a></li>
 												</ul>
 											</li>
-											<li class="page_item page-item-53"><a href="./index.php">Home</a></li>
-											<li class="page_item page-item-618"><a href="./industries.php">Industries</a></li>
-											<li class="page_item page-item-1147"><a href="./online-catalog.php">Online Catalog</a></li>
-											<li class="page_item page-item-3"><a href="./privacy-policy.php">Privacy Policy</a></li>
-											<li class="page_item page-item-199"><a href="./services.php">Services</a></li>
-											<li class="page_item page-item-1476 current_page_item"><a href="./sitemap.php" aria-current="page">Sitemap</a></li>
-											<li class="page_item page-item-636"><a href="./support.php">Support</a></li>
-											<li class="page_item page-item-1446"><a href="./terms-conditions.php">Terms &#038; Conditions</a></li>
+											<li class="page_item page-item-53"><a href="./index">Home</a></li>
+											<li class="page_item page-item-618"><a href="./industries">Industries</a></li>
+											<li class="page_item page-item-1147"><a href="./online-catalog">Online Catalog</a></li>
+											<li class="page_item page-item-3"><a href="./privacy-policy">Privacy Policy</a></li>
+											<li class="page_item page-item-199"><a href="./services">Services</a></li>
+											<li class="page_item page-item-1476 current_page_item"><a href="./sitemap" aria-current="page">Sitemap</a></li>
+											<li class="page_item page-item-636"><a href="./support">Support</a></li>
+											<li class="page_item page-item-1446"><a href="./terms-conditions">Terms &#038; Conditions</a></li>
 										</ul>
         							</nav>
 								</div>
