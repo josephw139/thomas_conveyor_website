@@ -125,7 +125,8 @@ img.emoji {
 --wpforms-button-size-margin-top: 10px;
 
 				}
-			</style></head>
+			</style>
+</head>
 <body class="post-template-default single single-post postid-1031 single-format-standard elementor-default elementor-kit-5">
 	
 	<a class="screen-reader-text" href="#main">Skip to content</a>
@@ -134,17 +135,12 @@ img.emoji {
 
 <main class="site-main post-1031 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized" role="main" id="main">
 	<div class="post-banner">
-		<div class="blog-title">
-			Blog
-		</div>
+		<div class="blog-title">Blog</div>
 	</div>
 	<div class="main-post">
 		<div class="blog-top">
-			<h1>
-				Blog
-			</h1>
-			<p class="breadcrumbs"><a href="../index">Home</a> » <a href="../blog">Blog</a> » <a href="#" title="General Bucket Elevator Options &#038; Features">General Bucket Elevator Options &#038; Features</a>
-			</p>
+			<h1>Blog</h1>
+			<p class="breadcrumbs"><a href="../index">Home</a> » <a href="../blog">Blog</a> » <a href="#" title="General Bucket Elevator Options &#038; Features">General Bucket Elevator Options &#038; Features</a></p>
 		</div>
 		<div class="post-wrapper">
 			<div class="blog-post-thumbnail">
@@ -157,61 +153,57 @@ img.emoji {
 				</div>
 			</div>
 			<div class="page-content" style="flex: 2; padding: 75px 0px 0px 50px;">
-				<h3 style="color: #333333; padding-bottom: 30px;">
-					General Bucket Elevator Options &#038; Features				</h3>
-				
-<ul>
-<li>Platforms
-<ul>
-<li>We offer both maintenance &amp; rest platforms. Both fully customizable to meet application requirements. CEMA recommends landing platforms be installed at 20’ intervals along the ladder.</li>
-</ul>
-</li>
-<li>Maintenance Ladder &amp; Cage</li>
-<li>Take-ups
-<ul>
-<li>Screw type take-up frame w/ manual adjustment &amp; 9&#8243;-12&#8243; of travel</li>
-<li>Internal gravity take-up.  Self-adjusting &amp; dust tight</li>
-<li>Head mounted take-up.  Screw type, used when boot access is limited</li>
-</ul>
-</li>
-<li>Access
-<ul>
-<li>Small hinged doors for internal observation*</li>
-<li>Large bolted &amp; removeable access panels for maintenance in boot housing</li>
-<li>Split hood casing for head section maintenance*</li>
-</ul>
-</li>
-<li>Backstops
-<ul>
-<li>Internal backstop- Integrated into gearbox to prevent reverse travel of belt or chain</li>
-<li>External backstop- Used for heavy loads that are not suitable for internal backstop</li>
-</ul>
-</li>
-<li>Split Sprockets
-<ul>
-<li>Allows for quicker replacement of sprockets &amp; reduces downtime</li>
-</ul>
-</li>
-<li>Belt Splicing Kits
-<ul>
-<li>Make for quick resplices of belted elevators.  Belts typically require 1-2 resplices in the first several weeks of operation.</li>
-</ul>
-</li>
-<li>Fabricated buckets
-<ul>
-<li>These can be manufactured from any steel plate.  Commonly seen with AR400 wear strips on the lip of the bucket to increase service life.</li>
-</ul>
-</li>
-</ul>
-<p><img decoding="async" fetchpriority="high" class="alignnone size-medium wp-image-1133" src="../wp-content/uploads/2023/06/Platform-Rendering-4-300x225.png" alt="" width="300" height="225" srcset="../wp-content/uploads/2023/06/Platform-Rendering-4-300x225.png 300w, ../wp-content/uploads/2023/06/Platform-Rendering-4-1024x770.png 1024w, ../wp-content/uploads/2023/06/Platform-Rendering-4-768x577.png 768w, ../wp-content/uploads/2023/06/Platform-Rendering-4.png 1191w" sizes="(max-width: 300px) 100vw, 300px" /> <img decoding="async" class="alignnone size-medium wp-image-1134" src="../wp-content/uploads/2023/06/Sprocket_Split1-300x226.png" alt="" width="300" height="226" srcset="../wp-content/uploads/2023/06/Sprocket_Split1-300x226.png 300w, ../wp-content/uploads/2023/06/Sprocket_Split1-768x578.png 768w, ../wp-content/uploads/2023/06/Sprocket_Split1.png 1021w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+				<h3 style="color: #333333; padding-bottom: 30px;">General Bucket Elevator Options &#038; Features</h3>	
+				<ul>
+					<li>Platforms
+						<ul>
+							<li>We offer both maintenance &amp; rest platforms. Both fully customizable to meet application requirements. CEMA recommends landing platforms be installed at 20’ intervals along the ladder.</li>
+						</ul>
+					</li>
+					<li>Maintenance Ladder &amp; Cage</li>
+					<li>Take-ups
+						<ul>
+							<li>Screw type take-up frame w/ manual adjustment &amp; 9&#8243;-12&#8243; of travel</li>
+							<li>Internal gravity take-up.  Self-adjusting &amp; dust tight</li>
+							<li>Head mounted take-up.  Screw type, used when boot access is limited</li>
+						</ul>
+					</li>
+					<li>Access
+						<ul>
+							<li>Small hinged doors for internal observation*</li>
+							<li>Large bolted &amp; removeable access panels for maintenance in boot housing</li>
+							<li>Split hood casing for head section maintenance*</li>
+						</ul>
+					</li>
+					<li>Backstops
+						<ul>
+							<li>Internal backstop- Integrated into gearbox to prevent reverse travel of belt or chain</li>
+							<li>External backstop- Used for heavy loads that are not suitable for internal backstop</li>
+						</ul>
+					</li>
+					<li>Split Sprockets
+						<ul>
+							<li>Allows for quicker replacement of sprockets &amp; reduces downtime</li>
+						</ul>
+					</li>
+					<li>Belt Splicing Kits
+						<ul>
+							<li>Make for quick resplices of belted elevators.  Belts typically require 1-2 resplices in the first several weeks of operation.</li>
+						</ul>
+					</li>
+					<li>Fabricated buckets
+						<ul>
+							<li>These can be manufactured from any steel plate.  Commonly seen with AR400 wear strips on the lip of the bucket to increase service life.</li>
+						</ul>
+					</li>
+				</ul>
+				<p><img decoding="async" fetchpriority="high" class="alignnone size-medium wp-image-1133" src="../wp-content/uploads/2023/06/Platform-Rendering-4-300x225.png" alt="" width="300" height="225" srcset="../wp-content/uploads/2023/06/Platform-Rendering-4-300x225.png 300w, ../wp-content/uploads/2023/06/Platform-Rendering-4-1024x770.png 1024w, ../wp-content/uploads/2023/06/Platform-Rendering-4-768x577.png 768w, ../wp-content/uploads/2023/06/Platform-Rendering-4.png 1191w" sizes="(max-width: 300px) 100vw, 300px" /> <img decoding="async" class="alignnone size-medium wp-image-1134" src="../wp-content/uploads/2023/06/Sprocket_Split1-300x226.png" alt="" width="300" height="226" srcset="../wp-content/uploads/2023/06/Sprocket_Split1-300x226.png 300w, ../wp-content/uploads/2023/06/Sprocket_Split1-768x578.png 768w, ../wp-content/uploads/2023/06/Sprocket_Split1.png 1021w" sizes="(max-width: 300px) 100vw, 300px" /></p>
 			</div>
 		</div>
 	</div>
-	
 </main>
 
 <?php include '../footer.php';?>
-
 
 <div id="search-form-overlay" class="search-overlay hidden">
     <i class="fa-solid fa-circle-xmark icon-cancel" title="Close search bar"></i>

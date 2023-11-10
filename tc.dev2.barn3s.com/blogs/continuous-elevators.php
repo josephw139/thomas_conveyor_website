@@ -134,17 +134,12 @@ img.emoji {
 
 <main class="site-main post-1278 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized" role="main" id="main">
 	<div class="post-banner">
-		<div class="blog-title">
-			Blog
-		</div>
+		<div class="blog-title">Blog</div>
 	</div>
 	<div class="main-post">
 		<div class="blog-top">
-			<h1>
-				Blog
-			</h1>
-			<p class="breadcrumbs"><a href="../index">Home</a> » <a href="../blog">Blog</a> » <a href="#" title="Continuous Elevators">Continuous Elevators</a>
-			</p>
+			<h1>Blog</h1>
+			<p class="breadcrumbs"><a href="../index">Home</a> » <a href="../blog">Blog</a> » <a href="#" title="Continuous Elevators">Continuous Elevators</a></p>
 		</div>
 		<div class="post-wrapper">
 			<div class="blog-post-thumbnail">
@@ -157,25 +152,23 @@ img.emoji {
 				</div>
 			</div>
 			<div class="page-content" style="flex: 2; padding: 75px 0px 0px 50px;">
-				<h3 style="color: #333333; padding-bottom: 30px;">
-					Continuous Elevators				</h3>
+				<h3 style="color: #333333; padding-bottom: 30px;">Continuous Elevators</h3>
 				<p>These elevators primarily differentiate themselves from centrifugal elevators in two ways. They have a unique bucket geometry and they operate a lower speeds using gravity to discharge the buckets.</p>
-<p>The lower speeds allow for ideal handling of heavy abrasive materials by having a gentler feed &amp; discharge rate, reducing wear on both the buckets &amp; discharge areas of the elevator. The low speed also provides the benefit of allowing sluggish materials more time to discharge.</p>
-<p>Continuous elevators use an MF (medium front) style bucket &amp; a tight bucket spacing that allow the discharging bucket to utilize the back side of the preceding bucket as a ramp to guide the material into the discharge.</p>
-<p>The inlet is mounted higher on the housing compared to a centrifugal elevator. This combined with the lower speeds allow for the buckets to be directly fed with minimal spillage. Decreased spillage provides the advantage of longer bucket life by eliminating the need for the buckets to dig spilled product out of the boot housing.</p>
-<p><strong>Key Features:</strong></p>
-<ul>
-<li>Belt or Chain operation</li>
-<li>Low speed</li>
-<li>Capacities up to 5,900 CFH</li>
-<li>Less Impact/abrasion</li>
-<li>Commonly used in the following industries: mining, aggregate, waste water, food, chemical</li>
-</ul>
-<p><img decoding="async" class="alignnone size-medium wp-image-1279" src="../wp-content/uploads/2023/10/Blog2Pic-72x300.png" alt="" width="72" height="300" /></p>
+				<p>The lower speeds allow for ideal handling of heavy abrasive materials by having a gentler feed &amp; discharge rate, reducing wear on both the buckets &amp; discharge areas of the elevator. The low speed also provides the benefit of allowing sluggish materials more time to discharge.</p>
+				<p>Continuous elevators use an MF (medium front) style bucket &amp; a tight bucket spacing that allow the discharging bucket to utilize the back side of the preceding bucket as a ramp to guide the material into the discharge.</p>
+				<p>The inlet is mounted higher on the housing compared to a centrifugal elevator. This combined with the lower speeds allow for the buckets to be directly fed with minimal spillage. Decreased spillage provides the advantage of longer bucket life by eliminating the need for the buckets to dig spilled product out of the boot housing.</p>
+				<p><strong>Key Features:</strong></p>
+				<ul>
+					<li>Belt or Chain operation</li>
+					<li>Low speed</li>
+					<li>Capacities up to 5,900 CFH</li>
+					<li>Less Impact/abrasion</li>
+					<li>Commonly used in the following industries: mining, aggregate, waste water, food, chemical</li>
+				</ul>
+				<p><img decoding="async" class="alignnone size-medium wp-image-1279" src="../wp-content/uploads/2023/10/Blog2Pic-72x300.png" alt="" width="72" height="300" /></p>
 			</div>
 		</div>
 	</div>
-	
 </main>
 
 <?php include '../footer.php';?>

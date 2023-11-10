@@ -134,17 +134,12 @@ img.emoji {
 
 <main class="site-main post-1 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized" role="main" id="main">
 	<div class="post-banner">
-		<div class="blog-title">
-			Blog
-		</div>
+		<div class="blog-title">Blog</div>
 	</div>
 	<div class="main-post">
 		<div class="blog-top">
-			<h1>
-				Blog
-			</h1>
-			<p class="breadcrumbs"><a href="../index">Home</a> » <a href="../blog">Blog</a> » <a href="#" title="Safety Options &#038; Features">Safety Options &#038; Features</a>
-			</p>
+			<h1>Blog</h1>
+			<p class="breadcrumbs"><a href="../index">Home</a> » <a href="../blog">Blog</a> » <a href="#" title="Safety Options &#038; Features">Safety Options &#038; Features</a></p>
 		</div>
 		<div class="post-wrapper">
 			<div class="blog-post-thumbnail">
@@ -157,22 +152,17 @@ img.emoji {
 				</div>
 			</div>
 			<div class="page-content" style="flex: 2; padding: 75px 0px 0px 50px;">
-				<h3 style="color: #333333; padding-bottom: 30px;">
-					Safety Options &#038; Features				</h3>
-				
-<p>Expanded metal is integrated into the openings of inspection hatches, significantly decreasing the possibility of injuries by stopping body parts or tools from entering the housing. To ensure safety, limit switches are installed at all access points, automatically cutting power to motors or other moving components if any access door is unexpectedly opened. Another safety feature is the zero-speed sensors on the boot shaft; they will disconnect the power to the motor if the boot shaft RPM veers from the preset parameters, preventing major damage to components in case of a malfunction.</p>
-<p>Maintenance and operations are also made safer and more efficient with belt alignment monitors, which alert maintenance teams to any potential belt issues, possibly pointing to tension adjustments. Temperature sensors provide vital feedback on component temperatures like bearings, or even the material being conveyed. To monitor material temperatures, sensors can be strategically placed in the inlet or discharge chutes.</p>
-<p>For facilities concerned about dust, dust ventilation ports are incorporated, allowing seamless integration with existing or new dust handling systems. Additionally, plug detection sensors are utilized to signal when material buildup surpasses a certain threshold; these sensors can be placed in either the head or boot sections.</p>
-<p>To mitigate risks related to combustion or explosions, explosion panels or venting mechanisms have been introduced. They offer a controlled release of pressure if the material ignites, minimizing both equipment damage and the potential for injuries. In tandem with this, fire suppression features operate akin to fire extinguishers; they release a high-pressure propellant when combustion is detected, curbing both equipment damage and the risk of injuries. To counteract the risk associated with combustible materials, the equipment incorporates static dissipative belting and lagging. Lastly, to enhance safety during maintenance tasks performed at height, platforms are equipped with handrails, thereby minimizing the risk of falls or injuries.</p>
+				<h3 style="color: #333333; padding-bottom: 30px;">Safety Options &#038; Features</h3>
+				<p>Expanded metal is integrated into the openings of inspection hatches, significantly decreasing the possibility of injuries by stopping body parts or tools from entering the housing. To ensure safety, limit switches are installed at all access points, automatically cutting power to motors or other moving components if any access door is unexpectedly opened. Another safety feature is the zero-speed sensors on the boot shaft; they will disconnect the power to the motor if the boot shaft RPM veers from the preset parameters, preventing major damage to components in case of a malfunction.</p>
+				<p>Maintenance and operations are also made safer and more efficient with belt alignment monitors, which alert maintenance teams to any potential belt issues, possibly pointing to tension adjustments. Temperature sensors provide vital feedback on component temperatures like bearings, or even the material being conveyed. To monitor material temperatures, sensors can be strategically placed in the inlet or discharge chutes.</p>
+				<p>For facilities concerned about dust, dust ventilation ports are incorporated, allowing seamless integration with existing or new dust handling systems. Additionally, plug detection sensors are utilized to signal when material buildup surpasses a certain threshold; these sensors can be placed in either the head or boot sections.</p>
+				<p>To mitigate risks related to combustion or explosions, explosion panels or venting mechanisms have been introduced. They offer a controlled release of pressure if the material ignites, minimizing both equipment damage and the potential for injuries. In tandem with this, fire suppression features operate akin to fire extinguishers; they release a high-pressure propellant when combustion is detected, curbing both equipment damage and the risk of injuries. To counteract the risk associated with combustible materials, the equipment incorporates static dissipative belting and lagging. Lastly, to enhance safety during maintenance tasks performed at height, platforms are equipped with handrails, thereby minimizing the risk of falls or injuries.</p>
 			</div>
 		</div>
 	</div>
-	
 </main>
 
 <?php include '../footer.php';?>
-
-
 
 <div id="search-form-overlay" class="search-overlay hidden">
     <i class="fa-solid fa-circle-xmark icon-cancel" title="Close search bar"></i>
@@ -183,7 +173,7 @@ img.emoji {
         </form>
     </div>
 </div><div>
-	<link rel='stylesheet' id='elementor-post-42-css' href='../wp-content/uploads/elementor/css/post-42%EF%B9%96ver=1698954179.css' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-42-css' href='../wp-content/uploads/elementor/css/post-42%EF%B9%96ver=1698954179.css' type='text/css' media='all' />
 <link rel='stylesheet' id='elementor-post-165-css' href='../wp-content/uploads/elementor/css/post-165%EF%B9%96ver=1698862626.css' type='text/css' media='all' />
 <link rel='stylesheet' id='elementor-icons-css' href='../wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min%EF%B9%96ver=5.20.0.css' type='text/css' media='all' />
 <link rel='stylesheet' id='swiper-css' href='../wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min%EF%B9%96ver=8.4.5.css' type='text/css' media='all' />

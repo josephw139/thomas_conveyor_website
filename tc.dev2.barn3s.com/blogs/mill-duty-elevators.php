@@ -130,7 +130,8 @@ img.emoji {
 --wpforms-button-size-margin-top: 10px;
 
 				}
-			</style></head>
+			</style>
+</head>
 <body class="post-template-default single single-post postid-1269 single-format-standard elementor-default elementor-kit-5 elementor-page elementor-page-1269">
 	
 	<a class="screen-reader-text" href="#main">Skip to content</a>
@@ -139,17 +140,12 @@ img.emoji {
 
 <main class="site-main post-1269 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized" role="main" id="main">
 	<div class="post-banner">
-		<div class="blog-title">
-			Blog
-		</div>
+		<div class="blog-title">Blog</div>
 	</div>
 	<div class="main-post">
 		<div class="blog-top">
-			<h1>
-				Blog
-			</h1>
-			<p class="breadcrumbs"><a href="../index">Home</a> » <a href="../blog">Blog</a> » <a href="#" title="Mill Duty Elevators">Mill Duty Elevators</a>
-			</p>
+			<h1>Blog</h1>
+			<p class="breadcrumbs"><a href="../index">Home</a> » <a href="../blog">Blog</a> » <a href="#" title="Mill Duty Elevators">Mill Duty Elevators</a></p>
 		</div>
 		<div class="post-wrapper">
 			<div class="blog-post-thumbnail">
@@ -162,26 +158,24 @@ img.emoji {
 				</div>
 			</div>
 			<div class="page-content" style="flex: 2; padding: 75px 0px 0px 50px;">
-				<h3 style="color: #333333; padding-bottom: 30px;">
-					Mill Duty Elevators				</h3>
+				<h3 style="color: #333333; padding-bottom: 30px;">Mill Duty Elevators</h3>
 				<p>Our mill duty product line is based on a centrifugal style design. Due to the rough industrial environments that these elevators are used in our design offers heavy duty construction including buckets, belt, chain, bearings, &amp; casing.</p>
-<p>We provide AC style buckets for increased carrying capacities. AC style buckets use thicker walls &amp; a reinforced lip to handle heavier &amp; more abrasive products. These can be ductile iron or fabricated out of abrasion resistant plate.</p>
-<p>Mill duty elevators can be provided with either belt or chain. For belting we use a multi-ply polyester carcass belt with a heavy-duty rubber covering. For the chain option we provide a hardened steel bushed chain that provides increased wear resistance along with higher load capacities compared to standard elevator roller chains.</p>
-<p>This product line will use minimum ¼” thick plate for the head &amp; boot sections &amp; 3/16” thk intermediate sections. Along with the heavier casing we provide abrasion resistant liners in all areas of the housing that will see product contact.</p>
-<p>Although not limited to the cement industry, mill duty elevators were designed to meet the requirements of cement industry. One large area of concern with cement is dust &amp; leakage. To minimize escaping dust this elevator is provided with an internal gravity take up. This style take up is self-adjusting &amp; uses a boot shaft that is fully enclosed within the boot housing. Eliminating the need for a shaft seal.</p>
-<p><strong>Key Features:</strong></p>
-<ul>
-<li>Belt or chain operation</li>
-<li>Capacities up to 12,000 CFH</li>
-<li>Heavy construction for abrasive applications</li>
-<li>Commonly used in the following industries: Cement, gypsum, fertilizer, sand</li>
-</ul>
-<p><img decoding="async" class="alignnone size-medium wp-image-1270" src="../wp-content/uploads/2023/10/MillDutyIso-3-blog5-81x300.png" alt="" width="81" height="300" srcset="../wp-content/uploads/2023/10/MillDutyIso-3-blog5-81x300.png 81w, ../wp-content/uploads/2023/10/MillDutyIso-3-blog5-276x1024.png 276w, ../wp-content/uploads/2023/10/MillDutyIso-3-blog5.png 394w" sizes="(max-width: 81px) 100vw, 81px" /></p>
-<p>&nbsp;</p>
+				<p>We provide AC style buckets for increased carrying capacities. AC style buckets use thicker walls &amp; a reinforced lip to handle heavier &amp; more abrasive products. These can be ductile iron or fabricated out of abrasion resistant plate.</p>
+				<p>Mill duty elevators can be provided with either belt or chain. For belting we use a multi-ply polyester carcass belt with a heavy-duty rubber covering. For the chain option we provide a hardened steel bushed chain that provides increased wear resistance along with higher load capacities compared to standard elevator roller chains.</p>
+				<p>This product line will use minimum ¼” thick plate for the head &amp; boot sections &amp; 3/16” thk intermediate sections. Along with the heavier casing we provide abrasion resistant liners in all areas of the housing that will see product contact.</p>
+				<p>Although not limited to the cement industry, mill duty elevators were designed to meet the requirements of cement industry. One large area of concern with cement is dust &amp; leakage. To minimize escaping dust this elevator is provided with an internal gravity take up. This style take up is self-adjusting &amp; uses a boot shaft that is fully enclosed within the boot housing. Eliminating the need for a shaft seal.</p>
+				<p><strong>Key Features:</strong></p>
+				<ul>
+					<li>Belt or chain operation</li>
+					<li>Capacities up to 12,000 CFH</li>
+					<li>Heavy construction for abrasive applications</li>
+					<li>Commonly used in the following industries: Cement, gypsum, fertilizer, sand</li>
+				</ul>
+				<p><img decoding="async" class="alignnone size-medium wp-image-1270" src="../wp-content/uploads/2023/10/MillDutyIso-3-blog5-81x300.png" alt="" width="81" height="300" srcset="../wp-content/uploads/2023/10/MillDutyIso-3-blog5-81x300.png 81w, ../wp-content/uploads/2023/10/MillDutyIso-3-blog5-276x1024.png 276w, ../wp-content/uploads/2023/10/MillDutyIso-3-blog5.png 394w" sizes="(max-width: 81px) 100vw, 81px" /></p>
+				<p>&nbsp;</p>
 			</div>
 		</div>
 	</div>
-	
 </main>
 
 <?php include '../footer.php';?>

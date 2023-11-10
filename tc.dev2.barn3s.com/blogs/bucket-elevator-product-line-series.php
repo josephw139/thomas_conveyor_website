@@ -125,7 +125,8 @@ img.emoji {
 --wpforms-button-size-margin-top: 10px;
 
 				}
-			</style></head>
+			</style>
+</head>
 <body class="post-template-default single single-post postid-1282 single-format-standard elementor-default elementor-kit-5">
 	
 	<a class="screen-reader-text" href="#main">Skip to content</a>
@@ -140,11 +141,8 @@ img.emoji {
 	</div>
 	<div class="main-post">
 		<div class="blog-top">
-			<h1>
-				Blog
-			</h1>
-			<p class="breadcrumbs"><a href="../index">Home</a> » <a href="../blog">Blog</a> » <a href="#" title="Bucket Elevator Product Line Series">Bucket Elevator Product Line Series</a>
-			</p>
+			<h1>Blog</h1>
+			<p class="breadcrumbs"><a href="../index">Home</a> » <a href="../blog">Blog</a> » <a href="#" title="Bucket Elevator Product Line Series">Bucket Elevator Product Line Series</a></p>
 		</div>
 		<div class="post-wrapper">
 			<div class="blog-post-thumbnail">
@@ -157,10 +155,9 @@ img.emoji {
 				</div>
 			</div>
 			<div class="page-content" style="flex: 2; padding: 75px 0px 0px 50px;">
-				<h3 style="color: #333333; padding-bottom: 30px;">
-					Bucket Elevator Product Line Series				</h3>
+				<h3 style="color: #333333; padding-bottom: 30px;">Bucket Elevator Product Line Series</h3>
 				<p>Thomas designs &amp; manufactures various types of bucket elevators to handle most varieties of dry, free-flowing bulk materials. We offer both belt &amp; chain varieties between our centrifugal &amp; continuous style elevators between our standard duty, mill duty, super capacity, and highspeed grain style product line. We work alongside our reps &amp; customers to provide custom elevator solutions. So, while we offer over 150+ standard models with various combinations of casing sizes, buckets, belt, &amp; chain, each elevator we design &amp; sell is customized to meet our customers’ needs. We pride ourselves on being a “solutions” supplier by offering made to order conveyors and elevators with a wide range of customization options.</p>
-<p>In this series we will take an in-depth look at all of our standard models as well as the various options we can incorporate into our elevator product line.</p>
+				<p>In this series we will take an in-depth look at all of our standard models as well as the various options we can incorporate into our elevator product line.</p>
 			</div>
 		</div>
 	</div>

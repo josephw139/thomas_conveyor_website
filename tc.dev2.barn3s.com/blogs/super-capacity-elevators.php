@@ -134,17 +134,12 @@ img.emoji {
 
 <main class="site-main post-1264 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized" role="main" id="main">
 	<div class="post-banner">
-		<div class="blog-title">
-			Blog
-		</div>
+		<div class="blog-title">Blog</div>
 	</div>
 	<div class="main-post">
 		<div class="blog-top">
-			<h1>
-				Blog
-			</h1>
-			<p class="breadcrumbs"><a href="../index">Home</a> » <a href="../blog">Blog</a> » <a href="#" title="Super Capacity Elevators">Super Capacity Elevators</a>
-			</p>
+			<h1>Blog</h1>
+			<p class="breadcrumbs"><a href="../index">Home</a> » <a href="../blog">Blog</a> » <a href="#" title="Super Capacity Elevators">Super Capacity Elevators</a></p>
 		</div>
 		<div class="post-wrapper">
 			<div class="blog-post-thumbnail">
@@ -157,24 +152,22 @@ img.emoji {
 				</div>
 			</div>
 			<div class="page-content" style="flex: 2; padding: 75px 0px 0px 50px;">
-				<h3 style="color: #333333; padding-bottom: 30px;">
-					Super Capacity Elevators				</h3>
+				<h3 style="color: #333333; padding-bottom: 30px;">Super Capacity Elevators</h3>
 				<p>Super capacity elevators are continuous style elevators that are designed to move larger capacities compared to our standard continuous model. Along with the increased rate these elevators are made with heavy duty components including the buckets, chain, bearings, &amp; housing.</p>
-<p>This elevator uses an SC style bucket which is specific to this model elevator. The SC bucket is a robust fabricated steel bucket that attaches between two strands of hardened steel bushed chain. The dual strand of chain allows for increased loads &amp; higher capacities for handling materials with high bulk densities.</p>
-<p>This product line will use minimum ¼” thick plate for the head &amp; boot sections &amp; 3/16” thk intermediate sections. Along with the heavier casing we provide abrasion resistant liners in all areas of the housing that will see product contact.</p>
-<p>Similar to our mill duty product line, our super capacity elevator comes standard with an internal gravity take up, heavy duty housing construction, &amp; abrasion resistant liners in wear areas.</p>
-<p><strong>Key Features:</strong></p>
-<ul>
-<li>Chain only operation</li>
-<li>Capacities up to 16,500 CFH</li>
-<li>Ideal for the most highly abrasive materials</li>
-<li>Commonly used in the following industries: concrete, asphalt, mining, aggregate, fertilizer</li>
-</ul>
-<p><img decoding="async" class="size-medium wp-image-1266 alignleft" src="../wp-content/uploads/2023/10/SuperCapacityIso-blog6-90x300.png" alt="" width="90" height="300" srcset="../wp-content/uploads/2023/10/SuperCapacityIso-blog6-90x300.png 90w, ../wp-content/uploads/2023/10/SuperCapacityIso-blog6-307x1024.png 307w, ../wp-content/uploads/2023/10/SuperCapacityIso-blog6.png 448w" sizes="(max-width: 90px) 100vw, 90px" /></p>
+				<p>This elevator uses an SC style bucket which is specific to this model elevator. The SC bucket is a robust fabricated steel bucket that attaches between two strands of hardened steel bushed chain. The dual strand of chain allows for increased loads &amp; higher capacities for handling materials with high bulk densities.</p>
+				<p>This product line will use minimum ¼” thick plate for the head &amp; boot sections &amp; 3/16” thk intermediate sections. Along with the heavier casing we provide abrasion resistant liners in all areas of the housing that will see product contact.</p>
+				<p>Similar to our mill duty product line, our super capacity elevator comes standard with an internal gravity take up, heavy duty housing construction, &amp; abrasion resistant liners in wear areas.</p>
+				<p><strong>Key Features:</strong></p>
+				<ul>
+					<li>Chain only operation</li>
+					<li>Capacities up to 16,500 CFH</li>
+					<li>Ideal for the most highly abrasive materials</li>
+					<li>Commonly used in the following industries: concrete, asphalt, mining, aggregate, fertilizer</li>
+				</ul>
+				<p><img decoding="async" class="size-medium wp-image-1266 alignleft" src="../wp-content/uploads/2023/10/SuperCapacityIso-blog6-90x300.png" alt="" width="90" height="300" srcset="../wp-content/uploads/2023/10/SuperCapacityIso-blog6-90x300.png 90w, ../wp-content/uploads/2023/10/SuperCapacityIso-blog6-307x1024.png 307w, ../wp-content/uploads/2023/10/SuperCapacityIso-blog6.png 448w" sizes="(max-width: 90px) 100vw, 90px" /></p>
 			</div>
 		</div>
 	</div>
-	
 </main>
 
 	<?php include '../footer.php';?>
@@ -188,7 +181,7 @@ img.emoji {
         </form>
     </div>
 </div><div>
-	<link rel='stylesheet' id='elementor-post-42-css' href='../wp-content/uploads/elementor/css/post-42%EF%B9%96ver=1698954179.css' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-42-css' href='../wp-content/uploads/elementor/css/post-42%EF%B9%96ver=1698954179.css' type='text/css' media='all' />
 <link rel='stylesheet' id='elementor-post-165-css' href='../wp-content/uploads/elementor/css/post-165%EF%B9%96ver=1698862626.css' type='text/css' media='all' />
 <link rel='stylesheet' id='elementor-icons-css' href='../wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min%EF%B9%96ver=5.20.0.css' type='text/css' media='all' />
 <link rel='stylesheet' id='swiper-css' href='../wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min%EF%B9%96ver=8.4.5.css' type='text/css' media='all' />

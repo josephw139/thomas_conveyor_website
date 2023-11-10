@@ -125,7 +125,8 @@ img.emoji {
 --wpforms-button-size-margin-top: 10px;
 
 				}
-			</style></head>
+			</style>
+</head>
 <body class="post-template-default single single-post postid-1272 single-format-standard elementor-default elementor-kit-5">
 	
 	<a class="screen-reader-text" href="#main">Skip to content</a>
@@ -134,17 +135,12 @@ img.emoji {
 
 <main class="site-main post-1272 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized" role="main" id="main">
 	<div class="post-banner">
-		<div class="blog-title">
-			Blog
-		</div>
+		<div class="blog-title">Blog</div>
 	</div>
 	<div class="main-post">
 		<div class="blog-top">
-			<h1>
-				Blog
-			</h1>
-			<p class="breadcrumbs"><a href="../index">Home</a> » <a href="../blog">Blog</a> » <a href="#" title="Highspeed Grain Elevators">Highspeed Grain Elevators</a>
-			</p>
+			<h1>Blog</h1>
+			<p class="breadcrumbs"><a href="../index">Home</a> » <a href="../blog">Blog</a> » <a href="#" title="Highspeed Grain Elevators">Highspeed Grain Elevators</a></p>
 		</div>
 		<div class="post-wrapper">
 			<div class="blog-post-thumbnail">
@@ -157,28 +153,25 @@ img.emoji {
 				</div>
 			</div>
 			<div class="page-content" style="flex: 2; padding: 75px 0px 0px 50px;">
-				<h3 style="color: #333333; padding-bottom: 30px;">
-					Highspeed Grain Elevators				</h3>
+				<h3 style="color: #333333; padding-bottom: 30px;">Highspeed Grain Elevators</h3>
 				<p>Highspeed grain elevators are a type of centrifugal elevator. This model operates at even higher speeds than the standard centrifugal line. It also uses a unique “dual leg” design where the up-leg &amp; down-leg are separate chambers.</p>
-<p>As the name states, these elevators are primarily used for handling grain. Due to the highspeed operation these are used for handling lighter, non-abrasive materials. However, there are some special applications where these have been successfully used handling frac sand &amp; pebble lime. Because our elevator line is fully customizable we are able to make design considerations to accommodate non-standard requirements.</p>
-<p>A key advantage of the HSG product line is that they provide a relatively small foot print when compared to a standard duty centrifugal or continuous elevator rated for the same capacity. If space if of concern then a highspeed grain elevator may be worth considering.</p>
-<p><strong>Key Features:</strong></p>
-<ul>
-<li>Belt operation only</li>
-<li>Higher speeds</li>
-<li>Capacities up to 75,000 CFH</li>
-<li>Best used for lighter, free-flowing materials</li>
-<li>Commonly used in the following industries: agriculture, food</li>
-</ul>
-<p><img decoding="async" class="alignnone size-medium wp-image-1273" src="../wp-content/uploads/2023/10/HighSpeedGrain-4-blog4-74x300.png" alt="" width="74" height="300" srcset="../wp-content/uploads/2023/10/HighSpeedGrain-4-blog4-74x300.png 74w, ../wp-content/uploads/2023/10/HighSpeedGrain-4-blog4-252x1024.png 252w, ../wp-content/uploads/2023/10/HighSpeedGrain-4-blog4.png 347w" sizes="(max-width: 74px) 100vw, 74px" /></p>
+				<p>As the name states, these elevators are primarily used for handling grain. Due to the highspeed operation these are used for handling lighter, non-abrasive materials. However, there are some special applications where these have been successfully used handling frac sand &amp; pebble lime. Because our elevator line is fully customizable we are able to make design considerations to accommodate non-standard requirements.</p>
+				<p>A key advantage of the HSG product line is that they provide a relatively small foot print when compared to a standard duty centrifugal or continuous elevator rated for the same capacity. If space if of concern then a highspeed grain elevator may be worth considering.</p>
+				<p><strong>Key Features:</strong></p>
+				<ul>
+					<li>Belt operation only</li>
+					<li>Higher speeds</li>
+					<li>Capacities up to 75,000 CFH</li>
+					<li>Best used for lighter, free-flowing materials</li>
+					<li>Commonly used in the following industries: agriculture, food</li>
+				</ul>
+				<p><img decoding="async" class="alignnone size-medium wp-image-1273" src="../wp-content/uploads/2023/10/HighSpeedGrain-4-blog4-74x300.png" alt="" width="74" height="300" srcset="../wp-content/uploads/2023/10/HighSpeedGrain-4-blog4-74x300.png 74w, ../wp-content/uploads/2023/10/HighSpeedGrain-4-blog4-252x1024.png 252w, ../wp-content/uploads/2023/10/HighSpeedGrain-4-blog4.png 347w" sizes="(max-width: 74px) 100vw, 74px" /></p>
 			</div>
 		</div>
 	</div>
-	
 </main>
 
 <?php include '../footer.php';?>
-
 
 <div id="search-form-overlay" class="search-overlay hidden">
     <i class="fa-solid fa-circle-xmark icon-cancel" title="Close search bar"></i>

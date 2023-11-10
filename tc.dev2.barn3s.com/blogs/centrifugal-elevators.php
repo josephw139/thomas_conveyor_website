@@ -125,7 +125,8 @@ img.emoji {
 --wpforms-button-size-margin-top: 10px;
 
 				}
-			</style></head>
+			</style>
+</head>
 <body class="post-template-default single single-post postid-1275 single-format-standard elementor-default elementor-kit-5">
 	
 	<a class="screen-reader-text" href="#main">Skip to content</a>
@@ -134,17 +135,12 @@ img.emoji {
 
 <main class="site-main post-1275 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized" role="main" id="main">
 	<div class="post-banner">
-		<div class="blog-title">
-			Blog
-		</div>
+		<div class="blog-title">Blog</div>
 	</div>
 	<div class="main-post">
 		<div class="blog-top">
-			<h1>
-				Blog
-			</h1>
-			<p class="breadcrumbs"><a href="../index">Home</a> » <a href="../blog">Blog</a> » <a href="#" title="Centrifugal Elevators">Centrifugal Elevators</a>
-			</p>
+			<h1>Blog</h1>
+			<p class="breadcrumbs"><a href="../index">Home</a> » <a href="../blog">Blog</a> » <a href="#" title="Centrifugal Elevators">Centrifugal Elevators</a></p>
 		</div>
 		<div class="post-wrapper">
 			<div class="blog-post-thumbnail">
@@ -157,24 +153,22 @@ img.emoji {
 				</div>
 			</div>
 			<div class="page-content" style="flex: 2; padding: 75px 0px 0px 50px;">
-				<h3 style="color: #333333; padding-bottom: 30px;">
-					Centrifugal Elevators				</h3>
+				<h3 style="color: #333333; padding-bottom: 30px;">Centrifugal Elevators</h3>
 				<p>Centrifugal elevators operate at high speeds &amp; use centrifugal motion to “throw” material out of the buckets as they come around the head pulley or sprocket. The speed of the elevator is critical for proper bucket discharge with centrifugal elevators. If the belt/chain speed is too slow or too fast the buckets may not properly discharge which can result in “downlegging.” This is when material does not exit the discharge chute &amp; falls back to the boot on the downward side of the elevator.</p>
-<p>Due to the higher speeds there is more spillage at the inlet with this style of elevator. To compensate for the added spillage centrifugal elevators use “digger” buckets every 10th bucket space. These buckets have a slightly more pronounced lip that allows them to scoop spilled material from the boot housing. The digger buckets are typically made of a steel &amp; include a wear resistant lip.</p>
-<p>Centrifugal elevators can be used to move “lighter” abrasive materials. Due to the high speed “throwing” action in this style elevator, abrasion resistant liners can be added to the head, hood, &amp; discharge area to handle the added wear.</p>
-<p><strong>Key Features:</strong></p>
-<ul>
-<li>Belt or Chain operation</li>
-<li>Higher speeds</li>
-<li>Capacities up to 6,500 CFH</li>
-<li>Better for discharging material that interlocks or agglomerates</li>
-<li>Commonly used in the following industries: food, agriculture, petfood, wood products</li>
-</ul>
-<p><img decoding="async" fetchpriority="high" class="alignnone size-medium wp-image-1276" src="../wp-content/uploads/2023/10/CentChain-Rendering-1-blog3-267x300.png" alt="" width="267" height="300" srcset="../wp-content/uploads/2023/10/CentChain-Rendering-1-blog3-267x300.png 267w, ../wp-content/uploads/2023/10/CentChain-Rendering-1-blog3.png 741w" sizes="(max-width: 267px) 100vw, 267px" /></p>
+				<p>Due to the higher speeds there is more spillage at the inlet with this style of elevator. To compensate for the added spillage centrifugal elevators use “digger” buckets every 10th bucket space. These buckets have a slightly more pronounced lip that allows them to scoop spilled material from the boot housing. The digger buckets are typically made of a steel &amp; include a wear resistant lip.</p>
+				<p>Centrifugal elevators can be used to move “lighter” abrasive materials. Due to the high speed “throwing” action in this style elevator, abrasion resistant liners can be added to the head, hood, &amp; discharge area to handle the added wear.</p>
+				<p><strong>Key Features:</strong></p>
+				<ul>
+					<li>Belt or Chain operation</li>
+					<li>Higher speeds</li>
+					<li>Capacities up to 6,500 CFH</li>
+					<li>Better for discharging material that interlocks or agglomerates</li>
+					<li>Commonly used in the following industries: food, agriculture, petfood, wood products</li>
+				</ul>
+				<p><img decoding="async" fetchpriority="high" class="alignnone size-medium wp-image-1276" src="../wp-content/uploads/2023/10/CentChain-Rendering-1-blog3-267x300.png" alt="" width="267" height="300" srcset="../wp-content/uploads/2023/10/CentChain-Rendering-1-blog3-267x300.png 267w, ../wp-content/uploads/2023/10/CentChain-Rendering-1-blog3.png 741w" sizes="(max-width: 267px) 100vw, 267px" /></p>
 			</div>
 		</div>
 	</div>
-	
 </main>
 
 <?php include '../footer.php';?>
