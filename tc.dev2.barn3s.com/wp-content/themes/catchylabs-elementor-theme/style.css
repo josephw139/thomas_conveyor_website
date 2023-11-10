@@ -189,6 +189,7 @@ Text Domain: cl-elementor
 .breadcrumbs a {
 	font-size: 1.1rem;
 	font-family: 'Roboto', Sans-serif;
+	padding-right: 5px;
 }
 
 
