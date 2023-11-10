@@ -9,8 +9,8 @@ Enable SSL on http://www.thomasconveyor.com/
 Replace all instances of beta url across all files
 
 In VSCode, Edit > Replace in Files (in this order)
-* https://tc.dev2.barn3s.com/beta > https://www.thomasconveyor.com/
-* https://tc.dev2.barn3s.com > https://www.thomasconveyor.com/
+* https://tc.dev2.barn3s.com/beta > https://www.thomasconveyor.com
+* https://tc.dev2.barn3s.com > https://www.thomasconveyor.com
 
 
 ### Forms
