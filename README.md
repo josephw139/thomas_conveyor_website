@@ -54,3 +54,6 @@ CSS is applied to make the images rounded.
 
 * On the Blog page, each post is inside an ```<article>``` tag. Copy paste the article and modify as needed.
 
+
+### .htaccess
+Currently has a rule in place to remove the need for ".php" after page links in the URL
