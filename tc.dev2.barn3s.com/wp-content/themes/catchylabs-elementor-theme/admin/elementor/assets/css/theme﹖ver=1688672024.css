@@ -2,7 +2,7 @@
   Nav menu */
 
 .nav-menu .navbar {
-    float: none;
+    float: right;
     /*max-height: 0;
     overflow: hidden;*/
 }
