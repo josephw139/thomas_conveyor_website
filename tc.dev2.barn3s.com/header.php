@@ -21,7 +21,7 @@
                 <li id="menu-item-1550" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1550"><a href="industries">Industries</a></li>
                 <li id="menu-item-1552" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1552"><a href="support">Support</a></li>
                 <li id="menu-item-1554" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1554"><a href="online-catalog">Online Catalog</a></li>
-                <li id="menu-item-1555" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1555"><a href="https://www.martinsprocket.com/view/companypage/contact-us/request-a-quote">Request Quote</a></li>
+                <li id="menu-item-1555" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1555"><a href="request-quote">Request Quote</a></li>
             </ul>
         </div>		
     </div>
@@ -66,7 +66,7 @@
                                         <div class="elementor-element elementor-element-3fb8a22 elementor-widget elementor-widget-button" data-id="3fb8a22" data-element_type="widget" data-widget_type="button.default">
                                             <div class="elementor-widget-container">
                                                 <div class="elementor-button-wrapper">
-                                                    <a class="elementor-button elementor-button-link elementor-size-sm" href="https://www.martinsprocket.com/view/companypage/contact-us/request-a-quote">
+                                                    <a class="elementor-button elementor-button-link elementor-size-sm" href="request-quote">
                                                         <span class="elementor-button-content-wrapper">
                                                             <span class="elementor-button-text">Request Quote</span>
                                                         </span>

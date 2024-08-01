@@ -2,12 +2,12 @@
 <html lang="en-US">
 <head>
 	<meta charset="UTF-8">
-		<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="profile" href="http://gmpg.org/xfn/11">
 	
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,300;1,300&amp;family=Roboto:ital,wght@0,300;0,500;1,300;1,500&amp;display=swap" rel="stylesheet">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,300;1,300&amp;family=Roboto:ital,wght@0,300;0,500;1,300;1,500&amp;display=swap" rel="stylesheet">
 
 	<title>Home - Thomas Conveyor &amp; Equipment</title>
     <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
@@ -158,7 +158,7 @@ img.emoji {
 													<div class="elementor-shortcode">
 														<span class="cl-arrow-button left  ">
 															<a class=""
-																	href="https://www.martinsprocket.com/view/companypage/contact-us/request-a-quote"
+																	href="/request-quote"
 																	title="Request Quote"
 																	target="_self"
 																		>

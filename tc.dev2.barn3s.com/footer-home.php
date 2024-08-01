@@ -37,7 +37,7 @@
 								<div class="nav-menu nav-menu-">
 									<nav class="navbar ">
 										<ul class="menu line">
-											<li id="menu-item-13" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13"><a target="_blank" rel="noopener" href="https://www.martinsprocket.com/view/companypage/contact-us/request-a-quote">Request Quote</a></li>
+											<li id="menu-item-13" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13"><a target="_blank" rel="noopener" href="/request-quote">Request Quote</a></li>
 											<li id="menu-item-1422" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1422"><a href="https://tc.dev2.barn3s.com/online-catalog">Online Catalog</a></li>
 											<li id="menu-item-1421" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1421"><a href="https://tc.dev2.barn3s.com/contact">Contact</a></li>
 										</ul>

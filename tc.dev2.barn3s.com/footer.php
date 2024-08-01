@@ -6,7 +6,7 @@
 					<div class="elementor-widget-wrap elementor-element-populated">
 						<div class="elementor-element elementor-element-71bf45b elementor-widget elementor-widget-image" data-id="71bf45b" data-element_type="widget" data-widget_type="image.default">
 							<div class="elementor-widget-container">
-								<a href="https://www.martinsprocket.com/view/companypage/contact-us/request-a-quote">
+								<a href="request-quote">
 									<img width="800" height="611" src="https://tc.dev2.barn3s.com/beta/wp-content/uploads/2023/09/Request-a-Quote.svg" class="attachment-large size-large wp-image-169" alt="" loading="lazy" />
 								</a>
 							</div>
@@ -40,7 +40,7 @@
 								<div class="nav-menu nav-menu-">
 									<nav class="navbar ">
 										<ul class="menu line">
-											<li id="menu-item-13" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13"><a target="_blank" rel="noopener" href="https://www.martinsprocket.com/view/companypage/contact-us/request-a-quote">Request Quote</a></li>
+											<li id="menu-item-13" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13"><a target="_blank" rel="noopener" href="request-quote">Request Quote</a></li>
 											<li id="menu-item-1422" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1422"><a href="https://tc.dev2.barn3s.com/beta/online-catalog">Online Catalog</a></li>
 											<li id="menu-item-1421" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1421"><a href="https://tc.dev2.barn3s.com/beta/contact">Contact</a></li>
 										</ul>
