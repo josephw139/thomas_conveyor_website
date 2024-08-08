@@ -106,11 +106,11 @@
                         }
     </style>
     <link rel='stylesheet' id='yoast-seo-adminbar-css' href='/wp-content/plugins/wordpress-seo/css/dist/adminbar-20110.css' type='text/css' media='all' />
-    <link rel='stylesheet' id='elementor-frontend-css' href='/wp-content/uploads/elementor/css/custom-frontend-lite.min.css?ver=1698856260' type='text/css' media='all' />
+    <link rel='stylesheet' id='elementor-frontend-css' href='/wp-content/uploads/elementor/css/custom-frontend-lite.min.css' type='text/css' media='all' />
     <link rel='stylesheet' id='swiper-css' href='/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5' type='text/css' media='all' />
-    <link rel='stylesheet' id='elementor-post-5-css' href='/wp-content/uploads/elementor/css/post-5.css?ver=1698856260' type='text/css' media='all' />
-    <link rel='stylesheet' id='elementor-global-css' href='/wp-content/uploads/elementor/css/global.css?ver=1698856260' type='text/css' media='all' />
-    <link rel='stylesheet' id='elementor-post-1860-css' href='/wp-content/uploads/elementor/css/post-1860.css?ver=1715613053' type='text/css' media='all' />
+    <link rel='stylesheet' id='elementor-post-5-css' href='/wp-content/uploads/elementor/css/post-5.css' type='text/css' media='all' />
+    <link rel='stylesheet' id='elementor-global-css' href='/wp-content/uploads/elementor/css/global.css' type='text/css' media='all' />
+    <link rel='stylesheet' id='elementor-post-1860-css' href='/wp-content/uploads/elementor/css/post-1860.css' type='text/css' media='all' />
     <link rel='stylesheet' id='eael-general-css' href='/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/css/view/general.min.css?ver=5.8.13' type='text/css' media='all' />
     <link rel='stylesheet' id='google-fonts-1-css' href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=swap&#038;ver=6.6.1' type='text/css' media='all' />
     <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js?ver=6.6.1" id="jquery-js"></script>

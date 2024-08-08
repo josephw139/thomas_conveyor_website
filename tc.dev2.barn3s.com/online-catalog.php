@@ -79,7 +79,7 @@ img.emoji {
 <link rel='stylesheet' id='cl_sitemap-css' href='./wp-content/themes/catchylabs-elementor-theme/assets/css/sitemap.css' type='text/css' media='' />
 <link rel='stylesheet' id='cl_styles-css' href='./wp-content/themes/catchylabs-elementor-theme/style.css' type='text/css' media='' />
 <link rel='stylesheet' id='cl_mobile-css' href='./wp-content/themes/catchylabs-elementor-theme/assets/css/mobile.css' type='text/css' media='all and (max-width: 1024px)' />
-<link rel='stylesheet' id='elementor-frontend-css' href='./wp-content/uploads/elementor/css/custom-frontend-lite.min%EF%B9%96ver=1698856260.css' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css' href='./wp-content/uploads/elementor/css/custom-frontend-lite.min.css' type='text/css' media='all' />
 <link rel='stylesheet' id='eael-general-css' href='./wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/css/view/general.min%EF%B9%96ver=5.8.13.css' type='text/css' media='all' />
 <link rel='stylesheet' id='eael-1147-css' href='./wp-content/uploads/essential-addons-elementor/eael-1147%EF%B9%96ver=1698856438.css' type='text/css' media='all' />
 <link rel='stylesheet' id='elementor-icons-css' href='./wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min%EF%B9%96ver=5.20.0.css' type='text/css' media='all' />
@@ -116,9 +116,9 @@ img.emoji {
         }
 </style>
 <link rel='stylesheet' id='swiper-css' href='./wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min%EF%B9%96ver=8.4.5.css' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-post-5-css' href='./wp-content/uploads/elementor/css/post-5%EF%B9%96ver=1698856260.css' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-global-css' href='./wp-content/uploads/elementor/css/global%EF%B9%96ver=1698856260.css' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-post-1147-css' href='./wp-content/uploads/elementor/css/post-1147%EF%B9%96ver=1698856441.css' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-5-css' href='./wp-content/uploads/elementor/css/post-5.css' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-global-css' href='./wp-content/uploads/elementor/css/global.css' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-1147-css' href='./wp-content/uploads/elementor/css/post-1147.css' type='text/css' media='all' />
 <link rel='stylesheet' id='google-fonts-1-css' href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;display=swap&amp;ver=6.3.2' type='text/css' media='all' />
 <link rel='stylesheet' id='elementor-icons-shared-0-css' href='./wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min%EF%B9%96ver=5.15.3.css' type='text/css' media='all' />
 <link rel='stylesheet' id='elementor-icons-fa-solid-css' href='./wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min%EF%B9%96ver=5.15.3.css' type='text/css' media='all' />
@@ -1003,8 +1003,8 @@ img.emoji {
         </form>
     </div>
 </div><div>
-	<link rel='stylesheet' id='elementor-post-42-css' href='./wp-content/uploads/elementor/css/post-42%EF%B9%96ver=1698954179.css' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-post-165-css' href='./wp-content/uploads/elementor/css/post-165%EF%B9%96ver=1698862626.css' type='text/css' media='all' />
+	<link rel='stylesheet' id='elementor-post-42-css' href='./wp-content/uploads/elementor/css/post-42.css' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-165-css' href='./wp-content/uploads/elementor/css/post-165.css' type='text/css' media='all' />
 <link rel='stylesheet' id='elementor-icons-fa-brands-css' href='./wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min%EF%B9%96ver=5.15.3.css' type='text/css' media='all' />
 <script type='text/javascript' src='./wp-content/themes/catchylabs-elementor-theme/admin/elementor/assets/js/slick-js/slick.min%EF%B9%96ver=6.3.2.js' id='cl_elementor-slick-js'></script>
 <script type='text/javascript' src='./wp-content/themes/catchylabs-elementor-theme/admin/elementor/assets/js/theme%EF%B9%96ver=1688672024.js' id='cl_elementor-theme-js'></script>

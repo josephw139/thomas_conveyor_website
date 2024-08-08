@@ -81,11 +81,11 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
                 <link href="./wp-content/themes/catchylabs-elementor-theme/style.css" id="cl_styles-css" media="" rel="stylesheet" type="text/css"/>
                 <link href="./wp-content/themes/catchylabs-elementor-theme/assets/css/mobile.css" id="cl_mobile-css" media="all and (max-width: 1024px)" rel="stylesheet" type="text/css"/>
                 <link href="./wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min%EF%B9%96ver=5.20.0.css" id="elementor-icons-css" media="all" rel="stylesheet" type="text/css"/>
-                <link href="./wp-content/uploads/elementor/css/custom-frontend-lite.min%EF%B9%96ver=1698856260.css" id="elementor-frontend-css" media="all" rel="stylesheet" type="text/css"/>
+                <link href="./wp-content/uploads/elementor/css/custom-frontend-lite.min.css" id="elementor-frontend-css" media="all" rel="stylesheet" type="text/css"/>
                 <link href="./wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min%EF%B9%96ver=8.4.5.css" id="swiper-css" media="all" rel="stylesheet" type="text/css"/>
-                <link href="./wp-content/uploads/elementor/css/post-5%EF%B9%96ver=1698856260.css" id="elementor-post-5-css" media="all" rel="stylesheet" type="text/css"/>
-                <link href="./wp-content/uploads/elementor/css/global%EF%B9%96ver=1698856260.css" id="elementor-global-css" media="all" rel="stylesheet" type="text/css"/>
-                <link href="./wp-content/uploads/elementor/css/post-157%EF%B9%96ver=1698862559.css" id="elementor-post-157-css" media="all" rel="stylesheet" type="text/css"/>
+                <link href="./wp-content/uploads/elementor/css/post-5.css" id="elementor-post-5-css" media="all" rel="stylesheet" type="text/css"/>
+                <link href="./wp-content/uploads/elementor/css/global.css" id="elementor-global-css" media="all" rel="stylesheet" type="text/css"/>
+                <link href="./wp-content/uploads/elementor/css/post-157.css" id="elementor-post-157-css" media="all" rel="stylesheet" type="text/css"/>
                 <link href="./wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/css/view/general.min%EF%B9%96ver=5.8.13.css" id="eael-general-css" media="all" rel="stylesheet" type="text/css"/>
                 <link href="https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;display=swap&amp;ver=6.3.2" id="google-fonts-1-css" media="all" rel="stylesheet" type="text/css"/>
                 <link crossorigin="" href="https://fonts.gstatic.com/" rel="preconnect"/>
@@ -308,8 +308,8 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </div>
     </div>
     <div>
-    <link href="./wp-content/uploads/elementor/css/post-42%EF%B9%96ver=1698954179.css" id="elementor-post-42-css" media="all" rel="stylesheet" type="text/css"/>
-    <link href="./wp-content/uploads/elementor/css/post-165%EF%B9%96ver=1698862626.css" id="elementor-post-165-css" media="all" rel="stylesheet" type="text/css"/>
+    <link href="./wp-content/uploads/elementor/css/post-42.css" id="elementor-post-42-css" media="all" rel="stylesheet" type="text/css"/>
+    <link href="./wp-content/uploads/elementor/css/post-165.css" id="elementor-post-165-css" media="all" rel="stylesheet" type="text/css"/>
     <link href="./wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min%EF%B9%96ver=5.15.3.css" id="elementor-icons-shared-0-css" media="all" rel="stylesheet" type="text/css"/>
     <link href="./wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min%EF%B9%96ver=5.15.3.css" id="elementor-icons-fa-solid-css" media="all" rel="stylesheet" type="text/css"/>
     <link href="./wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min%EF%B9%96ver=5.15.3.css" id="elementor-icons-fa-brands-css" media="all" rel="stylesheet" type="text/css"/>
